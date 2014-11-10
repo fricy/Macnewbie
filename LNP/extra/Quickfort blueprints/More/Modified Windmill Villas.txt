@@ -1,0 +1,35 @@
+
+BigD145
+Re: [Quickfort] Version 2.00pre3 released
+http://www.bay12forums.com/smf/index.php?topic=35931.240;topicseen
+« Reply #251 on: Today at 06:43:57 pm »
+
+Just a little bump with content. Would someone with an account add this to the community blueprints?
+
+Modified Windmill Villas
+28 rooms
+Code: [Select]
+#dig start(11;11)
+,,,,,,d,,,,,,d,,,,,,,,,
+,,,,,,d,,,,,,d,,,,,,,,,
+,,,,d,,d,,d,,d,,d,,d,,,,,,,
+,,,,d,,d,,d,,d,,d,,d,,,,,,,
+,,,,d,d,d,d,d,,d,d,d,,d,,d,d,d,,,
+,,,,,,d,,,,,,d,d,,,d,,,,,
+,,d,d,d,,d,,d,d,d,,d,d,d,d,d,d,d,d,d,
+,,,,,d,d,,,,d,,d,,,,d,,,,,
+d,d,d,d,d,d,d,d,d,d,d,d,d,,d,,d,d,d,,,
+,,,,d,,,,d,d,d,d,d,,d,,,,,,,
+,,d,d,d,,d,d,d,d,i,d,d,d,d,,d,d,d,,,
+,,,,,,d,,d,d,d,d,d,,,,d,,,,,
+,,d,d,d,,d,,d,d,d,d,d,d,d,d,d,d,d,d,d,
+,,,,d,,,,d,,d,,,,d,d,,,,,,
+d,d,d,d,d,d,d,d,d,,d,d,d,,d,,d,d,d,,,
+,,,,d,,,d,d,,,,,,d,,,,,,,
+,,d,d,d,,d,,d,d,d,,d,d,d,d,d,,,,,
+,,,,,,d,,d,,d,,d,,d,,d,,,,,
+,,,,,,d,,d,,d,,d,,d,,d,,,,,
+,,,,,,,,d,,,,,,d,,,,,,,
+,,,,,,,,d,,,,,,d,,,,,,,
+
+This has a central single up/down stair tile that has room for a 3x3 shaft. I don't usually do 3x3.

@@ -1,0 +1,268 @@
+###########################
+# Globally acting plugins #
+###########################
+
+# the dfhack tab now runs through "onLoadWorld.init"
+
+# Dwarf Manipulator (simple in-game Dwarf Therapist replacement)
+ enable manipulator
+
+# Falconne's interface improvement tools
+ enable mousequery autotrade buildingplan resume zone automaterial search stocks automelt autochop dwarfmonitor
+
+#show a coloured X over suspended constructions when paused, see http://www.bay12forums.com/smf/index.php?topic=122395.0
+resume show
+
+###Mousequery Plugin - I strongly recomend enabling all of these features for true mouse support 
+
+# live view when unpaused too
+mousequery live enable
+
+# mousequery edge scrolling, cursor tracking
+#mousequery track enable
+
+# always edge scroll, even without cursor
+#mousequery edge enable
+
+# Auto Syndrome - only for mods
+#autoSyndrome enable
+
+# allow the fortress bookkeeper to queue jobs through the manager
+stockflow enable
+
+#lethosor's GUI scripts from here
+load-screen enable
+
+#replacement options menu
+#options-menu enable
+
+#settings-manager: An in-game init file editor
+keybinding add Alt-S@title settings-manager
+keybinding add Alt-S@dwarfmode/Default settings-manager
+
+#display dfhack version in right corner
+title-version enable
+
+#Embark anywhere, nanoembark, etc.
+embark-tools enable sand sticky nano
+#embark-tools anywhere
+#embark-tools nano
+
+#Plugin for setting trackstop friction, direction after build
+enable trackstop
+
+##############################
+# Generic dwarfmode bindings #
+##############################
+
+#view unit information, see http://dffd.wimbli.com/file.php?id=7717
+keybinding add Shift-I "gui/unit-info-viewer"
+
+# output a description screen to a text file formatted for posting in a forum
+keybinding add Ctrl-Shift-F forumdwarves
+keybinding add Ctrl-Shift-M markdown
+
+# toggle the display of water level as 1-7 tiles
+keybinding add Ctrl-W twaterlvl
+
+# with cursor:
+
+# designate the whole vein for digging
+keybinding add Ctrl-V digv
+keybinding add Ctrl-Shift-V "digv x"
+
+# clean the selected tile of blood etc
+keybinding add Ctrl-C spotclean
+
+# destroy items designated for dump in the selected tile
+keybinding add Ctrl-Shift-K autodump-destroy-here
+
+# with an item selected:
+
+# destroy the selected item
+keybinding add Ctrl-K autodump-destroy-item
+
+# scripts:
+
+# quicksave, only in main dwarfmode screen and menu page
+keybinding add Ctrl-Alt-S@dwarfmode/Default quicksave
+
+# gui/rename script - rename units and buildings
+keybinding add Ctrl-Shift-N gui/rename
+keybinding add Ctrl-Shift-T "gui/rename unit-profession"
+
+# a dfhack prompt in df. Sublime text like.
+keybinding add Ctrl-Shift-P command-prompt
+
+##############################
+# Generic adv mode bindings  #
+##############################
+
+keybinding add Ctrl-B adv-bodyswap
+keybinding add Ctrl-Shift-B "adv-bodyswap force"
+
+##############################
+# Generic legends bindings   #
+##############################
+
+# export all information, or just the detailed maps (doesn't handle site maps)
+keybinding add Ctrl-A@legends "exportlegends all"
+keybinding add Ctrl-D@legends "exportlegends maps"
+
+#############################
+# Context-specific bindings #
+#############################
+
+#Dwarf Monitor
+#dwarfmonitor enable all
+keybinding add Ctrl-F@dwarfmode/Default "dwarfmonitor stats"
+keybinding add Alt-M@dwarfmode/Default "dwarfmonitor prefs"
+
+# Stocks plugin
+keybinding add Alt-Z@dwarfmode/Default "stocks show"
+keybinding add Z@overallstatus "stocks show"
+
+#export all legends maps - having x alone means that exporting legends xml will also do detailed maps, so you only need to press p,a,then wait.
+keybinding add Alt-X@legends exportmaps
+keybinding add Shift-D@legends exportmaps
+
+# open an overview window summarising some stocks (dfstatus)
+keybinding add Ctrl-Shift-I@dwarfmode/Default "gui/dfstatus"
+
+#Allows easier management of pens/pastures, pits and cages, set zone under cursor as default for future assigns.
+keybinding add Alt-Shift-I@dwarfmode/Zones "zone set"
+
+# q->stockpile; p - copy & paste stockpiles
+keybinding add Ctrl-P copystock
+
+# q->workshop - duplicate the selected job
+keybinding add Ctrl-D job-duplicate
+
+# materials: q->workshop; b->select items
+keybinding add Shift-A "job-material ALUNITE"
+keybinding add Shift-M "job-material MICROCLINE"
+keybinding add Shift-D "job-material DACITE"
+keybinding add Shift-R "job-material RHYOLITE"
+keybinding add Shift-I "job-material CINNABAR"
+keybinding add Shift-B "job-material COBALTITE"
+keybinding add Shift-O "job-material OBSIDIAN"
+keybinding add Shift-T "job-material ORTHOCLASE"
+keybinding add Shift-G "job-material GLASS_GREEN"
+
+# sort units and items in the on-screen list
+keybinding add Alt-Shift-N "sort-units name" "sort-items description"
+keybinding add Alt-Shift-R "sort-units arrival"
+keybinding add Alt-Shift-T "sort-units profession" "sort-items type material"
+keybinding add Alt-Shift-Q "sort-units squad_position" "sort-items quality"
+
+# browse linked mechanisms
+keybinding add Ctrl-M@dwarfmode/QueryBuilding/Some gui/mechanisms
+
+# browse rooms of same owner
+keybinding add Alt-R@dwarfmode/QueryBuilding/Some gui/room-list
+
+# interface for the liquids plugin - spawn water/magma/obsidian
+keybinding add Alt-L@dwarfmode/LookAround gui/liquids
+
+# machine power sensitive pressure plate construction
+keybinding add Ctrl-Shift-M@dwarfmode/Build/Position/Trap gui/power-meter
+
+# siege engine control
+keybinding add Alt-A@dwarfmode/QueryBuilding/Some/SiegeEngine gui/siege-engine
+
+# military weapon auto-select
+keybinding add Ctrl-W@layer_military/Equip/Customize/View gui/choose-weapons
+
+# military copy uniform
+keybinding add Ctrl-C@layer_military/Uniforms gui/clone-uniform
+
+# minecart Guide path
+keybinding add Alt-P@dwarfmode/Hauling/DefineStop/Cond/Guide gui/guide-path
+
+# workshop job details
+keybinding add Alt-A@dwarfmode/QueryBuilding/Some/Workshop/Job gui/workshop-job
+
+# workflow front-end
+keybinding add Alt-W@dwarfmode/QueryBuilding/Some/Workshop/Job gui/workflow
+keybinding add Alt-W@overallstatus "gui/workflow status"
+
+# autobutcher front-end
+keybinding add Shift-B@pet/List/Unit "gui/autobutcher"
+
+# assign weapon racks to squads so that they can be used
+keybinding add P@dwarfmode/QueryBuilding/Some/Weaponrack gui/assign-rack
+
+ #see what hotkeys are available - so you only need to remember one
+keybinding add Ctrl-H "hotkeys"
+
+############################
+# UI and game logic tweaks #
+############################
+
+# stabilize the cursor of dwarfmode when switching menus
+tweak stable-cursor
+
+# make reactions requiring containers usable in advmode - the issue is
+# that the screen asks for those reagents to be selected directly
+tweak advmode-contained
+
+# support Shift-Enter in Trade and Move Goods to Depot screens for faster
+# selection; it selects the current item or stack and scrolls down one line
+tweak fast-trade
+
+# stop the right list in military->positions from resetting to top all the time
+tweak military-stable-assign
+# in same list, color units already assigned to squads in brown & green
+tweak military-color-assigned
+
+# make crafted cloth items wear out with time like in old versions (bug 6003)
+tweak craft-age-wear
+
+# stop adamantine clothing from wearing out (bug 6481)
+tweak adamantine-cloth-wear
+
+# Adds "Select all" and "Deselect all" options to farm plot menus
+tweak farm-plot-select
+
+#Allows changing the priority of all goods in a category when discussing an import agreement with the liaison
+tweak import-priority-category
+
+#Removes the limit of 30 jobs per manager order
+tweak manager-quantity
+
+#Fixes overlapping text on the "view agreement" screen
+tweak civ-view-agreement
+
+#Fixes the color of built nestboxes
+tweak nestbox-color
+
+###########
+# Scripts #
+###########
+
+# write the correct season to gamelog on world load
+soundsense
+#soundsense-season
+
+# write identifying information about the fort to gamelog on world load
+log-region
+
+#TWBT plugin settings
+multilevel 5
+keybinding add Ctrl-G@dwarfmode "twbt tilesize smaller"
+keybinding add Ctrl-H@dwarfmode "twbt tilesize bigger"
+
+#TWBT plugin defaults
+#multilevel fogdensity 0.15 0 1
+#multilevel fogcolor 0.1 0.1 0.3
+#multilevel shadowcolor 0 0 0 0.4
+
+#############################
+#nothing to see here
+
+# Add workflow presets to saves - needs more work
+#:lua dfhack.onStateChange.onLoadWorflowPresets = function(state) if state == SC_WORLD_LOADED then dfhack.run_command('workflow-settings') end end
+
+#######################################################
+# Apply binary patches at runtime                     #
+#######################################################

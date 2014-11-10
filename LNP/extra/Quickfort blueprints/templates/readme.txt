@@ -1,0 +1,1 @@
+This a package of the bedroom designs from the wiki (http://dwarf.lendemaindeveille.com/index.php/Bedroom_design). They were converted from images using the included python script. The script was tweaked for each image (tile size and 'd' colors mostly) and then the resulting csv files were touched up slightly.

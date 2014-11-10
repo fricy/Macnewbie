@@ -1,0 +1,16 @@
+ #dig start(8;8;Center tile) 15-tile circle
+           d d d d d           #
+       d d d d d d d d d       #
+     d d d d d d d d d d d     #
+   d d d d d d d d d d d d d   #
+   d d d d d d d d d d d d d   #
+ d d d d d d d d d d d d d d d #
+ d d d d d d d d d d d d d d d #
+ d d d d d d d d d d d d d d d #
+ d d d d d d d d d d d d d d d #
+ d d d d d d d d d d d d d d d #
+   d d d d d d d d d d d d d   #
+   d d d d d d d d d d d d d   #
+     d d d d d d d d d d d     #
+       d d d d d d d d d       #
+           d d d d d           #

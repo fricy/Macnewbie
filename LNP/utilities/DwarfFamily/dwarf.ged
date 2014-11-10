@@ -1,0 +1,11407 @@
+0 @F33@ FAM
+1 HUSB @I33@
+1 WIFE @I34@
+1 CHIL @I93@
+1 CHIL @I98@
+1 CHIL @I108@
+1 CHIL @I110@
+1 CHIL @I115@
+
+0 @F40@ FAM
+1 HUSB @I40@
+1 WIFE @I35@
+1 CHIL @I85@
+1 CHIL @I87@
+1 CHIL @I94@
+1 CHIL @I116@
+1 CHIL @I125@
+
+0 @F41@ FAM
+1 HUSB @I41@
+1 WIFE @I36@
+1 CHIL @I88@
+1 CHIL @I99@
+1 CHIL @I114@
+1 CHIL @I118@
+1 CHIL @I124@
+
+0 @F87@ FAM
+1 HUSB @I87@
+1 WIFE @I110@
+
+0 @I28@ INDI
+1 NAME id cobaltsteel
+1 SEX F
+1 BIRT
+2 DATE 1 Granite -1
+1 DEAT
+2 DATE alive
+
+0 @I29@ INDI
+1 NAME kulet hallwall the sienna trade
+1 SEX M
+1 BIRT
+2 DATE 1 Granite -1
+1 DEAT
+2 DATE alive
+
+0 @I30@ INDI
+1 NAME laltur the healing safety
+1 SEX M
+1 BIRT
+2 DATE 1 Granite -1
+1 DEAT
+2 DATE alive
+
+0 @I31@ INDI
+1 NAME tosid
+1 SEX F
+1 BIRT
+2 DATE 1 Granite -1
+1 DEAT
+2 DATE alive
+
+0 @I32@ INDI
+1 NAME kat mightypages
+1 SEX F
+1 BIRT
+2 DATE 1 Granite -1
+1 DEAT
+2 DATE alive
+
+0 @I33@ INDI
+1 NAME udib laudedhammers
+1 SEX M
+1 BIRT
+2 DATE 1 Granite -84
+1 DEAT
+2 DATE alive
+
+0 @I34@ INDI
+1 NAME athel ringwork
+1 SEX F
+1 BIRT
+2 DATE 1 Granite -84
+1 DEAT
+2 DATE alive
+
+0 @I35@ INDI
+1 NAME shorast channeledtraded
+1 SEX F
+1 BIRT
+2 DATE 1 Granite -51
+1 DEAT
+2 DATE alive
+
+0 @I36@ INDI
+1 NAME fath sealances the bear of denting
+1 SEX F
+1 BIRT
+2 DATE 1 Granite -63
+1 DEAT
+2 DATE alive
+
+0 @I38@ INDI
+1 NAME onul certainnets
+1 SEX F
+1 BIRT
+2 DATE 1 Granite -56
+1 DEAT
+2 DATE alive
+
+0 @I39@ INDI
+1 NAME medtob daggeriron
+1 SEX F
+1 BIRT
+2 DATE 1 Granite -50
+1 DEAT
+2 DATE alive
+
+0 @I40@ INDI
+1 NAME asen ritetraded
+1 SEX M
+1 BIRT
+2 DATE 1 Granite -51
+1 DEAT
+2 DATE alive
+
+0 @I41@ INDI
+1 NAME lor pillarbeak
+1 SEX M
+1 BIRT
+2 DATE 1 Granite -57
+1 DEAT
+2 DATE alive
+
+0 @I85@ INDI
+1 NAME obok archflags
+1 SEX F
+1 BIRT
+2 DATE 17 Sandstone 2
+1 DEAT
+2 DATE alive
+
+0 @I87@ INDI
+1 NAME zulban canyonfury
+1 SEX M
+1 BIRT
+2 DATE 7 Moonstone 3
+1 DEAT
+2 DATE alive
+
+0 @I88@ INDI
+1 NAME doren citydye
+1 SEX M
+1 BIRT
+2 DATE 18 Moonstone 3
+1 DEAT
+2 DATE alive
+
+0 @I93@ INDI
+1 NAME cog paststockade
+1 SEX M
+1 BIRT
+2 DATE 15 Galena 4
+1 DEAT
+2 DATE alive
+
+0 @I94@ INDI
+1 NAME ezum lashrule
+1 SEX F
+1 BIRT
+2 DATE 15 Obsidian 4
+1 DEAT
+2 DATE alive
+
+0 @I98@ INDI
+1 NAME oddom staffperplexed
+1 SEX M
+1 BIRT
+2 DATE 18 Obsidian 5
+1 DEAT
+2 DATE alive
+
+0 @I99@ INDI
+1 NAME olon swallowchannel
+1 SEX M
+1 BIRT
+2 DATE 7 Sandstone 5
+1 DEAT
+2 DATE alive
+
+0 @I108@ INDI
+1 NAME edem ironlauded
+1 SEX F
+1 BIRT
+2 DATE 6 Felsite 7
+1 DEAT
+2 DATE alive
+
+0 @I110@ INDI
+1 NAME domas cityarmors
+1 SEX F
+1 BIRT
+2 DATE 24 Obsidian 8
+1 DEAT
+2 DATE alive
+
+0 @I114@ INDI
+1 NAME erib depthcrafts
+1 SEX F
+1 BIRT
+2 DATE 16 Obsidian 9
+1 DEAT
+2 DATE alive
+
+0 @I115@ INDI
+1 NAME geshud stanceshot the autumnal lobster
+1 SEX F
+1 BIRT
+2 DATE 14 Opal 9
+1 DEAT
+2 DATE alive
+
+0 @I116@ INDI
+1 NAME reg mergedship
+1 SEX F
+1 BIRT
+2 DATE 11 Galena 9
+1 DEAT
+2 DATE alive
+
+0 @I118@ INDI
+1 NAME obok lancetrue
+1 SEX F
+1 BIRT
+2 DATE 25 Moonstone 10
+1 DEAT
+2 DATE alive
+
+0 @I124@ INDI
+1 NAME urdim bannerwax
+1 SEX M
+1 BIRT
+2 DATE 18 Slate 12
+1 DEAT
+2 DATE alive
+
+0 @I125@ INDI
+1 NAME bomrek hopefulpages
+1 SEX M
+1 BIRT
+2 DATE 19 Granite 12
+1 DEAT
+2 DATE alive
+
+0 @I128@ INDI
+1 NAME aban clanoils
+1 SEX M
+1 BIRT
+2 DATE 21 Opal 14
+1 DEAT
+2 DATE alive
+
+0 @I142@ INDI
+1 NAME tosid yelledmanor
+1 SEX M
+1 BIRT
+2 DATE 13 Hematite 19
+1 DEAT
+2 DATE alive
+
+0 @I143@ INDI
+1 NAME kib paddleletter
+1 SEX F
+1 BIRT
+2 DATE 15 Malachite 20
+1 DEAT
+2 DATE alive
+
+0 @I150@ INDI
+1 NAME goden dabbledhalls
+1 SEX F
+1 BIRT
+2 DATE 6 Obsidian 21
+1 DEAT
+2 DATE alive
+
+0 @I151@ INDI
+1 NAME logem stakeivory
+1 SEX M
+1 BIRT
+2 DATE 4 Felsite 21
+1 DEAT
+2 DATE alive
+
+0 @I152@ INDI
+1 NAME edem pagetyphoon
+1 SEX M
+1 BIRT
+2 DATE 17 Timber 21
+1 DEAT
+2 DATE alive
+
+0 @I156@ INDI
+1 NAME rith keycurled the brightnesses of boring
+1 SEX M
+1 BIRT
+2 DATE 4 Opal 22
+1 DEAT
+2 DATE alive
+
+0 @I157@ INDI
+1 NAME obok ringbell
+1 SEX M
+1 BIRT
+2 DATE 15 Moonstone 22
+1 DEAT
+2 DATE alive
+
+0 @I161@ INDI
+1 NAME urvad machinecaught
+1 SEX M
+1 BIRT
+2 DATE 12 Moonstone 23
+1 DEAT
+2 DATE alive
+
+0 @I165@ INDI
+1 NAME mistem bodiceaxes the rainy bud
+1 SEX F
+1 BIRT
+2 DATE 20 Malachite 24
+1 DEAT
+2 DATE alive
+
+0 @I166@ INDI
+1 NAME mafol showersmith the squeezing ray of gleaming
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 24
+1 DEAT
+2 DATE alive
+
+0 @I167@ INDI
+1 NAME zefon slaplabors
+1 SEX M
+1 BIRT
+2 DATE 16 Obsidian 24
+1 DEAT
+2 DATE alive
+
+0 @I172@ INDI
+1 NAME lorbam shieldfilled
+1 SEX M
+1 BIRT
+2 DATE 1 Obsidian 25
+1 DEAT
+2 DATE alive
+
+0 @I173@ INDI
+1 NAME ducim firefigures the confusing pine of roots
+1 SEX F
+1 BIRT
+2 DATE 5 Opal 26
+1 DEAT
+2 DATE alive
+
+0 @I174@ INDI
+1 NAME morul matchhandle
+1 SEX M
+1 BIRT
+2 DATE 21 Timber 26
+1 DEAT
+2 DATE alive
+
+0 @I179@ INDI
+1 NAME tosid bearsyrup
+1 SEX M
+1 BIRT
+2 DATE 10 Slate 27
+1 DEAT
+2 DATE alive
+
+0 @I180@ INDI
+1 NAME urvad cheerfulchambers
+1 SEX M
+1 BIRT
+2 DATE 6 Obsidian 27
+1 DEAT
+2 DATE alive
+
+0 @I181@ INDI
+1 NAME meng slingposts
+1 SEX F
+1 BIRT
+2 DATE 13 Limestone 28
+1 DEAT
+2 DATE alive
+
+0 @I187@ INDI
+1 NAME meng flyshields
+1 SEX F
+1 BIRT
+2 DATE 13 Limestone 29
+1 DEAT
+2 DATE alive
+
+0 @I188@ INDI
+1 NAME olin axestrength
+1 SEX F
+1 BIRT
+2 DATE 1 Slate 30
+1 DEAT
+2 DATE alive
+
+0 @I189@ INDI
+1 NAME geshud lakesalve
+1 SEX M
+1 BIRT
+2 DATE 23 Sandstone 30
+1 DEAT
+2 DATE alive
+
+0 @I196@ INDI
+1 NAME deduk diamondtree
+1 SEX M
+1 BIRT
+2 DATE 3 Granite 31
+1 DEAT
+2 DATE alive
+
+0 @I197@ INDI
+1 NAME rith minedstabbed
+1 SEX M
+1 BIRT
+2 DATE 25 Moonstone 31
+1 DEAT
+2 DATE alive
+
+0 @I199@ INDI
+1 NAME nish giltbrands
+1 SEX F
+1 BIRT
+2 DATE 8 Obsidian 32
+1 DEAT
+2 DATE alive
+
+0 @I208@ INDI
+1 NAME edzul cavernrampart
+1 SEX F
+1 BIRT
+2 DATE 17 Moonstone 33
+1 DEAT
+2 DATE alive
+
+0 @I209@ INDI
+1 NAME zas minedtargets
+1 SEX F
+1 BIRT
+2 DATE 11 Moonstone 34
+1 DEAT
+2 DATE alive
+
+0 @I214@ INDI
+1 NAME ast dentbolt
+1 SEX M
+1 BIRT
+2 DATE 5 Opal 38
+1 DEAT
+2 DATE alive
+
+0 @I224@ INDI
+1 NAME ilral nightboats
+1 SEX M
+1 BIRT
+2 DATE 27 Obsidian 39
+1 DEAT
+2 DATE alive
+
+0 @I226@ INDI
+1 NAME inod spearbeans the hood of tornados
+1 SEX F
+1 BIRT
+2 DATE 5 Sandstone 40
+1 DEAT
+2 DATE alive
+
+0 @I227@ INDI
+1 NAME milo twochewed
+1 SEX M
+1 BIRT
+2 DATE 1 Granite -41
+1 DEAT
+2 DATE alive
+
+0 @I237@ INDI
+1 NAME erith fenceshins the mahogany glens
+1 SEX M
+1 BIRT
+2 DATE 24 Sandstone 42
+1 DEAT
+2 DATE alive
+
+0 @I238@ INDI
+1 NAME edzul empirecoal
+1 SEX M
+1 BIRT
+2 DATE 5 Opal 42
+1 DEAT
+2 DATE alive
+
+0 @I245@ INDI
+1 NAME tekkud halldwell
+1 SEX M
+1 BIRT
+2 DATE 13 Opal 43
+1 DEAT
+2 DATE alive
+
+0 @I246@ INDI
+1 NAME rovod armorboulders
+1 SEX F
+1 BIRT
+2 DATE 22 Obsidian 44
+1 DEAT
+2 DATE alive
+
+0 @I253@ INDI
+1 NAME iden friendfenced
+1 SEX M
+1 BIRT
+2 DATE 8 Obsidian 45
+1 DEAT
+2 DATE alive
+
+0 @I258@ INDI
+1 NAME id salvestar the pristine squid
+1 SEX M
+1 BIRT
+2 DATE 21 Moonstone 46
+1 DEAT
+2 DATE alive
+
+0 @I269@ INDI
+1 NAME dastot groovedflags
+1 SEX M
+1 BIRT
+2 DATE 5 Sandstone 49
+1 DEAT
+2 DATE alive
+
+0 @I281@ INDI
+1 NAME ilral craftchamber
+1 SEX M
+1 BIRT
+2 DATE 25 Timber 51
+1 DEAT
+2 DATE alive
+
+0 @I294@ INDI
+1 NAME urdim craftactions
+1 SEX F
+1 BIRT
+2 DATE 1 Granite -24
+1 DEAT
+2 DATE alive
+
+0 @I296@ INDI
+1 NAME oddom watchfulfurnace
+1 SEX M
+1 BIRT
+2 DATE 1 Granite -7
+1 DEAT
+2 DATE alive
+
+0 @I301@ INDI
+1 NAME thob craftcombines
+1 SEX F
+1 BIRT
+2 DATE 25 Granite 53
+1 DEAT
+2 DATE alive
+
+0 @I303@ INDI
+1 NAME kogan standardsaves
+1 SEX M
+1 BIRT
+2 DATE 1 Granite -9
+1 DEAT
+2 DATE alive
+
+0 @I319@ INDI
+1 NAME fath boatsgift
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 0
+1 DEAT
+2 DATE alive
+
+0 @I320@ INDI
+1 NAME atis lashshock
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 2
+1 DEAT
+2 DATE alive
+
+0 @I323@ INDI
+1 NAME vutok glazeroasted
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 4
+1 DEAT
+2 DATE alive
+
+0 @I324@ INDI
+1 NAME sibrek ringnature
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 5
+1 DEAT
+2 DATE alive
+
+0 @I331@ INDI
+1 NAME asob roughnessrules
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 6
+1 DEAT
+2 DATE alive
+
+0 @I333@ INDI
+1 NAME avuz treatygift
+1 SEX F
+1 BIRT
+2 DATE 1 Granite -11
+1 DEAT
+2 DATE alive
+
+0 @I341@ INDI
+1 NAME stakud gateshowers
+1 SEX F
+1 BIRT
+2 DATE 18 Moonstone 60
+1 DEAT
+2 DATE alive
+
+0 @I343@ INDI
+1 NAME datan whipwinters
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 2
+1 DEAT
+2 DATE alive
+
+0 @I346@ INDI
+1 NAME ezum reignedmanor
+1 SEX M
+1 BIRT
+2 DATE 1 Granite -8
+1 DEAT
+2 DATE alive
+
+0 @I348@ INDI
+1 NAME dastot smithglory
+1 SEX M
+1 BIRT
+2 DATE 1 Granite -15
+1 DEAT
+2 DATE alive
+
+0 @I351@ INDI
+1 NAME bomrek carriedrings
+1 SEX M
+1 BIRT
+2 DATE 24 Limestone 62
+1 DEAT
+2 DATE alive
+
+0 @I352@ INDI
+1 NAME rovod ringtightness
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 4
+1 DEAT
+2 DATE alive
+
+0 @I354@ INDI
+1 NAME asen rimliving
+1 SEX F
+1 BIRT
+2 DATE 8 Opal 63
+1 DEAT
+2 DATE alive
+
+0 @I357@ INDI
+1 NAME kubuk ragcloisters
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 11
+1 DEAT
+2 DATE alive
+
+0 @I361@ INDI
+1 NAME atir shootdens
+1 SEX F
+1 BIRT
+2 DATE 1 Granite -20
+1 DEAT
+2 DATE alive
+
+0 @I369@ INDI
+1 NAME lor trumpetdimpled
+1 SEX M
+1 BIRT
+2 DATE 9 Slate 66
+1 DEAT
+2 DATE alive
+
+0 @I374@ INDI
+1 NAME edzul voicedrims the lavender combat
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 13
+1 DEAT
+2 DATE alive
+
+0 @I375@ INDI
+1 NAME edem dyeweather
+1 SEX F
+1 BIRT
+2 DATE 1 Granite -4
+1 DEAT
+2 DATE alive
+
+0 @I376@ INDI
+1 NAME ducim ritebrass
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 11
+1 DEAT
+2 DATE alive
+
+0 @I379@ INDI
+1 NAME sarvesh chambergears
+1 SEX F
+1 BIRT
+2 DATE 1 Granite -3
+1 DEAT
+2 DATE alive
+
+0 @I381@ INDI
+1 NAME palath bathedmeal
+1 SEX M
+1 BIRT
+2 DATE 1 Granite -17
+1 DEAT
+2 DATE alive
+
+0 @I383@ INDI
+1 NAME kikrost greatarmor
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 14
+1 DEAT
+2 DATE alive
+
+0 @I385@ INDI
+1 NAME catten bustflights
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 10
+1 DEAT
+2 DATE alive
+
+0 @I386@ INDI
+1 NAME destis kindledsingle
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 8
+1 DEAT
+2 DATE alive
+
+0 @I391@ INDI
+1 NAME tun handslings
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 8
+1 DEAT
+2 DATE alive
+
+0 @I400@ INDI
+1 NAME tokda springwade the umbral dents
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 17
+1 DEAT
+2 DATE alive
+
+0 @I407@ INDI
+1 NAME obok silverywar
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 10
+1 DEAT
+2 DATE alive
+
+0 @I412@ INDI
+1 NAME alath wardslings
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 20
+1 DEAT
+2 DATE alive
+
+0 @I421@ INDI
+1 NAME doren towntrade
+1 SEX M
+1 BIRT
+2 DATE 1 Granite -11
+1 DEAT
+2 DATE alive
+
+0 @I428@ INDI
+1 NAME kazis heavenbuttered
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 13
+1 DEAT
+2 DATE alive
+
+0 @I434@ INDI
+1 NAME kol strangerclasp
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 22
+1 DEAT
+2 DATE alive
+
+0 @I438@ INDI
+1 NAME kikrost closedhames
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 3
+1 DEAT
+2 DATE alive
+
+0 @I440@ INDI
+1 NAME inod ringpolish
+1 SEX M
+1 BIRT
+2 DATE 1 Granite -4
+1 DEAT
+2 DATE alive
+
+0 @I444@ INDI
+1 NAME ned craterponders
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 20
+1 DEAT
+2 DATE alive
+
+0 @I451@ INDI
+1 NAME ngosp soundedjoins
+1 SEX M
+1 BIRT
+2 DATE 1 Granite -8
+1 DEAT
+2 DATE alive
+
+0 @I455@ INDI
+1 NAME pathril bluekeepers
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 15
+1 DEAT
+2 DATE alive
+
+0 @I459@ INDI
+1 NAME lide rarespread
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 14
+1 DEAT
+2 DATE alive
+
+0 @I460@ INDI
+1 NAME asthi lovedbrain
+1 SEX M
+1 BIRT
+2 DATE 1 Granite -5
+1 DEAT
+2 DATE alive
+
+0 @I463@ INDI
+1 NAME ingiz whipoars
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 13
+1 DEAT
+2 DATE alive
+
+0 @I465@ INDI
+1 NAME adil silverroads
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 8
+1 DEAT
+2 DATE alive
+
+0 @I466@ INDI
+1 NAME monom bootslips
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 12
+1 DEAT
+2 DATE alive
+
+0 @I475@ INDI
+1 NAME nil paintedhammer
+1 SEX F
+1 BIRT
+2 DATE 1 Granite -4
+1 DEAT
+2 DATE alive
+
+0 @I479@ INDI
+1 NAME lorbam cobrarock
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 3
+1 DEAT
+2 DATE alive
+
+0 @I487@ INDI
+1 NAME sigun virginmine
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 31
+1 DEAT
+2 DATE alive
+
+0 @I490@ INDI
+1 NAME ablel blotwinds
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 21
+1 DEAT
+2 DATE alive
+
+0 @I493@ INDI
+1 NAME cerol shieldtower
+1 SEX M
+1 BIRT
+2 DATE 1 Granite -2
+1 DEAT
+2 DATE alive
+
+0 @I495@ INDI
+1 NAME kol laboredtongs
+1 SEX M
+1 BIRT
+2 DATE 20 Timber 84
+1 DEAT
+2 DATE alive
+
+0 @I496@ INDI
+1 NAME zemel wispcolumn
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 1
+1 DEAT
+2 DATE alive
+
+0 @I499@ INDI
+1 NAME renal boltbalanced
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 31
+1 DEAT
+2 DATE alive
+
+0 @I507@ INDI
+1 NAME domas copperheavens
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 31
+1 DEAT
+2 DATE alive
+
+0 @I513@ INDI
+1 NAME fath towerspot
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 12
+1 DEAT
+2 DATE alive
+
+0 @I515@ INDI
+1 NAME ostri islandjested
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 21
+1 DEAT
+2 DATE alive
+
+0 @I523@ INDI
+1 NAME ushrir merchantentered
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 32
+1 DEAT
+2 DATE alive
+
+0 @I524@ INDI
+1 NAME oddom windmerchant the barbarian of abysses
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 11
+1 DEAT
+2 DATE alive
+
+0 @I530@ INDI
+1 NAME thikut roundedcities the mysterious growths
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 25
+1 DEAT
+2 DATE alive
+
+0 @I532@ INDI
+1 NAME dodok dwellerhame
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 5
+1 DEAT
+2 DATE alive
+
+0 @I533@ INDI
+1 NAME tulon shipriddled
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 6
+1 DEAT
+2 DATE alive
+
+0 @I534@ INDI
+1 NAME ast girderwhip
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 32
+1 DEAT
+2 DATE alive
+
+0 @I539@ INDI
+1 NAME erush windpillar
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 28
+1 DEAT
+2 DATE alive
+
+0 @I540@ INDI
+1 NAME sakzul coppernuts
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 16
+1 DEAT
+2 DATE alive
+
+0 @I543@ INDI
+1 NAME sakzul archmorning
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 29
+1 DEAT
+2 DATE alive
+
+0 @I545@ INDI
+1 NAME nish playchanneled
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 6
+1 DEAT
+2 DATE alive
+
+0 @I547@ INDI
+1 NAME cerol rampartcloisters
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 31
+1 DEAT
+2 DATE alive
+
+0 @I548@ INDI
+1 NAME tholtig deerorb
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 15
+1 DEAT
+2 DATE alive
+
+0 @I559@ INDI
+1 NAME jath rimwatched
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 44
+1 DEAT
+2 DATE alive
+
+0 @I563@ INDI
+1 NAME ettad pinkferried
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 47
+1 DEAT
+2 DATE alive
+
+0 @I568@ INDI
+1 NAME datan mineropes
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 18
+1 DEAT
+2 DATE alive
+
+0 @I574@ INDI
+1 NAME ingish certainseal
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 20
+1 DEAT
+2 DATE alive
+
+0 @I575@ INDI
+1 NAME sodel pagemountain
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 32
+1 DEAT
+2 DATE alive
+
+0 @I576@ INDI
+1 NAME ducim tradeglide
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 18
+1 DEAT
+2 DATE alive
+
+0 @I577@ INDI
+1 NAME kib hatchetclout
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 20
+1 DEAT
+2 DATE alive
+
+0 @I580@ INDI
+1 NAME rakust curleddye
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 14
+1 DEAT
+2 DATE alive
+
+0 @I584@ INDI
+1 NAME kadol boltpages
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 33
+1 DEAT
+2 DATE alive
+
+0 @I585@ INDI
+1 NAME vucar gripcobalt
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 46
+1 DEAT
+2 DATE alive
+
+0 @I587@ INDI
+1 NAME minkot rooterlenses the umbral pears
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 43
+1 DEAT
+2 DATE alive
+
+0 @I590@ INDI
+1 NAME mafol faintstaff
+1 SEX M
+1 BIRT
+2 DATE 2 Hematite 101
+1 DEAT
+2 DATE alive
+
+0 @I593@ INDI
+1 NAME edem esteempaddle
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 31
+1 DEAT
+2 DATE alive
+
+0 @I595@ INDI
+1 NAME rimtar granitebored
+1 SEX F
+1 BIRT
+2 DATE 13 Moonstone 102
+1 DEAT
+2 DATE alive
+
+0 @I597@ INDI
+1 NAME medtob bentgalley
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 20
+1 DEAT
+2 DATE alive
+
+0 @I600@ INDI
+1 NAME zulban atticvirtue
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 28
+1 DEAT
+2 DATE alive
+
+0 @I602@ INDI
+1 NAME nish shootardent
+1 SEX F
+1 BIRT
+2 DATE 13 Obsidian 103
+1 DEAT
+2 DATE alive
+
+0 @I604@ INDI
+1 NAME inod towercopper the windy clearing
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 51
+1 DEAT
+2 DATE alive
+
+0 @I606@ INDI
+1 NAME catten dancetongs
+1 SEX F
+1 BIRT
+2 DATE 20 Moonstone 104
+1 DEAT
+2 DATE alive
+
+0 @I608@ INDI
+1 NAME stakud soakedpost
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 21
+1 DEAT
+2 DATE alive
+
+0 @I610@ INDI
+1 NAME lolor brasscurls
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 37
+1 DEAT
+2 DATE alive
+
+0 @I612@ INDI
+1 NAME ustuth bannergrasp
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 51
+1 DEAT
+2 DATE alive
+
+0 @I614@ INDI
+1 NAME mistem specialrim
+1 SEX F
+1 BIRT
+2 DATE 7 Slate 106
+1 DEAT
+2 DATE alive
+
+0 @I620@ INDI
+1 NAME ibid visedistinct
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 39
+1 DEAT
+2 DATE alive
+
+0 @I625@ INDI
+1 NAME sesta wheeledfaiths
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 45
+1 DEAT
+2 DATE alive
+
+0 @I631@ INDI
+1 NAME ori seedbulb
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 56
+1 DEAT
+2 DATE alive
+
+0 @I632@ INDI
+1 NAME kas colorsloshed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 54
+1 DEAT
+2 DATE alive
+
+0 @I633@ INDI
+1 NAME adil craftedpacks
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 53
+1 DEAT
+2 DATE alive
+
+0 @I636@ INDI
+1 NAME stukos hidemansion
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 42
+1 DEAT
+2 DATE alive
+
+0 @I643@ INDI
+1 NAME mafol toolshores
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 61
+1 DEAT
+2 DATE alive
+
+0 @I647@ INDI
+1 NAME adil stakeape
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 37
+1 DEAT
+2 DATE alive
+
+0 @I648@ INDI
+1 NAME eshtan rampartbrave
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 44
+1 DEAT
+2 DATE alive
+
+0 @I653@ INDI
+1 NAME nish bootentry
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 29
+1 DEAT
+2 DATE alive
+
+0 @I657@ INDI
+1 NAME mimap springpower
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 44
+1 DEAT
+2 DATE alive
+
+0 @I661@ INDI
+1 NAME mosus danglewinds
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 32
+1 DEAT
+2 DATE alive
+
+0 @I676@ INDI
+1 NAME duli plantemples
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 59
+1 DEAT
+2 DATE alive
+
+0 @I679@ INDI
+1 NAME ustres dieddales
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 63
+1 DEAT
+2 DATE alive
+
+0 @I680@ INDI
+1 NAME naspa blanketpassionate
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 43
+1 DEAT
+2 DATE alive
+
+0 @I687@ INDI
+1 NAME sigun tramplebust
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 62
+1 DEAT
+2 DATE alive
+
+0 @I695@ INDI
+1 NAME ushat pinesdagger
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 36
+1 DEAT
+2 DATE alive
+
+0 @I699@ INDI
+1 NAME olin windyring
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 44
+1 DEAT
+2 DATE alive
+
+0 @I709@ INDI
+1 NAME ocgi weightclobbered
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 53
+1 DEAT
+2 DATE alive
+
+0 @I710@ INDI
+1 NAME shethbah coppermatch
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 45
+1 DEAT
+2 DATE alive
+
+0 @I711@ INDI
+1 NAME athra floortreats
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 39
+1 DEAT
+2 DATE alive
+
+0 @I719@ INDI
+1 NAME galka soapyqueens
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 39
+1 DEAT
+2 DATE alive
+
+0 @I720@ INDI
+1 NAME kudpa shoveltoasts
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 71
+1 DEAT
+2 DATE alive
+
+0 @I724@ INDI
+1 NAME sarvesh slingreward
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 69
+1 DEAT
+2 DATE alive
+
+0 @I725@ INDI
+1 NAME kel lulledlabors
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 70
+1 DEAT
+2 DATE alive
+
+0 @I731@ INDI
+1 NAME kol equalgranite the sepia secret
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 74
+1 DEAT
+2 DATE alive
+
+0 @I733@ INDI
+1 NAME alath stockadetaught
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 43
+1 DEAT
+2 DATE alive
+
+0 @I735@ INDI
+1 NAME endok minegripped
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 72
+1 DEAT
+2 DATE alive
+
+0 @I737@ INDI
+1 NAME atir laborhails
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 48
+1 DEAT
+2 DATE alive
+
+0 @I743@ INDI
+1 NAME ustuth stockadeamazed
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 53
+1 DEAT
+2 DATE alive
+
+0 @I753@ INDI
+1 NAME tun copperspell
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 50
+1 DEAT
+2 DATE alive
+
+0 @I755@ INDI
+1 NAME urvad giftsabres
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 59
+1 DEAT
+2 DATE alive
+
+0 @I760@ INDI
+1 NAME dobar crescentpost
+1 SEX M
+1 BIRT
+2 DATE 2 Moonstone 129
+1 DEAT
+2 DATE alive
+
+0 @I762@ INDI
+1 NAME jasmuk drumtrussed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 71
+1 DEAT
+2 DATE alive
+
+0 @I763@ INDI
+1 NAME ersi hummedstakes
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 46
+1 DEAT
+2 DATE alive
+
+0 @I767@ INDI
+1 NAME udil defenseroofs
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 65
+1 DEAT
+2 DATE alive
+
+0 @I768@ INDI
+1 NAME zuglar pillarlions
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 48
+1 DEAT
+2 DATE alive
+
+0 @I769@ INDI
+1 NAME ustuth giltsubmerged
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 68
+1 DEAT
+2 DATE alive
+
+0 @I770@ INDI
+1 NAME sarvesh breachsalve
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 74
+1 DEAT
+2 DATE alive
+
+0 @I772@ INDI
+1 NAME nubi garnishedjuggles
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 60
+1 DEAT
+2 DATE alive
+
+0 @I775@ INDI
+1 NAME hok sensedashed
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 52
+1 DEAT
+2 DATE alive
+
+0 @I776@ INDI
+1 NAME vucar fealtyroads
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 66
+1 DEAT
+2 DATE alive
+
+0 @I777@ INDI
+1 NAME sakzul keyjudged
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 72
+1 DEAT
+2 DATE alive
+
+0 @I778@ INDI
+1 NAME mestthos truthfulrampart
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 71
+1 DEAT
+2 DATE alive
+
+0 @I781@ INDI
+1 NAME degel hazygild
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 60
+1 DEAT
+2 DATE alive
+
+0 @I782@ INDI
+1 NAME geshud ragbound the heliotrope ignition
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 64
+1 DEAT
+2 DATE alive
+
+0 @I790@ INDI
+1 NAME avuz trammeledcaves
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 81
+1 DEAT
+2 DATE alive
+
+0 @I792@ INDI
+1 NAME cerol pagespoke
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 67
+1 DEAT
+2 DATE alive
+
+0 @I795@ INDI
+1 NAME moldath mirrorstaves
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 46
+1 DEAT
+2 DATE alive
+
+0 @I799@ INDI
+1 NAME kib gatebears
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 63
+1 DEAT
+2 DATE alive
+
+0 @I800@ INDI
+1 NAME melbil giftinked
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 63
+1 DEAT
+2 DATE alive
+
+0 @I803@ INDI
+1 NAME tobul blazedmirrors
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 71
+1 DEAT
+2 DATE alive
+
+0 @I805@ INDI
+1 NAME kulet spikepage
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 81
+1 DEAT
+2 DATE alive
+
+0 @I806@ INDI
+1 NAME muthkat boatsbanner the sword of chanting
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 67
+1 DEAT
+2 DATE alive
+
+0 @I807@ INDI
+1 NAME nil bitebolts
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 79
+1 DEAT
+2 DATE alive
+
+0 @I808@ INDI
+1 NAME tobul crowdedgirder
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 78
+1 DEAT
+2 DATE alive
+
+0 @I809@ INDI
+1 NAME zefon bronzepalace
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 67
+1 DEAT
+2 DATE alive
+
+0 @I811@ INDI
+1 NAME melbil worldguild
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 52
+1 DEAT
+2 DATE alive
+
+0 @I826@ INDI
+1 NAME kib focuspost
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 63
+1 DEAT
+2 DATE alive
+
+0 @I832@ INDI
+1 NAME adet morninglivid
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 68
+1 DEAT
+2 DATE alive
+
+0 @I835@ INDI
+1 NAME logem ragpage
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 74
+1 DEAT
+2 DATE alive
+
+0 @I836@ INDI
+1 NAME mosus gemrites
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 61
+1 DEAT
+2 DATE alive
+
+0 @I851@ INDI
+1 NAME geshud rhymemanors
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 83
+1 DEAT
+2 DATE alive
+
+0 @I855@ INDI
+1 NAME sakzul lancedrampart
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 57
+1 DEAT
+2 DATE alive
+
+0 @I857@ INDI
+1 NAME onol chainedmetals
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 54
+1 DEAT
+2 DATE alive
+
+0 @I858@ INDI
+1 NAME imush lashquests the pristine pearls
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 54
+1 DEAT
+2 DATE alive
+
+0 @I861@ INDI
+1 NAME zuglar castleletters
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 87
+1 DEAT
+2 DATE alive
+
+0 @I868@ INDI
+1 NAME obok scargold
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 87
+1 DEAT
+2 DATE alive
+
+0 @I869@ INDI
+1 NAME stakud canyonseize
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 61
+1 DEAT
+2 DATE alive
+
+0 @I872@ INDI
+1 NAME udil kingdomsfloor
+1 SEX M
+1 BIRT
+2 DATE 3 Limestone 143
+1 DEAT
+2 DATE alive
+
+0 @I873@ INDI
+1 NAME likot helmslion
+1 SEX M
+1 BIRT
+2 DATE 14 Obsidian 144
+1 DEAT
+2 DATE alive
+
+0 @I875@ INDI
+1 NAME lusko cloakgenius
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 80
+1 DEAT
+2 DATE alive
+
+0 @I878@ INDI
+1 NAME lesno dreamedballs
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 95
+1 DEAT
+2 DATE alive
+
+0 @I881@ INDI
+1 NAME tosid greatestceilings
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 69
+1 DEAT
+2 DATE alive
+
+0 @I883@ INDI
+1 NAME ral fieldfortress
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 82
+1 DEAT
+2 DATE alive
+
+0 @I884@ INDI
+1 NAME rith theaterimage
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 82
+1 DEAT
+2 DATE alive
+
+0 @I887@ INDI
+1 NAME meng smithstar
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 68
+1 DEAT
+2 DATE alive
+
+0 @I888@ INDI
+1 NAME inod towertrampled the sack of glitter
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 64
+1 DEAT
+2 DATE alive
+
+0 @I889@ INDI
+1 NAME fath woundlabored
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 64
+1 DEAT
+2 DATE alive
+
+0 @I894@ INDI
+1 NAME mosus palacerift
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 102
+1 DEAT
+2 DATE alive
+
+0 @I896@ INDI
+1 NAME unib handlenuts
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 83
+1 DEAT
+2 DATE alive
+
+0 @I900@ INDI
+1 NAME lolor hammerlocks
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 68
+1 DEAT
+2 DATE alive
+
+0 @I903@ INDI
+1 NAME cerol granitecontrolled
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 104
+1 DEAT
+2 DATE alive
+
+0 @I909@ INDI
+1 NAME dodok meshrough
+1 SEX M
+1 BIRT
+2 DATE 8 Timber 157
+1 DEAT
+2 DATE alive
+
+0 @I910@ INDI
+1 NAME olin ringgrove
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 104
+1 DEAT
+2 DATE alive
+
+0 @I913@ INDI
+1 NAME domas elderpulleys
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 79
+1 DEAT
+2 DATE alive
+
+0 @I915@ INDI
+1 NAME zasit brushboot
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 76
+1 DEAT
+2 DATE alive
+
+0 @I918@ INDI
+1 NAME amost bustrubs
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 108
+1 DEAT
+2 DATE alive
+
+0 @I919@ INDI
+1 NAME doren flaxwhips
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 103
+1 DEAT
+2 DATE alive
+
+0 @I921@ INDI
+1 NAME goden sprayedshot
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 103
+1 DEAT
+2 DATE alive
+
+0 @I922@ INDI
+1 NAME rith blazedgild
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 100
+1 DEAT
+2 DATE alive
+
+0 @I923@ INDI
+1 NAME reg cloistertool
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 105
+1 DEAT
+2 DATE alive
+
+0 @I925@ INDI
+1 NAME kogan figurespine
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 101
+1 DEAT
+2 DATE alive
+
+0 @I928@ INDI
+1 NAME erith beltedrim
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 107
+1 DEAT
+2 DATE alive
+
+0 @I929@ INDI
+1 NAME kel wheeledwaxes
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 87
+1 DEAT
+2 DATE alive
+
+0 @I938@ INDI
+1 NAME cerol bronzedwellers
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 112
+1 DEAT
+2 DATE alive
+
+0 @I940@ INDI
+1 NAME minkot rampartchanced the razor of seeds
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 105
+1 DEAT
+2 DATE alive
+
+0 @I948@ INDI
+1 NAME lor channeledsandals
+1 SEX M
+1 BIRT
+2 DATE 3 Malachite 165
+1 DEAT
+2 DATE alive
+
+0 @I951@ INDI
+1 NAME erith fatebasements
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 99
+1 DEAT
+2 DATE alive
+
+0 @I952@ INDI
+1 NAME avuz basesdikes
+1 SEX M
+1 BIRT
+2 DATE 6 Opal 166
+1 DEAT
+2 DATE alive
+
+0 @I954@ INDI
+1 NAME tosid bridgepaddled
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 88
+1 DEAT
+2 DATE alive
+
+0 @I957@ INDI
+1 NAME sibrek mirrorclasped
+1 SEX M
+1 BIRT
+2 DATE 25 Moonstone 167
+1 DEAT
+2 DATE alive
+
+0 @I958@ INDI
+1 NAME dodok pantedcudgels
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 92
+1 DEAT
+2 DATE alive
+
+0 @I959@ INDI
+1 NAME unib rootedwhipped
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 109
+1 DEAT
+2 DATE alive
+
+0 @I965@ INDI
+1 NAME rovod tombsbear
+1 SEX F
+1 BIRT
+2 DATE 7 Timber 169
+1 DEAT
+2 DATE alive
+
+0 @I968@ INDI
+1 NAME momuz mirroredsquashed
+1 SEX F
+1 BIRT
+2 DATE 24 Opal 170
+1 DEAT
+2 DATE alive
+
+0 @I973@ INDI
+1 NAME ablel lancedfishes
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 108
+1 DEAT
+2 DATE alive
+
+0 @I974@ INDI
+1 NAME bembul glazerings
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 109
+1 DEAT
+2 DATE alive
+
+0 @I976@ INDI
+1 NAME uzol flukegirder
+1 SEX F
+1 BIRT
+2 DATE 13 Obsidian 171
+1 DEAT
+2 DATE alive
+
+0 @I977@ INDI
+1 NAME ecod tonesmoothness
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 84
+1 DEAT
+2 DATE alive
+
+0 @I978@ INDI
+1 NAME catten grottoglove
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 119
+1 DEAT
+2 DATE alive
+
+0 @I979@ INDI
+1 NAME ral presentfigures
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 89
+1 DEAT
+2 DATE alive
+
+0 @I980@ INDI
+1 NAME nil shakenmachines
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 93
+1 DEAT
+2 DATE alive
+
+0 @I981@ INDI
+1 NAME limul lancercloak
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 114
+1 DEAT
+2 DATE alive
+
+0 @I990@ INDI
+1 NAME iden cloisterweavers
+1 SEX M
+1 BIRT
+2 DATE 8 Limestone 175
+1 DEAT
+2 DATE alive
+
+0 @I992@ INDI
+1 NAME ahang climatemoistens
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 89
+1 DEAT
+2 DATE alive
+
+0 @I993@ INDI
+1 NAME thothil candycombined
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 97
+1 DEAT
+2 DATE alive
+
+0 @I994@ INDI
+1 NAME ushus distincttress
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 122
+1 DEAT
+2 DATE alive
+
+0 @I995@ INDI
+1 NAME izem palaceescort
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 91
+1 DEAT
+2 DATE alive
+
+0 @I996@ INDI
+1 NAME seba gulfblush
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 97
+1 DEAT
+2 DATE alive
+
+0 @I997@ INDI
+1 NAME rura mushroomparch
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 113
+1 DEAT
+2 DATE alive
+
+0 @I1002@ INDI
+1 NAME onul ragbalanced
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 122
+1 DEAT
+2 DATE alive
+
+0 @I1004@ INDI
+1 NAME tun kindledpages
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 113
+1 DEAT
+2 DATE alive
+
+0 @I1005@ INDI
+1 NAME thob furnaceperplexed
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 118
+1 DEAT
+2 DATE alive
+
+0 @I1015@ INDI
+1 NAME zon breedmirrors
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 96
+1 DEAT
+2 DATE alive
+
+0 @I1021@ INDI
+1 NAME edem rockschains
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 103
+1 DEAT
+2 DATE alive
+
+0 @I1024@ INDI
+1 NAME imush punchgranite the heliotrope hill
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 117
+1 DEAT
+2 DATE alive
+
+0 @I1030@ INDI
+1 NAME mistem throwshot
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 119
+1 DEAT
+2 DATE alive
+
+0 @I1032@ INDI
+1 NAME zas shellsgranite
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 102
+1 DEAT
+2 DATE alive
+
+0 @I1039@ INDI
+1 NAME lor riddledring
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 108
+1 DEAT
+2 DATE alive
+
+0 @I1043@ INDI
+1 NAME melbil boardknives
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 125
+1 DEAT
+2 DATE alive
+
+0 @I1044@ INDI
+1 NAME ast gladecoal
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 136
+1 DEAT
+2 DATE alive
+
+0 @I1045@ INDI
+1 NAME kivish claspgrowls
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 129
+1 DEAT
+2 DATE alive
+
+0 @I1047@ INDI
+1 NAME bomrek gripshields
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 105
+1 DEAT
+2 DATE alive
+
+0 @I1053@ INDI
+1 NAME shorast metalsides
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 137
+1 DEAT
+2 DATE alive
+
+0 @I1054@ INDI
+1 NAME sodel wonderbodice
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 122
+1 DEAT
+2 DATE alive
+
+0 @I1059@ INDI
+1 NAME kel wheelamazes
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 127
+1 DEAT
+2 DATE alive
+
+0 @I1061@ INDI
+1 NAME dastot truthclasp
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 139
+1 DEAT
+2 DATE alive
+
+0 @I1066@ INDI
+1 NAME udil tradedprairie
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 128
+1 DEAT
+2 DATE alive
+
+0 @I1067@ INDI
+1 NAME onul walledlulled
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 136
+1 DEAT
+2 DATE alive
+
+0 @I1078@ INDI
+1 NAME litast boltspainted
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 124
+1 DEAT
+2 DATE alive
+
+0 @I1079@ INDI
+1 NAME zasit searchroofs
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 125
+1 DEAT
+2 DATE alive
+
+0 @I1083@ INDI
+1 NAME ablel laborislands
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 112
+1 DEAT
+2 DATE alive
+
+0 @I1090@ INDI
+1 NAME ber roofobscure
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 132
+1 DEAT
+2 DATE alive
+
+0 @I1092@ INDI
+1 NAME kubuk blazegalleys
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 126
+1 DEAT
+2 DATE alive
+
+0 @I1093@ INDI
+1 NAME kel roadkeys
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 140
+1 DEAT
+2 DATE alive
+
+0 @I1099@ INDI
+1 NAME meng gorgethinned
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 135
+1 DEAT
+2 DATE alive
+
+0 @I1101@ INDI
+1 NAME mistem wallcrest the quandary of conflict
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 137
+1 DEAT
+2 DATE alive
+
+0 @I1102@ INDI
+1 NAME deduk pearlgear
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 120
+1 DEAT
+2 DATE alive
+
+0 @I1106@ INDI
+1 NAME sibrek lancebanner
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 127
+1 DEAT
+2 DATE alive
+
+0 @I1107@ INDI
+1 NAME erush riddledtrades
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 130
+1 DEAT
+2 DATE alive
+
+0 @I1124@ INDI
+1 NAME medtob gangrack
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 124
+1 DEAT
+2 DATE alive
+
+0 @I1133@ INDI
+1 NAME melbil whiskeredgilds
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 132
+1 DEAT
+2 DATE alive
+
+0 @I1136@ INDI
+1 NAME nelti strayedivory
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 127
+1 DEAT
+2 DATE alive
+
+0 @I1137@ INDI
+1 NAME sacath apexjail
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 152
+1 DEAT
+2 DATE alive
+
+0 @I1138@ INDI
+1 NAME geral pantherraced the wispy soldier
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 133
+1 DEAT
+2 DATE alive
+
+0 @I1140@ INDI
+1 NAME cuthroz blockedlunches the tufted sabres
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 150
+1 DEAT
+2 DATE alive
+
+0 @I1147@ INDI
+1 NAME adu entryinns
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 118
+1 DEAT
+2 DATE alive
+
+0 @I1148@ INDI
+1 NAME or polishedbalanced
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 136
+1 DEAT
+2 DATE alive
+
+0 @I1157@ INDI
+1 NAME stakud romanceabbey
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 125
+1 DEAT
+2 DATE alive
+
+0 @I1160@ INDI
+1 NAME erith inksavages
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 141
+1 DEAT
+2 DATE alive
+
+0 @I1167@ INDI
+1 NAME inod oiledrhyming
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 157
+1 DEAT
+2 DATE alive
+
+0 @I1168@ INDI
+1 NAME aban luckywinds
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 127
+1 DEAT
+2 DATE alive
+
+0 @I1169@ INDI
+1 NAME lor rulertheater
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 149
+1 DEAT
+2 DATE alive
+
+0 @I1173@ INDI
+1 NAME bim boredcrafted
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 135
+1 DEAT
+2 DATE alive
+
+0 @I1177@ INDI
+1 NAME zasit wealthyspear
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 134
+1 DEAT
+2 DATE alive
+
+0 @I1181@ INDI
+1 NAME inod tunnelhandles
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 131
+1 DEAT
+2 DATE alive
+
+0 @I1188@ INDI
+1 NAME leba chewadmired
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 160
+1 DEAT
+2 DATE alive
+
+0 @I1189@ INDI
+1 NAME imi glidedhushes
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 161
+1 DEAT
+2 DATE alive
+
+0 @I1191@ INDI
+1 NAME er shingleplays
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 154
+1 DEAT
+2 DATE alive
+
+0 @I1192@ INDI
+1 NAME sabu flickeredstyled
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 160
+1 DEAT
+2 DATE alive
+
+0 @I1194@ INDI
+1 NAME thikut standardtempt
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 145
+1 DEAT
+2 DATE alive
+
+0 @I1197@ INDI
+1 NAME lor bodicewheels
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 158
+1 DEAT
+2 DATE alive
+
+0 @I1201@ INDI
+1 NAME ebir scourwilts
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 156
+1 DEAT
+2 DATE alive
+
+0 @I1207@ INDI
+1 NAME nish paintedsoaked
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 154
+1 DEAT
+2 DATE alive
+
+0 @I1211@ INDI
+1 NAME morul dikesmiths
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 139
+1 DEAT
+2 DATE alive
+
+0 @I1212@ INDI
+1 NAME endok tongsportal
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 150
+1 DEAT
+2 DATE alive
+
+0 @I1215@ INDI
+1 NAME uzol tinpulleys
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 159
+1 DEAT
+2 DATE alive
+
+0 @I1231@ INDI
+1 NAME ecsha belthug
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 141
+1 DEAT
+2 DATE alive
+
+0 @I1234@ INDI
+1 NAME alir muffinwalks
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 154
+1 DEAT
+2 DATE alive
+
+0 @I1240@ INDI
+1 NAME nik pagephrases
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 150
+1 DEAT
+2 DATE alive
+
+0 @I1244@ INDI
+1 NAME dishmab valleypaged
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 155
+1 DEAT
+2 DATE alive
+
+0 @I1245@ INDI
+1 NAME zasit cradlelanced
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 170
+1 DEAT
+2 DATE alive
+
+0 @I1246@ INDI
+1 NAME kosoth dyenations
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 140
+1 DEAT
+2 DATE alive
+
+0 @I1248@ INDI
+1 NAME atir seizehalls
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 150
+1 DEAT
+2 DATE alive
+
+0 @I1252@ INDI
+1 NAME tulon gemclosed
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 140
+1 DEAT
+2 DATE alive
+
+0 @I1253@ INDI
+1 NAME fikod balancedmanor
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 165
+1 DEAT
+2 DATE alive
+
+0 @I1254@ INDI
+1 NAME asmel cryptships
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 172
+1 DEAT
+2 DATE alive
+
+0 @I1255@ INDI
+1 NAME domas fortuneurns
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 143
+1 DEAT
+2 DATE alive
+
+0 @I1258@ INDI
+1 NAME zefon fondlesabres
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 152
+1 DEAT
+2 DATE alive
+
+0 @I1259@ INDI
+1 NAME rimtar ringdrinks
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 173
+1 DEAT
+2 DATE alive
+
+0 @I1264@ INDI
+1 NAME cilob furnacegolds
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 145
+1 DEAT
+2 DATE alive
+
+0 @I1265@ INDI
+1 NAME ustuth whispersletters
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 143
+1 DEAT
+2 DATE alive
+
+0 @I1266@ INDI
+1 NAME zuglar skincastles
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 140
+1 DEAT
+2 DATE alive
+
+0 @I1267@ INDI
+1 NAME zuglar boltstaxed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 157
+1 DEAT
+2 DATE alive
+
+0 @I1270@ INDI
+1 NAME tosid paperghosts
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 159
+1 DEAT
+2 DATE alive
+
+0 @I1271@ INDI
+1 NAME omud stoodplay
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 174
+1 DEAT
+2 DATE alive
+
+0 @I1272@ INDI
+1 NAME pibang mortaldines
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 170
+1 DEAT
+2 DATE alive
+
+0 @I1274@ INDI
+1 NAME tikbo shakenchants
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 159
+1 DEAT
+2 DATE alive
+
+0 @I1279@ INDI
+1 NAME tholtig allydagger
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 161
+1 DEAT
+2 DATE alive
+
+0 @I1282@ INDI
+1 NAME alath stokedlances
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 156
+1 DEAT
+2 DATE alive
+
+0 @I1283@ INDI
+1 NAME oddom kingdomglazes
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 148
+1 DEAT
+2 DATE alive
+
+0 @I1284@ INDI
+1 NAME kumil theaterwars
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 171
+1 DEAT
+2 DATE alive
+
+0 @I1287@ INDI
+1 NAME lucmen chuckedshrines
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 175
+1 DEAT
+2 DATE alive
+
+0 @I1288@ INDI
+1 NAME beksur fatalmines
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 151
+1 DEAT
+2 DATE alive
+
+0 @I1289@ INDI
+1 NAME osmah craftsmurk
+1 SEX F
+1 BIRT
+2 DATE 10 Moonstone 228
+1 DEAT
+2 DATE alive
+
+0 @I1294@ INDI
+1 NAME lokum buckfigure
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 143
+1 DEAT
+2 DATE alive
+
+0 @I1298@ INDI
+1 NAME bembul figurehood
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 150
+1 DEAT
+2 DATE alive
+
+0 @I1301@ INDI
+1 NAME rigoth praisedwheeled
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 149
+1 DEAT
+2 DATE alive
+
+0 @I1303@ INDI
+1 NAME monom trueroads
+1 SEX M
+1 BIRT
+2 DATE 25 Timber 230
+1 DEAT
+2 DATE alive
+
+0 @I1305@ INDI
+1 NAME dakost searingmachine
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 179
+1 DEAT
+2 DATE alive
+
+0 @I1308@ INDI
+1 NAME meng bodicetomes the wisp of panting
+1 SEX M
+1 BIRT
+2 DATE 19 Moonstone 231
+1 DEAT
+2 DATE alive
+
+0 @I1310@ INDI
+1 NAME lolor certainearthen
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 173
+1 DEAT
+2 DATE alive
+
+0 @I1314@ INDI
+1 NAME alath brasskings
+1 SEX F
+1 BIRT
+2 DATE 19 Opal 232
+1 DEAT
+2 DATE alive
+
+0 @I1317@ INDI
+1 NAME nashra noseclams
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 174
+1 DEAT
+2 DATE alive
+
+0 @I1322@ INDI
+1 NAME wimad washedcourage
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 168
+1 DEAT
+2 DATE alive
+
+0 @I1325@ INDI
+1 NAME use cheerfulraked
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 175
+1 DEAT
+2 DATE alive
+
+0 @I1327@ INDI
+1 NAME led boltentrances
+1 SEX F
+1 BIRT
+2 DATE 26 Opal 234
+1 DEAT
+2 DATE alive
+
+0 @I1329@ INDI
+1 NAME ipan saffronfingers
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 176
+1 DEAT
+2 DATE alive
+
+0 @I1331@ INDI
+1 NAME zan brassmirrored
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 166
+1 DEAT
+2 DATE alive
+
+0 @I1333@ INDI
+1 NAME iteb tradeaged
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 177
+1 DEAT
+2 DATE alive
+
+0 @I1334@ INDI
+1 NAME iteb lashgrasps
+1 SEX F
+1 BIRT
+2 DATE 17 Opal 235
+1 DEAT
+2 DATE alive
+
+0 @I1335@ INDI
+1 NAME unib landsplanks
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 160
+1 DEAT
+2 DATE alive
+
+0 @I1336@ INDI
+1 NAME solon swallowlashed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 148
+1 DEAT
+2 DATE alive
+
+0 @I1337@ INDI
+1 NAME nish rapidwound the outrageous dune of lakes
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 167
+1 DEAT
+2 DATE alive
+
+0 @I1338@ INDI
+1 NAME avuz plaitedbanner
+1 SEX M
+1 BIRT
+2 DATE 8 Opal 236
+1 DEAT
+2 DATE alive
+
+0 @I1340@ INDI
+1 NAME id wheelsknights
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 186
+1 DEAT
+2 DATE alive
+
+0 @I1346@ INDI
+1 NAME vucar twistclasps
+1 SEX M
+1 BIRT
+2 DATE 23 Hematite 237
+1 DEAT
+2 DATE alive
+
+0 @I1349@ INDI
+1 NAME olon kinroofs
+1 SEX M
+1 BIRT
+2 DATE 17 Obsidian 238
+1 DEAT
+2 DATE alive
+
+0 @I1357@ INDI
+1 NAME minkot metalheal
+1 SEX M
+1 BIRT
+2 DATE 27 Galena 240
+1 DEAT
+2 DATE alive
+
+0 @I1358@ INDI
+1 NAME quogub kindnessscorching
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 176
+1 DEAT
+2 DATE alive
+
+0 @I1360@ INDI
+1 NAME subi salveplanted
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 154
+1 DEAT
+2 DATE alive
+
+0 @I1365@ INDI
+1 NAME calthath winecovered
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 156
+1 DEAT
+2 DATE alive
+
+0 @I1370@ INDI
+1 NAME bomrek soundedabbey
+1 SEX M
+1 BIRT
+2 DATE 6 Timber 242
+1 DEAT
+2 DATE alive
+
+0 @I1372@ INDI
+1 NAME asob quicknessringed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 184
+1 DEAT
+2 DATE alive
+
+0 @I1374@ INDI
+1 NAME udil armorfountain
+1 SEX M
+1 BIRT
+2 DATE 14 Limestone 243
+1 DEAT
+2 DATE alive
+
+0 @I1375@ INDI
+1 NAME rovod inkydies
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 177
+1 DEAT
+2 DATE alive
+
+0 @I1377@ INDI
+1 NAME etur arrowbears
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 179
+1 DEAT
+2 DATE alive
+
+0 @I1379@ INDI
+1 NAME domas pastattics
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 164
+1 DEAT
+2 DATE alive
+
+0 @I1381@ INDI
+1 NAME kadol merchantseizure
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 187
+1 DEAT
+2 DATE alive
+
+0 @I1383@ INDI
+1 NAME eral lancedseal
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 158
+1 DEAT
+2 DATE alive
+
+0 @I1386@ INDI
+1 NAME kogan hairyhandles
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 170
+1 DEAT
+2 DATE alive
+
+0 @I1387@ INDI
+1 NAME goden roughemeralds
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 189
+1 DEAT
+2 DATE alive
+
+0 @I1389@ INDI
+1 NAME bembul graniterises
+1 SEX M
+1 BIRT
+2 DATE 28 Slate 246
+1 DEAT
+2 DATE alive
+
+0 @I1391@ INDI
+1 NAME kafit brandrings
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 187
+1 DEAT
+2 DATE alive
+
+0 @I1392@ INDI
+1 NAME pabat boltsplash
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 192
+1 DEAT
+2 DATE alive
+
+0 @I1394@ INDI
+1 NAME sarvesh cobalthammers
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 168
+1 DEAT
+2 DATE alive
+
+0 @I1396@ INDI
+1 NAME dobar copperkindles
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 185
+1 DEAT
+2 DATE alive
+
+0 @I1398@ INDI
+1 NAME ceslaz mobbedseam
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 178
+1 DEAT
+2 DATE alive
+
+0 @I1400@ INDI
+1 NAME lasod autumnstopped the gale of seizures
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 166
+1 DEAT
+2 DATE alive
+
+0 @I1401@ INDI
+1 NAME tohwot roaredtouch
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 184
+1 DEAT
+2 DATE alive
+
+0 @I1403@ INDI
+1 NAME sibrek glazestakes
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 184
+1 DEAT
+2 DATE alive
+
+0 @I1404@ INDI
+1 NAME cilob helmedmortal
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 180
+1 DEAT
+2 DATE alive
+
+0 @I1412@ INDI
+1 NAME zulban honestswords
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 165
+1 DEAT
+2 DATE alive
+
+0 @I1413@ INDI
+1 NAME rith appearedmansions
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 184
+1 DEAT
+2 DATE alive
+
+0 @I1415@ INDI
+1 NAME zuglar craftsscrape
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 197
+1 DEAT
+2 DATE alive
+
+0 @I1416@ INDI
+1 NAME shem bodicesense
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 189
+1 DEAT
+2 DATE alive
+
+0 @I1422@ INDI
+1 NAME tosid wheeledrocks the mahogany fog
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 180
+1 DEAT
+2 DATE alive
+
+0 @I1430@ INDI
+1 NAME onget whimboards the unseen mountain
+1 SEX M
+1 BIRT
+2 DATE 2 Opal 251
+1 DEAT
+2 DATE alive
+
+0 @I1435@ INDI
+1 NAME bomrek dearthkeys
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 170
+1 DEAT
+2 DATE alive
+
+0 @I1447@ INDI
+1 NAME monom lettershowers
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 201
+1 DEAT
+2 DATE alive
+
+0 @I1448@ INDI
+1 NAME atir spatteredconstruct
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 168
+1 DEAT
+2 DATE alive
+
+0 @I1449@ INDI
+1 NAME alath wheelscrystal
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 198
+1 DEAT
+2 DATE alive
+
+0 @I1454@ INDI
+1 NAME mestthos sprinkledhall
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 172
+1 DEAT
+2 DATE alive
+
+0 @I1456@ INDI
+1 NAME olon claspwaves
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 199
+1 DEAT
+2 DATE alive
+
+0 @I1458@ INDI
+1 NAME kol seizurepaddled
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 186
+1 DEAT
+2 DATE alive
+
+0 @I1478@ INDI
+1 NAME mestthos channelvales
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 172
+1 DEAT
+2 DATE alive
+
+0 @I1482@ INDI
+1 NAME zulban stokearmors
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 205
+1 DEAT
+2 DATE alive
+
+0 @I1485@ INDI
+1 NAME likot cryptscribe
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 184
+1 DEAT
+2 DATE alive
+
+0 @I1487@ INDI
+1 NAME ral bannerbasin
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 193
+1 DEAT
+2 DATE alive
+
+0 @I1488@ INDI
+1 NAME muthkat furnacehoisted
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 202
+1 DEAT
+2 DATE alive
+
+0 @I1490@ INDI
+1 NAME uzol helmscreed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 187
+1 DEAT
+2 DATE alive
+
+0 @I1496@ INDI
+1 NAME litast earthenbrass
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 211
+1 DEAT
+2 DATE alive
+
+0 @I1500@ INDI
+1 NAME ingiz silverycleared
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 176
+1 DEAT
+2 DATE alive
+
+0 @I1504@ INDI
+1 NAME dumed lanceempires
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 180
+1 DEAT
+2 DATE alive
+
+0 @I1515@ INDI
+1 NAME id channeltame
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 185
+1 DEAT
+2 DATE alive
+
+0 @I1518@ INDI
+1 NAME adil flagvoiced
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 212
+1 DEAT
+2 DATE alive
+
+0 @I1519@ INDI
+1 NAME logem bodiceblunts
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 210
+1 DEAT
+2 DATE alive
+
+0 @I1520@ INDI
+1 NAME sibrek brandedblockades
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 191
+1 DEAT
+2 DATE alive
+
+0 @I1524@ INDI
+1 NAME domas gulfflags
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 214
+1 DEAT
+2 DATE alive
+
+0 @I1525@ INDI
+1 NAME litast appearedcloister
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 190
+1 DEAT
+2 DATE alive
+
+0 @I1528@ INDI
+1 NAME mafol cloistersplashed
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 199
+1 DEAT
+2 DATE alive
+
+0 @I1530@ INDI
+1 NAME nocam southwar
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 183
+1 DEAT
+2 DATE alive
+
+0 @I1541@ INDI
+1 NAME eshtan trumpeturns
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 184
+1 DEAT
+2 DATE alive
+
+0 @I1545@ INDI
+1 NAME vabok matchedwhipped
+1 SEX F
+1 BIRT
+2 DATE 12 Galena 266
+1 DEAT
+2 DATE alive
+
+0 @I1546@ INDI
+1 NAME zefon tomesmines
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 183
+1 DEAT
+2 DATE alive
+
+0 @I1553@ INDI
+1 NAME kubuk goldstake
+1 SEX F
+1 BIRT
+2 DATE 6 Granite 267
+1 DEAT
+2 DATE alive
+
+0 @I1557@ INDI
+1 NAME cerol gatecries
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 185
+1 DEAT
+2 DATE alive
+
+0 @I1560@ INDI
+1 NAME galel oilysneaked
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 194
+1 DEAT
+2 DATE alive
+
+0 @I1563@ INDI
+1 NAME ases framedusks
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 208
+1 DEAT
+2 DATE alive
+
+0 @I1565@ INDI
+1 NAME pum taperequaled
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 187
+1 DEAT
+2 DATE alive
+
+0 @I1566@ INDI
+1 NAME sina crestedentrances
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 188
+1 DEAT
+2 DATE alive
+
+0 @I1569@ INDI
+1 NAME coni cookticks
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 216
+1 DEAT
+2 DATE alive
+
+0 @I1571@ INDI
+1 NAME shosa nutsbottle
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 193
+1 DEAT
+2 DATE alive
+
+0 @I1573@ INDI
+1 NAME puti farmweakness
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 207
+1 DEAT
+2 DATE alive
+
+0 @I1574@ INDI
+1 NAME urist wiltlash
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 193
+1 DEAT
+2 DATE alive
+
+0 @I1575@ INDI
+1 NAME risen figuretempests
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 185
+1 DEAT
+2 DATE alive
+
+0 @I1576@ INDI
+1 NAME cawcul gatelancer
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 212
+1 DEAT
+2 DATE alive
+
+0 @I1577@ INDI
+1 NAME stipoth bittenglazed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 208
+1 DEAT
+2 DATE alive
+
+0 @I1578@ INDI
+1 NAME rovod oiledmagic
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 208
+1 DEAT
+2 DATE alive
+
+0 @I1579@ INDI
+1 NAME kogsak listenedbasement
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 189
+1 DEAT
+2 DATE alive
+
+0 @I1581@ INDI
+1 NAME asmel wiltedwinds
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 194
+1 DEAT
+2 DATE alive
+
+0 @I1582@ INDI
+1 NAME sibrek bronzewax
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 209
+1 DEAT
+2 DATE alive
+
+0 @I1583@ INDI
+1 NAME morul cloisteredspine
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 219
+1 DEAT
+2 DATE alive
+
+0 @I1586@ INDI
+1 NAME tun romancequake
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 211
+1 DEAT
+2 DATE alive
+
+0 @I1593@ INDI
+1 NAME endok brassamuse
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 213
+1 DEAT
+2 DATE alive
+
+0 @I1596@ INDI
+1 NAME obok ringtrusss
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 199
+1 DEAT
+2 DATE alive
+
+0 @I1597@ INDI
+1 NAME stodir barbcraft
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 190
+1 DEAT
+2 DATE alive
+
+0 @I1599@ INDI
+1 NAME monom flickerspears
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 197
+1 DEAT
+2 DATE alive
+
+0 @I1606@ INDI
+1 NAME monom craftpost
+1 SEX M
+1 BIRT
+2 DATE 4 Moonstone 275
+1 DEAT
+2 DATE alive
+
+0 @I1607@ INDI
+1 NAME asmel bannerrelieved the avalanche of beasts
+1 SEX M
+1 BIRT
+2 DATE 10 Opal 275
+1 DEAT
+2 DATE alive
+
+0 @I1611@ INDI
+1 NAME thil steamtwine
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 196
+1 DEAT
+2 DATE alive
+
+0 @I1613@ INDI
+1 NAME sota peltframe
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 216
+1 DEAT
+2 DATE alive
+
+0 @I1616@ INDI
+1 NAME ori blamelessbee
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 221
+1 DEAT
+2 DATE alive
+
+0 @I1619@ INDI
+1 NAME moldath anvilviper
+1 SEX M
+1 BIRT
+2 DATE 5 Moonstone 276
+1 DEAT
+2 DATE alive
+
+0 @I1620@ INDI
+1 NAME umcos nourishjoined
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 208
+1 DEAT
+2 DATE alive
+
+0 @I1621@ INDI
+1 NAME lico snarlhopeful
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 193
+1 DEAT
+2 DATE alive
+
+0 @I1623@ INDI
+1 NAME asla cloakknights
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 191
+1 DEAT
+2 DATE alive
+
+0 @I1626@ INDI
+1 NAME onbir cresttaut
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 206
+1 DEAT
+2 DATE alive
+
+0 @I1627@ INDI
+1 NAME edin tusksieges
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 226
+1 DEAT
+2 DATE alive
+
+0 @I1630@ INDI
+1 NAME onaf commonceilings
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 225
+1 DEAT
+2 DATE alive
+
+0 @I1632@ INDI
+1 NAME thran mouthcover
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 208
+1 DEAT
+2 DATE alive
+
+0 @I1633@ INDI
+1 NAME onuth cheerfulsystems
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 221
+1 DEAT
+2 DATE alive
+
+0 @I1636@ INDI
+1 NAME thefin templeinns
+1 SEX M
+1 BIRT
+2 DATE 26 Granite 278
+1 DEAT
+2 DATE alive
+
+0 @I1639@ INDI
+1 NAME thikut bluntwork
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 200
+1 DEAT
+2 DATE alive
+
+0 @I1640@ INDI
+1 NAME sinur strikegames
+1 SEX M
+1 BIRT
+2 DATE 16 Timber 279
+1 DEAT
+2 DATE alive
+
+0 @I1641@ INDI
+1 NAME engdul drivebridges
+1 SEX M
+1 BIRT
+2 DATE 12 Obsidian 279
+1 DEAT
+2 DATE alive
+
+0 @I1642@ INDI
+1 NAME kib ironomens
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 227
+1 DEAT
+2 DATE alive
+
+0 @I1646@ INDI
+1 NAME ingish sealsnarled
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 195
+1 DEAT
+2 DATE alive
+
+0 @I1647@ INDI
+1 NAME thomo leafydwelled
+1 SEX M
+1 BIRT
+2 DATE 12 Opal 280
+1 DEAT
+2 DATE alive
+
+0 @I1649@ INDI
+1 NAME lokum wealthyabbey
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 229
+1 DEAT
+2 DATE alive
+
+0 @I1650@ INDI
+1 NAME ber sprinkledrack the play of sharks
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 216
+1 DEAT
+2 DATE alive
+
+0 @I1652@ INDI
+1 NAME domas hatchetconstructs
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 212
+1 DEAT
+2 DATE alive
+
+0 @I1653@ INDI
+1 NAME kivish gorgedink
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 200
+1 DEAT
+2 DATE alive
+
+0 @I1655@ INDI
+1 NAME mebzuth towerentered
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 210
+1 DEAT
+2 DATE alive
+
+0 @I1659@ INDI
+1 NAME kado naturalgrasped
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 203
+1 DEAT
+2 DATE alive
+
+0 @I1662@ INDI
+1 NAME ricgo brightgates
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 216
+1 DEAT
+2 DATE alive
+
+0 @I1663@ INDI
+1 NAME stama playedcake
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 224
+1 DEAT
+2 DATE alive
+
+0 @I1665@ INDI
+1 NAME artuk echocages
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 207
+1 DEAT
+2 DATE alive
+
+0 @I1667@ INDI
+1 NAME kel paintticks
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 199
+1 DEAT
+2 DATE alive
+
+0 @I1669@ INDI
+1 NAME kadol graniteskins
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 200
+1 DEAT
+2 DATE alive
+
+0 @I1670@ INDI
+1 NAME obok catchlenses
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 217
+1 DEAT
+2 DATE alive
+
+0 @I1671@ INDI
+1 NAME iteb tellblockades
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 208
+1 DEAT
+2 DATE alive
+
+0 @I1673@ INDI
+1 NAME endok lancechampion
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 211
+1 DEAT
+2 DATE alive
+
+0 @I1676@ INDI
+1 NAME kogan mansionceiling
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 233
+1 DEAT
+2 DATE alive
+
+0 @I1677@ INDI
+1 NAME eral tomespeak
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 234
+1 DEAT
+2 DATE alive
+
+0 @I1679@ INDI
+1 NAME limul workships
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 207
+1 DEAT
+2 DATE alive
+
+0 @I1682@ INDI
+1 NAME zasit boltbridges
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 210
+1 DEAT
+2 DATE alive
+
+0 @I1687@ INDI
+1 NAME erib boltshaken
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 205
+1 DEAT
+2 DATE alive
+
+0 @I1691@ INDI
+1 NAME goden daggertrailed
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 208
+1 DEAT
+2 DATE alive
+
+0 @I1694@ INDI
+1 NAME thikut mansionsoared
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 224
+1 DEAT
+2 DATE alive
+
+0 @I1698@ INDI
+1 NAME mosus shielddrunken
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 209
+1 DEAT
+2 DATE alive
+
+0 @I1700@ INDI
+1 NAME morul swifttours
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 239
+1 DEAT
+2 DATE alive
+
+0 @I1702@ INDI
+1 NAME tekkud ringtrade
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 218
+1 DEAT
+2 DATE alive
+
+0 @I1710@ INDI
+1 NAME iden watchedslings
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 243
+1 DEAT
+2 DATE alive
+
+0 @I1711@ INDI
+1 NAME datan cloistertongs
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 214
+1 DEAT
+2 DATE alive
+
+0 @I1714@ INDI
+1 NAME dodok crystalwordy
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 224
+1 DEAT
+2 DATE alive
+
+0 @I1715@ INDI
+1 NAME thikut hailurns
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 216
+1 DEAT
+2 DATE alive
+
+0 @I1716@ INDI
+1 NAME obok netsearched
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 224
+1 DEAT
+2 DATE alive
+
+0 @I1717@ INDI
+1 NAME catten paintedspun
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 227
+1 DEAT
+2 DATE alive
+
+0 @I1720@ INDI
+1 NAME fath helmsgales
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 219
+1 DEAT
+2 DATE alive
+
+0 @I1722@ INDI
+1 NAME kogan fencedgleam the mystery of seals
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 242
+1 DEAT
+2 DATE alive
+
+0 @I1723@ INDI
+1 NAME stodir bellplains
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 219
+1 DEAT
+2 DATE alive
+
+0 @I1727@ INDI
+1 NAME mosus pickwhips
+1 SEX M
+1 BIRT
+2 DATE 23 Slate 303
+1 DEAT
+2 DATE alive
+
+0 @I1729@ INDI
+1 NAME melbil mazechambers
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 229
+1 DEAT
+2 DATE alive
+
+0 @I1730@ INDI
+1 NAME stakud bodicesieged
+1 SEX F
+1 BIRT
+2 DATE 8 Obsidian 304
+1 DEAT
+2 DATE alive
+
+0 @I1731@ INDI
+1 NAME ber kissedsacks
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 232
+1 DEAT
+2 DATE alive
+
+0 @I1732@ INDI
+1 NAME olon languagebolts
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 231
+1 DEAT
+2 DATE alive
+
+0 @I1734@ INDI
+1 NAME ral roughnesspaper
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 222
+1 DEAT
+2 DATE alive
+
+0 @I1736@ INDI
+1 NAME kubuk goldenapes
+1 SEX F
+1 BIRT
+2 DATE 19 Obsidian 305
+1 DEAT
+2 DATE alive
+
+0 @I1737@ INDI
+1 NAME kivish treatystrikes
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 255
+1 DEAT
+2 DATE alive
+
+0 @I1741@ INDI
+1 NAME inod grovecities
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 240
+1 DEAT
+2 DATE alive
+
+0 @I1742@ INDI
+1 NAME udib walkedbridged
+1 SEX F
+1 BIRT
+2 DATE 8 Obsidian 306
+1 DEAT
+2 DATE alive
+
+0 @I1746@ INDI
+1 NAME rith wipedarch
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 233
+1 DEAT
+2 DATE alive
+
+0 @I1749@ INDI
+1 NAME kumil claspclimates
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 222
+1 DEAT
+2 DATE alive
+
+0 @I1750@ INDI
+1 NAME melbil speakbridge
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 224
+1 DEAT
+2 DATE alive
+
+0 @I1751@ INDI
+1 NAME edzul shoretreaties
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 225
+1 DEAT
+2 DATE alive
+
+0 @I1753@ INDI
+1 NAME ecsha healedfly
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 250
+1 DEAT
+2 DATE alive
+
+0 @I1756@ INDI
+1 NAME amost pucetombs
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 240
+1 DEAT
+2 DATE alive
+
+0 @I1758@ INDI
+1 NAME ejas taperedbride
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 231
+1 DEAT
+2 DATE alive
+
+0 @I1760@ INDI
+1 NAME naspa motherlunch
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 240
+1 DEAT
+2 DATE alive
+
+0 @I1762@ INDI
+1 NAME muthro rampartmirrors
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 226
+1 DEAT
+2 DATE alive
+
+0 @I1763@ INDI
+1 NAME siru mopcarried
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 228
+1 DEAT
+2 DATE alive
+
+0 @I1767@ INDI
+1 NAME legu dawnpride
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 233
+1 DEAT
+2 DATE alive
+
+0 @I1770@ INDI
+1 NAME anthath trimstopped
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 226
+1 DEAT
+2 DATE alive
+
+0 @I1771@ INDI
+1 NAME degel violetdiamonds
+1 SEX M
+1 BIRT
+2 DATE 5 Timber 313
+1 DEAT
+2 DATE alive
+
+0 @I1772@ INDI
+1 NAME tekud whiskshelters
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 242
+1 DEAT
+2 DATE alive
+
+0 @I1773@ INDI
+1 NAME stalith sculpturewatches
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 246
+1 DEAT
+2 DATE alive
+
+0 @I1774@ INDI
+1 NAME ahdo tranceesteems
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 227
+1 DEAT
+2 DATE alive
+
+0 @I1777@ INDI
+1 NAME thur botherseized
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 251
+1 DEAT
+2 DATE alive
+
+0 @I1780@ INDI
+1 NAME ras birdspondered
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 259
+1 DEAT
+2 DATE alive
+
+0 @I1782@ INDI
+1 NAME jasmuk ancientstands
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 231
+1 DEAT
+2 DATE alive
+
+0 @I1784@ INDI
+1 NAME gel scalehugs
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 258
+1 DEAT
+2 DATE alive
+
+0 @I1787@ INDI
+1 NAME onec flaxenreined
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 230
+1 DEAT
+2 DATE alive
+
+0 @I1788@ INDI
+1 NAME lor inkyquests
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 246
+1 DEAT
+2 DATE alive
+
+0 @I1789@ INDI
+1 NAME edzul purehammers
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 236
+1 DEAT
+2 DATE alive
+
+0 @I1791@ INDI
+1 NAME sakzul groovegravel
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 255
+1 DEAT
+2 DATE alive
+
+0 @I1792@ INDI
+1 NAME udil kinarrows
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 232
+1 DEAT
+2 DATE alive
+
+0 @I1793@ INDI
+1 NAME nish whimsoil
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 243
+1 DEAT
+2 DATE alive
+
+0 @I1794@ INDI
+1 NAME kadol steelsnarls
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 263
+1 DEAT
+2 DATE alive
+
+0 @I1795@ INDI
+1 NAME dobar sizzlelashed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 237
+1 DEAT
+2 DATE alive
+
+0 @I1797@ INDI
+1 NAME kosoth standardtrench
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 250
+1 DEAT
+2 DATE alive
+
+0 @I1798@ INDI
+1 NAME mebzuth pulleylances
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 243
+1 DEAT
+2 DATE alive
+
+0 @I1799@ INDI
+1 NAME rigoth meturn
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 247
+1 DEAT
+2 DATE alive
+
+0 @I1801@ INDI
+1 NAME asmel oilyquickness
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 256
+1 DEAT
+2 DATE alive
+
+0 @I1803@ INDI
+1 NAME morul portalesteem
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 252
+1 DEAT
+2 DATE alive
+
+0 @I1805@ INDI
+1 NAME asmel weakenbridges
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 252
+1 DEAT
+2 DATE alive
+
+0 @I1809@ INDI
+1 NAME iteb abbeyletters
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 259
+1 DEAT
+2 DATE alive
+
+0 @I1810@ INDI
+1 NAME moldath axemolten
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 251
+1 DEAT
+2 DATE alive
+
+0 @I1813@ INDI
+1 NAME thob fedhandles
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 266
+1 DEAT
+2 DATE alive
+
+0 @I1814@ INDI
+1 NAME kadol trussedtools
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 256
+1 DEAT
+2 DATE alive
+
+0 @I1815@ INDI
+1 NAME as practicenets
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 254
+1 DEAT
+2 DATE alive
+
+0 @I1816@ INDI
+1 NAME ilral skinnystockade
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 271
+1 DEAT
+2 DATE alive
+
+0 @I1817@ INDI
+1 NAME dodok ceilinggrowls
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 247
+1 DEAT
+2 DATE alive
+
+0 @I1818@ INDI
+1 NAME olin wiltshield
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 270
+1 DEAT
+2 DATE alive
+
+0 @I1819@ INDI
+1 NAME monom copperpaints
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 250
+1 DEAT
+2 DATE alive
+
+0 @I1820@ INDI
+1 NAME rovod ropewaters
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 242
+1 DEAT
+2 DATE alive
+
+0 @I1821@ INDI
+1 NAME monom markceiling
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 249
+1 DEAT
+2 DATE alive
+
+0 @I1822@ INDI
+1 NAME erush paddleshimmered
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 249
+1 DEAT
+2 DATE alive
+
+0 @I1823@ INDI
+1 NAME astesh spikespainted
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 268
+1 DEAT
+2 DATE alive
+
+0 @I1824@ INDI
+1 NAME stukos shockedink
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 237
+1 DEAT
+2 DATE alive
+
+0 @I1825@ INDI
+1 NAME ushat boltsweb
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 248
+1 DEAT
+2 DATE alive
+
+0 @I1827@ INDI
+1 NAME edzul toothcobalt
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 264
+1 DEAT
+2 DATE alive
+
+0 @I1830@ INDI
+1 NAME eral lulledbanners
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 249
+1 DEAT
+2 DATE alive
+
+0 @I1833@ INDI
+1 NAME tun wheelclutchs the savage cacti
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 252
+1 DEAT
+2 DATE alive
+
+0 @I1838@ INDI
+1 NAME emtha shaftclod
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 266
+1 DEAT
+2 DATE alive
+
+0 @I1841@ INDI
+1 NAME bendi framedfocus
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 268
+1 DEAT
+2 DATE alive
+
+0 @I1842@ INDI
+1 NAME urist bindrooms
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 257
+1 DEAT
+2 DATE alive
+
+0 @I1843@ INDI
+1 NAME alath tradepatterned
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 276
+1 DEAT
+2 DATE alive
+
+0 @I1845@ INDI
+1 NAME esme beakcanyon
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 270
+1 DEAT
+2 DATE alive
+
+0 @I1847@ INDI
+1 NAME sigun bridgeclout
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 242
+1 DEAT
+2 DATE alive
+
+0 @I1848@ INDI
+1 NAME zulban helmedsavages
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 277
+1 DEAT
+2 DATE alive
+
+0 @I1850@ INDI
+1 NAME inu crewedseam
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 250
+1 DEAT
+2 DATE alive
+
+0 @I1851@ INDI
+1 NAME erith bladelabors
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 274
+1 DEAT
+2 DATE alive
+
+0 @I1852@ INDI
+1 NAME ral whipjewel
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 256
+1 DEAT
+2 DATE alive
+
+0 @I1853@ INDI
+1 NAME unib labortick
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 245
+1 DEAT
+2 DATE alive
+
+0 @I1854@ INDI
+1 NAME kel ramcloisters
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 250
+1 DEAT
+2 DATE alive
+
+0 @I1855@ INDI
+1 NAME as actedtheaters
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 255
+1 DEAT
+2 DATE alive
+
+0 @I1856@ INDI
+1 NAME rakust mountaintrusts
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 255
+1 DEAT
+2 DATE alive
+
+0 @I1860@ INDI
+1 NAME tun lovedstockade
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 245
+1 DEAT
+2 DATE alive
+
+0 @I1861@ INDI
+1 NAME kadol bridgedseized
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 248
+1 DEAT
+2 DATE alive
+
+0 @I1862@ INDI
+1 NAME erush couragelashed
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 263
+1 DEAT
+2 DATE alive
+
+0 @I1863@ INDI
+1 NAME kumil weakenedmine
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 267
+1 DEAT
+2 DATE alive
+
+0 @I1864@ INDI
+1 NAME kogan daggercrystals
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 258
+1 DEAT
+2 DATE alive
+
+0 @I1869@ INDI
+1 NAME libash squidwall
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 281
+1 DEAT
+2 DATE alive
+
+0 @I1871@ INDI
+1 NAME geshud tongscats
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 252
+1 DEAT
+2 DATE alive
+
+0 @I1875@ INDI
+1 NAME ineth truthspear
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 253
+1 DEAT
+2 DATE alive
+
+0 @I1877@ INDI
+1 NAME mebzuth claspedfield
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 245
+1 DEAT
+2 DATE alive
+
+0 @I1879@ INDI
+1 NAME ismir modestdates
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 263
+1 DEAT
+2 DATE alive
+
+0 @I1880@ INDI
+1 NAME wuspin boulderrains
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 259
+1 DEAT
+2 DATE alive
+
+0 @I1881@ INDI
+1 NAME unir spoonpractices
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 277
+1 DEAT
+2 DATE alive
+
+0 @I1882@ INDI
+1 NAME ithbi crowncleaned
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 250
+1 DEAT
+2 DATE alive
+
+0 @I1884@ INDI
+1 NAME stama casketbaldness
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 275
+1 DEAT
+2 DATE alive
+
+0 @I1886@ INDI
+1 NAME nese graspwonder
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 263
+1 DEAT
+2 DATE alive
+
+0 @I1887@ INDI
+1 NAME ehil teachnestles
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 249
+1 DEAT
+2 DATE alive
+
+0 @I1888@ INDI
+1 NAME asob hammerjungle
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 282
+1 DEAT
+2 DATE alive
+
+0 @I1889@ INDI
+1 NAME lasod mintcontained
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 269
+1 DEAT
+2 DATE alive
+
+0 @I1890@ INDI
+1 NAME ite calmbrightness
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 273
+1 DEAT
+2 DATE alive
+
+0 @I1891@ INDI
+1 NAME iguk plungepuzzle
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 263
+1 DEAT
+2 DATE alive
+
+0 @I1893@ INDI
+1 NAME tin versetrammeled
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 255
+1 DEAT
+2 DATE alive
+
+0 @I1894@ INDI
+1 NAME gal flashbowel
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 252
+1 DEAT
+2 DATE alive
+
+0 @I1895@ INDI
+1 NAME omba sisterscuts
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 267
+1 DEAT
+2 DATE alive
+
+0 @I1896@ INDI
+1 NAME tokri clearwarded
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 263
+1 DEAT
+2 DATE alive
+
+0 @I1897@ INDI
+1 NAME stredac obeyancient
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 263
+1 DEAT
+2 DATE alive
+
+0 @I1898@ INDI
+1 NAME vabok postoak the frenzy of soldiers
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 267
+1 DEAT
+2 DATE alive
+
+0 @I1899@ INDI
+1 NAME edem copperskulls
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 277
+1 DEAT
+2 DATE alive
+
+0 @I1903@ INDI
+1 NAME kib paddledreamed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 259
+1 DEAT
+2 DATE alive
+
+0 @I1904@ INDI
+1 NAME kib scholaraxes
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 273
+1 DEAT
+2 DATE alive
+
+0 @I1905@ INDI
+1 NAME izem cudgeltundras
+1 SEX M
+1 BIRT
+2 DATE 17 Obsidian 337
+1 DEAT
+2 DATE alive
+
+0 @I1906@ INDI
+1 NAME reg paintwhispered
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 263
+1 DEAT
+2 DATE alive
+
+0 @I1908@ INDI
+1 NAME asob armorgrottoes
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 265
+1 DEAT
+2 DATE alive
+
+0 @I1910@ INDI
+1 NAME kumil mazecraft
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 274
+1 DEAT
+2 DATE alive
+
+0 @I1911@ INDI
+1 NAME tholtig ironshowered
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 251
+1 DEAT
+2 DATE alive
+
+0 @I1913@ INDI
+1 NAME rosmic martyrdragon
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 271
+1 DEAT
+2 DATE alive
+
+0 @I1917@ INDI
+1 NAME xiza clawguise
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 264
+1 DEAT
+2 DATE alive
+
+0 @I1918@ INDI
+1 NAME pebu topromanced
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 252
+1 DEAT
+2 DATE alive
+
+0 @I1919@ INDI
+1 NAME tobul languagetraded
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 273
+1 DEAT
+2 DATE alive
+
+0 @I1920@ INDI
+1 NAME avuz craftbalanced
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 284
+1 DEAT
+2 DATE alive
+
+0 @I1921@ INDI
+1 NAME mapo princesstongs
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 278
+1 DEAT
+2 DATE alive
+
+0 @I1922@ INDI
+1 NAME mata cagefocused
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 263
+1 DEAT
+2 DATE alive
+
+0 @I1923@ INDI
+1 NAME bushik balancedmartyred
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 270
+1 DEAT
+2 DATE alive
+
+0 @I1924@ INDI
+1 NAME udib hammershake
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 290
+1 DEAT
+2 DATE alive
+
+0 @I1925@ INDI
+1 NAME urdim bannerrout
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 278
+1 DEAT
+2 DATE alive
+
+0 @I1927@ INDI
+1 NAME lorbam giltspire
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 289
+1 DEAT
+2 DATE alive
+
+0 @I1928@ INDI
+1 NAME ilral worshipcrystal
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 281
+1 DEAT
+2 DATE alive
+
+0 @I1930@ INDI
+1 NAME onget syruphelps
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 257
+1 DEAT
+2 DATE alive
+
+0 @I1931@ INDI
+1 NAME mistem tombburned
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 267
+1 DEAT
+2 DATE alive
+
+0 @I1933@ INDI
+1 NAME quihu frosthills
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 270
+1 DEAT
+2 DATE alive
+
+0 @I1934@ INDI
+1 NAME obok shellbridges
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 286
+1 DEAT
+2 DATE alive
+
+0 @I1936@ INDI
+1 NAME icgil spikeknead
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 291
+1 DEAT
+2 DATE alive
+
+0 @I1938@ INDI
+1 NAME kulet stakepoint
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 283
+1 DEAT
+2 DATE alive
+
+0 @I1939@ INDI
+1 NAME zefon pagesquashed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 287
+1 DEAT
+2 DATE alive
+
+0 @I1941@ INDI
+1 NAME gatshi sugarcloak
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 295
+1 DEAT
+2 DATE alive
+
+0 @I1943@ INDI
+1 NAME unib ochreanguished
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 269
+1 DEAT
+2 DATE alive
+
+0 @I1944@ INDI
+1 NAME sodel cradledtreaty
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 261
+1 DEAT
+2 DATE alive
+
+0 @I1945@ INDI
+1 NAME dodok channeltaxed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 283
+1 DEAT
+2 DATE alive
+
+0 @I1947@ INDI
+1 NAME imush flagplunged
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 285
+1 DEAT
+2 DATE alive
+
+0 @I1949@ INDI
+1 NAME bomrek tunnelshoots
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 280
+1 DEAT
+2 DATE alive
+
+0 @I1950@ INDI
+1 NAME ral atticclobber
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 276
+1 DEAT
+2 DATE alive
+
+0 @I1951@ INDI
+1 NAME obok paintedticks
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 278
+1 DEAT
+2 DATE alive
+
+0 @I1952@ INDI
+1 NAME sibrek martyrpages
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 288
+1 DEAT
+2 DATE alive
+
+0 @I1954@ INDI
+1 NAME nomal fatedworks the lush intensity
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 297
+1 DEAT
+2 DATE alive
+
+0 @I1955@ INDI
+1 NAME atis newtraded
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 264
+1 DEAT
+2 DATE alive
+
+0 @I1956@ INDI
+1 NAME ber ceilingown
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 273
+1 DEAT
+2 DATE alive
+
+0 @I1957@ INDI
+1 NAME dastot helmedseal
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 276
+1 DEAT
+2 DATE alive
+
+0 @I1960@ INDI
+1 NAME lor keydrilled
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 282
+1 DEAT
+2 DATE alive
+
+0 @I1962@ INDI
+1 NAME tirist bellsands
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 282
+1 DEAT
+2 DATE alive
+
+0 @I1965@ INDI
+1 NAME tholtig tiplance
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 265
+1 DEAT
+2 DATE alive
+
+0 @I1966@ INDI
+1 NAME ast whipchewed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 269
+1 DEAT
+2 DATE alive
+
+0 @I1967@ INDI
+1 NAME ejas prestigemoment
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 284
+1 DEAT
+2 DATE alive
+
+0 @I1968@ INDI
+1 NAME astesh stakeautumn
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 296
+1 DEAT
+2 DATE alive
+
+0 @I1970@ INDI
+1 NAME thrathdad outragepassage
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 286
+1 DEAT
+2 DATE alive
+
+0 @I1971@ INDI
+1 NAME manba councilsold
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 285
+1 DEAT
+2 DATE alive
+
+0 @I1977@ INDI
+1 NAME hustra oilwondered
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 266
+1 DEAT
+2 DATE alive
+
+0 @I1979@ INDI
+1 NAME jirdo routscorch
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 290
+1 DEAT
+2 DATE alive
+
+0 @I1981@ INDI
+1 NAME onmo sensesromance
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 299
+1 DEAT
+2 DATE alive
+
+0 @I1984@ INDI
+1 NAME guki velvetwalked
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 282
+1 DEAT
+2 DATE alive
+
+0 @I1986@ INDI
+1 NAME lastta conventcrested
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 277
+1 DEAT
+2 DATE alive
+
+0 @I1987@ INDI
+1 NAME minkot praisedcobalt
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 269
+1 DEAT
+2 DATE alive
+
+0 @I1988@ INDI
+1 NAME furi trimcrewed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 298
+1 DEAT
+2 DATE alive
+
+0 @I1990@ INDI
+1 NAME xah magicrelease
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 299
+1 DEAT
+2 DATE alive
+
+0 @I1993@ INDI
+1 NAME obok esteemring
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 272
+1 DEAT
+2 DATE alive
+
+0 @I1994@ INDI
+1 NAME onol inkwings the veil of seas
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 272
+1 DEAT
+2 DATE alive
+
+0 @I1995@ INDI
+1 NAME doren craftspanted
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 298
+1 DEAT
+2 DATE alive
+
+0 @I2001@ INDI
+1 NAME rigoth salveswallow
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 300
+1 DEAT
+2 DATE alive
+
+0 @I2003@ INDI
+1 NAME nish lensspatters
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 277
+1 DEAT
+2 DATE alive
+
+0 @I2007@ INDI
+1 NAME zan theaterglow
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 283
+1 DEAT
+2 DATE alive
+
+0 @I2008@ INDI
+1 NAME kol cryptarm
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 287
+1 DEAT
+2 DATE alive
+
+0 @I2012@ INDI
+1 NAME cerol boltscrape
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 287
+1 DEAT
+2 DATE alive
+
+0 @I2014@ INDI
+1 NAME mafol hammerpeaceful
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 274
+1 DEAT
+2 DATE alive
+
+0 @I2015@ INDI
+1 NAME tun metalsunk
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 308
+1 DEAT
+2 DATE alive
+
+0 @I2016@ INDI
+1 NAME thespde combinedclap
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 297
+1 DEAT
+2 DATE alive
+
+0 @I2018@ INDI
+1 NAME kafit platerelieve
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 290
+1 DEAT
+2 DATE alive
+
+0 @I2021@ INDI
+1 NAME litast bootsizzled
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 296
+1 DEAT
+2 DATE alive
+
+0 @I2022@ INDI
+1 NAME shene stillsplatters
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 283
+1 DEAT
+2 DATE alive
+
+0 @I2024@ INDI
+1 NAME tohwot dwelledoats
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 303
+1 DEAT
+2 DATE alive
+
+0 @I2025@ INDI
+1 NAME ustra bellswound
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 305
+1 DEAT
+2 DATE alive
+
+0 @I2027@ INDI
+1 NAME lorbam rocksfell
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 292
+1 DEAT
+2 DATE alive
+
+0 @I2028@ INDI
+1 NAME dumed grandfortress
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 304
+1 DEAT
+2 DATE alive
+
+0 @I2029@ INDI
+1 NAME sarvesh gildflicker
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 286
+1 DEAT
+2 DATE alive
+
+0 @I2031@ INDI
+1 NAME lolor drinkworks
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 301
+1 DEAT
+2 DATE alive
+
+0 @I2032@ INDI
+1 NAME kosoth scaldedtour
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 279
+1 DEAT
+2 DATE alive
+
+0 @I2033@ INDI
+1 NAME tun lashwinds
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 309
+1 DEAT
+2 DATE alive
+
+0 @I2034@ INDI
+1 NAME unib daggerrift
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 291
+1 DEAT
+2 DATE alive
+
+0 @I2035@ INDI
+1 NAME oddom clasprush
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 301
+1 DEAT
+2 DATE alive
+
+0 @I2036@ INDI
+1 NAME rimtar treatywords
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 301
+1 DEAT
+2 DATE alive
+
+0 @I2037@ INDI
+1 NAME adil leadgorge
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 304
+1 DEAT
+2 DATE alive
+
+0 @I2039@ INDI
+1 NAME urvad helmfaint
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 302
+1 DEAT
+2 DATE alive
+
+0 @I2040@ INDI
+1 NAME onul claspbreath
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 287
+1 DEAT
+2 DATE alive
+
+0 @I2042@ INDI
+1 NAME zasit merchantrelieve
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 304
+1 DEAT
+2 DATE alive
+
+0 @I2043@ INDI
+1 NAME morul blockadeflag
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 316
+1 DEAT
+2 DATE alive
+
+0 @I2045@ INDI
+1 NAME lor greatcanyon
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 314
+1 DEAT
+2 DATE alive
+
+0 @I2047@ INDI
+1 NAME datan clasptaken
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 304
+1 DEAT
+2 DATE alive
+
+0 @I2049@ INDI
+1 NAME asob helmedrooms
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 298
+1 DEAT
+2 DATE alive
+
+0 @I2052@ INDI
+1 NAME athel ragpast
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 285
+1 DEAT
+2 DATE alive
+
+0 @I2053@ INDI
+1 NAME asob fortressraked
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 315
+1 DEAT
+2 DATE alive
+
+0 @I2054@ INDI
+1 NAME udib workedtomb
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 288
+1 DEAT
+2 DATE alive
+
+0 @I2055@ INDI
+1 NAME tobul echobasement
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 316
+1 DEAT
+2 DATE alive
+
+0 @I2056@ INDI
+1 NAME fath strikearrows
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 320
+1 DEAT
+2 DATE alive
+
+0 @I2057@ INDI
+1 NAME ezum shiplocked
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 315
+1 DEAT
+2 DATE alive
+
+0 @I2058@ INDI
+1 NAME obok pagetowers
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 287
+1 DEAT
+2 DATE alive
+
+0 @I2059@ INDI
+1 NAME aban oilybattle
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 291
+1 DEAT
+2 DATE alive
+
+0 @I2062@ INDI
+1 NAME bembul flyseal
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 312
+1 DEAT
+2 DATE alive
+
+0 @I2063@ INDI
+1 NAME avuz channelsprays
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 321
+1 DEAT
+2 DATE alive
+
+0 @I2064@ INDI
+1 NAME mafol blotbanners
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 319
+1 DEAT
+2 DATE alive
+
+0 @I2065@ INDI
+1 NAME kib charcoalgirder
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 309
+1 DEAT
+2 DATE alive
+
+0 @I2066@ INDI
+1 NAME domas axeyell
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 314
+1 DEAT
+2 DATE alive
+
+0 @I2068@ INDI
+1 NAME led closetongs
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 298
+1 DEAT
+2 DATE alive
+
+0 @I2072@ INDI
+1 NAME tulon pureworks
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 316
+1 DEAT
+2 DATE alive
+
+0 @I2073@ INDI
+1 NAME erith soothedpaddle
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 303
+1 DEAT
+2 DATE alive
+
+0 @I2074@ INDI
+1 NAME mafol shakencudgel
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 292
+1 DEAT
+2 DATE alive
+
+0 @I2075@ INDI
+1 NAME olin fiercefigure
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 294
+1 DEAT
+2 DATE alive
+
+0 @I2076@ INDI
+1 NAME tosid amusemachines
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 311
+1 DEAT
+2 DATE alive
+
+0 @I2077@ INDI
+1 NAME meng coalsinew
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 287
+1 DEAT
+2 DATE alive
+
+0 @I2078@ INDI
+1 NAME lor enterpainted
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 315
+1 DEAT
+2 DATE alive
+
+0 @I2079@ INDI
+1 NAME etur wheelstance
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 298
+1 DEAT
+2 DATE alive
+
+0 @I2081@ INDI
+1 NAME onul boltlanterns
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 311
+1 DEAT
+2 DATE alive
+
+0 @I2082@ INDI
+1 NAME goden gemseason
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 297
+1 DEAT
+2 DATE alive
+
+0 @I2083@ INDI
+1 NAME bomrek earthencircled
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 294
+1 DEAT
+2 DATE alive
+
+0 @I2084@ INDI
+1 NAME zuglar wheeledgroup
+1 SEX M
+1 BIRT
+2 DATE 20 Galena 375
+1 DEAT
+2 DATE alive
+
+0 @I2085@ INDI
+1 NAME bembul cavernshield
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 306
+1 DEAT
+2 DATE alive
+
+0 @I2087@ INDI
+1 NAME etur stockadewebbed
+1 SEX F
+1 BIRT
+2 DATE 17 Obsidian 376
+1 DEAT
+2 DATE alive
+
+0 @I2088@ INDI
+1 NAME likot groupedstandard
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 317
+1 DEAT
+2 DATE alive
+
+0 @I2089@ INDI
+1 NAME ber glovedbands
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 324
+1 DEAT
+2 DATE alive
+
+0 @I2091@ INDI
+1 NAME domas colorgalley
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 291
+1 DEAT
+2 DATE alive
+
+0 @I2093@ INDI
+1 NAME bomrek roadgrottoes
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 302
+1 DEAT
+2 DATE alive
+
+0 @I2094@ INDI
+1 NAME thob minethrones
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 300
+1 DEAT
+2 DATE alive
+
+0 @I2095@ INDI
+1 NAME solon cryptbow
+1 SEX F
+1 BIRT
+2 DATE 9 Obsidian 377
+1 DEAT
+2 DATE alive
+
+0 @I2098@ INDI
+1 NAME thikut playfulbronze
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 298
+1 DEAT
+2 DATE alive
+
+0 @I2099@ INDI
+1 NAME nish hailclasped
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 297
+1 DEAT
+2 DATE alive
+
+0 @I2100@ INDI
+1 NAME urdim rocksfondle
+1 SEX F
+1 BIRT
+2 DATE 4 Opal 378
+1 DEAT
+2 DATE alive
+
+0 @I2102@ INDI
+1 NAME stakud ramconstructs
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 325
+1 DEAT
+2 DATE alive
+
+0 @I2103@ INDI
+1 NAME vabok lullarch
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 311
+1 DEAT
+2 DATE alive
+
+0 @I2104@ INDI
+1 NAME nish lanternhawk
+1 SEX M
+1 BIRT
+2 DATE 20 Moonstone 379
+1 DEAT
+2 DATE alive
+
+0 @I2105@ INDI
+1 NAME asen oilyjudges
+1 SEX F
+1 BIRT
+2 DATE 16 Obsidian 379
+1 DEAT
+2 DATE alive
+
+0 @I2106@ INDI
+1 NAME dastot tangleinks
+1 SEX F
+1 BIRT
+2 DATE 16 Opal 380
+1 DEAT
+2 DATE alive
+
+0 @I2107@ INDI
+1 NAME thinir stakeauthor
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 327
+1 DEAT
+2 DATE alive
+
+0 @I2110@ INDI
+1 NAME almef sculptedlimes
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 305
+1 DEAT
+2 DATE alive
+
+0 @I2111@ INDI
+1 NAME kel whipspikes
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 308
+1 DEAT
+2 DATE alive
+
+0 @I2112@ INDI
+1 NAME erush boweltour
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 327
+1 DEAT
+2 DATE alive
+
+0 @I2113@ INDI
+1 NAME onol flarecastles
+1 SEX M
+1 BIRT
+2 DATE 25 Moonstone 381
+1 DEAT
+2 DATE alive
+
+0 @I2114@ INDI
+1 NAME gadoc kingdomsmanor
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 295
+1 DEAT
+2 DATE alive
+
+0 @I2117@ INDI
+1 NAME donu kingdomsslaughter
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 296
+1 DEAT
+2 DATE alive
+
+0 @I2118@ INDI
+1 NAME ushrir lancebasin
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 315
+1 DEAT
+2 DATE alive
+
+0 @I2120@ INDI
+1 NAME otir defenseskin
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 297
+1 DEAT
+2 DATE alive
+
+0 @I2121@ INDI
+1 NAME ricgo walkswallowed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 321
+1 DEAT
+2 DATE alive
+
+0 @I2123@ INDI
+1 NAME onol grovegalleys
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 306
+1 DEAT
+2 DATE alive
+
+0 @I2124@ INDI
+1 NAME tobul tongschewed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 308
+1 DEAT
+2 DATE alive
+
+0 @I2125@ INDI
+1 NAME vutok splashvessel
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 313
+1 DEAT
+2 DATE alive
+
+0 @I2126@ INDI
+1 NAME athel mountainraked
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 330
+1 DEAT
+2 DATE alive
+
+0 @I2128@ INDI
+1 NAME iton wipedcloister
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 330
+1 DEAT
+2 DATE alive
+
+0 @I2131@ INDI
+1 NAME reg glovedwaved
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 333
+1 DEAT
+2 DATE alive
+
+0 @I2132@ INDI
+1 NAME aban plannedmirrors
+1 SEX F
+1 BIRT
+2 DATE 19 Felsite 384
+1 DEAT
+2 DATE alive
+
+0 @I2133@ INDI
+1 NAME sakzul quakephrases
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 315
+1 DEAT
+2 DATE alive
+
+0 @I2134@ INDI
+1 NAME alath crescentcrafts
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 329
+1 DEAT
+2 DATE alive
+
+0 @I2135@ INDI
+1 NAME eral poolstandard
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 312
+1 DEAT
+2 DATE alive
+
+0 @I2136@ INDI
+1 NAME doren bentspear
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 325
+1 DEAT
+2 DATE alive
+
+0 @I2137@ INDI
+1 NAME iton slinglocked
+1 SEX M
+1 BIRT
+2 DATE 25 Opal 386
+1 DEAT
+2 DATE alive
+
+0 @I2138@ INDI
+1 NAME ulde firecaught
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 299
+1 DEAT
+2 DATE alive
+
+0 @I2139@ INDI
+1 NAME dishmab manhelm
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 322
+1 DEAT
+2 DATE alive
+
+0 @I2140@ INDI
+1 NAME tosid gearedspin
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 299
+1 DEAT
+2 DATE alive
+
+0 @I2141@ INDI
+1 NAME oddom shieldsneaks
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 336
+1 DEAT
+2 DATE alive
+
+0 @I2142@ INDI
+1 NAME lokum bootempires
+1 SEX F
+1 BIRT
+2 DATE 28 Opal 387
+1 DEAT
+2 DATE alive
+
+0 @I2143@ INDI
+1 NAME litast contestmountain
+1 SEX F
+1 BIRT
+2 DATE 6 Moonstone 387
+1 DEAT
+2 DATE alive
+
+0 @I2145@ INDI
+1 NAME goden hammerviolence
+1 SEX F
+1 BIRT
+2 DATE 5 Moonstone 388
+1 DEAT
+2 DATE alive
+
+0 @I2146@ INDI
+1 NAME sibrek fountainstrapped
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 321
+1 DEAT
+2 DATE alive
+
+0 @I2147@ INDI
+1 NAME dumed bannerlover
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 317
+1 DEAT
+2 DATE alive
+
+0 @I2148@ INDI
+1 NAME sakzul tenderrampart
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 337
+1 DEAT
+2 DATE alive
+
+0 @I2149@ INDI
+1 NAME ral fountainclashes
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 321
+1 DEAT
+2 DATE alive
+
+0 @I2150@ INDI
+1 NAME kivish bannerprison
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 324
+1 DEAT
+2 DATE alive
+
+0 @I2151@ INDI
+1 NAME dumed foggyfurnace
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 317
+1 DEAT
+2 DATE alive
+
+0 @I2152@ INDI
+1 NAME ingish whisperedlabors
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 324
+1 DEAT
+2 DATE alive
+
+0 @I2153@ INDI
+1 NAME doren gildspin
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 328
+1 DEAT
+2 DATE alive
+
+0 @I2154@ INDI
+1 NAME lokum manorfriends
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 327
+1 DEAT
+2 DATE alive
+
+0 @I2155@ INDI
+1 NAME datan boltscages
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 332
+1 DEAT
+2 DATE alive
+
+0 @I2156@ INDI
+1 NAME ral swamringed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 336
+1 DEAT
+2 DATE alive
+
+0 @I2157@ INDI
+1 NAME mebzuth ringknight
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 322
+1 DEAT
+2 DATE alive
+
+0 @I2158@ INDI
+1 NAME sarvesh netmoral
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 308
+1 DEAT
+2 DATE alive
+
+0 @I2159@ INDI
+1 NAME kogsak shotblazes
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 318
+1 DEAT
+2 DATE alive
+
+0 @I2160@ INDI
+1 NAME aban glazedestined
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 337
+1 DEAT
+2 DATE alive
+
+0 @I2161@ INDI
+1 NAME sarvesh chamberdances
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 304
+1 DEAT
+2 DATE alive
+
+0 @I2162@ INDI
+1 NAME olin scaledpick
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 308
+1 DEAT
+2 DATE alive
+
+0 @I2163@ INDI
+1 NAME athel manornoble
+1 SEX M
+1 BIRT
+2 DATE 18 Felsite 392
+1 DEAT
+2 DATE alive
+
+0 @I2164@ INDI
+1 NAME tosid groveglazed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 334
+1 DEAT
+2 DATE alive
+
+0 @I2165@ INDI
+1 NAME dastot gravelrhymed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 318
+1 DEAT
+2 DATE alive
+
+0 @I2166@ INDI
+1 NAME ushat trumpetname
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 316
+1 DEAT
+2 DATE alive
+
+0 @I2167@ INDI
+1 NAME tobul thinsalves
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 322
+1 DEAT
+2 DATE alive
+
+0 @I2168@ INDI
+1 NAME kib tamedgold
+1 SEX F
+1 BIRT
+2 DATE 6 Moonstone 393
+1 DEAT
+2 DATE alive
+
+0 @I2169@ INDI
+1 NAME urvad gleammirrors
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 323
+1 DEAT
+2 DATE alive
+
+0 @I2170@ INDI
+1 NAME besmar craftscatches
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 327
+1 DEAT
+2 DATE alive
+
+0 @I2171@ INDI
+1 NAME etur girderglide
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 307
+1 DEAT
+2 DATE alive
+
+0 @I2172@ INDI
+1 NAME ustuth soarmirrors
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 313
+1 DEAT
+2 DATE alive
+
+0 @I2173@ INDI
+1 NAME thob paintbites
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 316
+1 DEAT
+2 DATE alive
+
+0 @I2174@ INDI
+1 NAME doren authorrampart
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 319
+1 DEAT
+2 DATE alive
+
+0 @I2175@ INDI
+1 NAME obok plankroared
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 340
+1 DEAT
+2 DATE alive
+
+0 @I2176@ INDI
+1 NAME urist tongsblunts
+1 SEX M
+1 BIRT
+2 DATE 4 Opal 395
+1 DEAT
+2 DATE alive
+
+0 @I2177@ INDI
+1 NAME vucar releaseboulder
+1 SEX F
+1 BIRT
+2 DATE 13 Obsidian 396
+1 DEAT
+2 DATE alive
+
+0 @I2178@ INDI
+1 NAME stodir agedcaves
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 315
+1 DEAT
+2 DATE alive
+
+0 @I2179@ INDI
+1 NAME lorbam ringequal
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 343
+1 DEAT
+2 DATE alive
+
+0 @I2180@ INDI
+1 NAME moldath parchedbanner
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 312
+1 DEAT
+2 DATE alive
+
+0 @I2181@ INDI
+1 NAME udil patternedstandard
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 325
+1 DEAT
+2 DATE alive
+
+0 @I2182@ INDI
+1 NAME aban moonglove
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 334
+1 DEAT
+2 DATE alive
+
+0 @I2183@ INDI
+1 NAME zuglar brainfloors
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 328
+1 DEAT
+2 DATE alive
+
+0 @I2184@ INDI
+1 NAME erith tombblush
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 326
+1 DEAT
+2 DATE alive
+
+0 @I2185@ INDI
+1 NAME mebzuth unionsmachine
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 311
+1 DEAT
+2 DATE alive
+
+0 @I2186@ INDI
+1 NAME rigoth coppertwilight
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 348
+1 DEAT
+2 DATE alive
+
+0 @I2187@ INDI
+1 NAME tekkud bridgesensed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 321
+1 DEAT
+2 DATE alive
+
+0 @I2188@ INDI
+1 NAME udil townmanor
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 328
+1 DEAT
+2 DATE alive
+
+0 @I2189@ INDI
+1 NAME udib ivoryinked
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 345
+1 DEAT
+2 DATE alive
+
+0 @I2190@ INDI
+1 NAME dumed oilcurious
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 347
+1 DEAT
+2 DATE alive
+
+0 @I2191@ INDI
+1 NAME adil gleamlashed
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 329
+1 DEAT
+2 DATE alive
+
+0 @I2192@ INDI
+1 NAME alath labordrilled
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 329
+1 DEAT
+2 DATE alive
+
+0 @I2193@ INDI
+1 NAME vutok basesmirror
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 319
+1 DEAT
+2 DATE alive
+
+0 @I2194@ INDI
+1 NAME sibrek anguishedcaves
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 345
+1 DEAT
+2 DATE alive
+
+0 @I2195@ INDI
+1 NAME rith notchlabored
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 319
+1 DEAT
+2 DATE alive
+
+0 @I2196@ INDI
+1 NAME rigoth channelviper
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 325
+1 DEAT
+2 DATE alive
+
+0 @I2197@ INDI
+1 NAME ducim sprayworked
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 349
+1 DEAT
+2 DATE alive
+
+0 @I2198@ INDI
+1 NAME amost lenspulled
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 312
+1 DEAT
+2 DATE alive
+
+0 @I2199@ INDI
+1 NAME dastot walledstrike
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 348
+1 DEAT
+2 DATE alive
+
+0 @I2200@ INDI
+1 NAME thikut cloisterglided
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 327
+1 DEAT
+2 DATE alive
+
+0 @I2201@ INDI
+1 NAME thob nationwheels
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 323
+1 DEAT
+2 DATE alive
+
+0 @I2202@ INDI
+1 NAME uhos reveredassault
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 334
+1 DEAT
+2 DATE alive
+
+0 @I2205@ INDI
+1 NAME bomrek helmedrose
+1 SEX M
+1 BIRT
+2 DATE 17 Malachite 402
+1 DEAT
+2 DATE alive
+
+0 @I2207@ INDI
+1 NAME lokum oarrubbed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 318
+1 DEAT
+2 DATE alive
+
+0 @I2208@ INDI
+1 NAME ustuth scouredaxes
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 328
+1 DEAT
+2 DATE alive
+
+0 @I2209@ INDI
+1 NAME asmel vesselwire
+1 SEX F
+1 BIRT
+2 DATE 2 Malachite 403
+1 DEAT
+2 DATE alive
+
+0 @I2210@ INDI
+1 NAME akkar parchnotched
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 318
+1 DEAT
+2 DATE alive
+
+0 @I2211@ INDI
+1 NAME ineth vesselfeed
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 317
+1 DEAT
+2 DATE alive
+
+0 @I2212@ INDI
+1 NAME zas giltyouth
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 331
+1 DEAT
+2 DATE alive
+
+0 @I2213@ INDI
+1 NAME erith figureequaled
+1 SEX M
+1 BIRT
+2 DATE 13 Moonstone 404
+1 DEAT
+2 DATE alive
+
+0 @I2214@ INDI
+1 NAME cerol stockadeblushes
+1 SEX F
+1 BIRT
+2 DATE 26 Moonstone 404
+1 DEAT
+2 DATE alive
+
+0 @I2216@ INDI
+1 NAME onul boulderfriendly
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 336
+1 DEAT
+2 DATE alive
+
+0 @I2217@ INDI
+1 NAME edzul tombstire the umbral hill
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 353
+1 DEAT
+2 DATE alive
+
+0 @I2218@ INDI
+1 NAME mosus moistengilt
+1 SEX M
+1 BIRT
+2 DATE 19 Moonstone 405
+1 DEAT
+2 DATE alive
+
+0 @I2219@ INDI
+1 NAME udal wanderedrhymed
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 323
+1 DEAT
+2 DATE alive
+
+0 @I2220@ INDI
+1 NAME kadol ceilingfly
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 336
+1 DEAT
+2 DATE alive
+
+0 @I2221@ INDI
+1 NAME amost claphall
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 346
+1 DEAT
+2 DATE alive
+
+0 @I2222@ INDI
+1 NAME ast wheeledtire
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 321
+1 DEAT
+2 DATE alive
+
+0 @I2223@ INDI
+1 NAME uzol calmmine
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 353
+1 DEAT
+2 DATE alive
+
+0 @I2224@ INDI
+1 NAME tekkud boltstwist
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 350
+1 DEAT
+2 DATE alive
+
+0 @I2225@ INDI
+1 NAME iden doorpulleys
+1 SEX M
+1 BIRT
+2 DATE 13 Slate 406
+1 DEAT
+2 DATE alive
+
+0 @I2226@ INDI
+1 NAME asmel anvilstaves
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 332
+1 DEAT
+2 DATE alive
+
+0 @I2227@ INDI
+1 NAME kumil leopardwind
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 344
+1 DEAT
+2 DATE alive
+
+0 @I2228@ INDI
+1 NAME likot rulerwheels
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 340
+1 DEAT
+2 DATE alive
+
+0 @I2229@ INDI
+1 NAME onul trammelmirrored
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 334
+1 DEAT
+2 DATE alive
+
+0 @I2230@ INDI
+1 NAME nish splatteredstockades
+1 SEX M
+1 BIRT
+2 DATE 6 Opal 407
+1 DEAT
+2 DATE alive
+
+0 @I2231@ INDI
+1 NAME atir laboredauthor
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 350
+1 DEAT
+2 DATE alive
+
+0 @I2232@ INDI
+1 NAME tekkud yawnearthen
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 350
+1 DEAT
+2 DATE alive
+
+0 @I2233@ INDI
+1 NAME ral castleelder
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 354
+1 DEAT
+2 DATE alive
+
+0 @I2234@ INDI
+1 NAME ushrir goldenpractices
+1 SEX M
+1 BIRT
+2 DATE 18 Obsidian 408
+1 DEAT
+2 DATE alive
+
+0 @I2235@ INDI
+1 NAME momuz metalsells
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 335
+1 DEAT
+2 DATE alive
+
+0 @I2236@ INDI
+1 NAME stukos bridgedmatches
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 345
+1 DEAT
+2 DATE alive
+
+0 @I2237@ INDI
+1 NAME muthkat dunesyrup
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 328
+1 DEAT
+2 DATE alive
+
+0 @I2238@ INDI
+1 NAME etur anguishedmirrors
+1 SEX M
+1 BIRT
+2 DATE 20 Opal 409
+1 DEAT
+2 DATE alive
+
+0 @I2242@ INDI
+1 NAME avuz kingdomscastles
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 342
+1 DEAT
+2 DATE alive
+
+0 @I2243@ INDI
+1 NAME tholtig bellsvises
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 351
+1 DEAT
+2 DATE alive
+
+0 @I2244@ INDI
+1 NAME vucar rimhides
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 328
+1 DEAT
+2 DATE alive
+
+0 @I2245@ INDI
+1 NAME fanu dentmoss
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 347
+1 DEAT
+2 DATE alive
+
+0 @I2247@ INDI
+1 NAME om virginpleated
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 328
+1 DEAT
+2 DATE alive
+
+0 @I2248@ INDI
+1 NAME oddom diamondrifts
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 354
+1 DEAT
+2 DATE alive
+
+0 @I2249@ INDI
+1 NAME shem icylabors
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 336
+1 DEAT
+2 DATE alive
+
+0 @I2250@ INDI
+1 NAME stakud granitesoars
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 334
+1 DEAT
+2 DATE alive
+
+0 @I2251@ INDI
+1 NAME reg axenotched
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 355
+1 DEAT
+2 DATE alive
+
+0 @I2252@ INDI
+1 NAME oddom stilledbrass
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 346
+1 DEAT
+2 DATE alive
+
+0 @I2253@ INDI
+1 NAME olin metaltangled
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 346
+1 DEAT
+2 DATE alive
+
+0 @I2254@ INDI
+1 NAME doren blockedtheaters
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 333
+1 DEAT
+2 DATE alive
+
+0 @I2255@ INDI
+1 NAME mafol shieldmansions
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 330
+1 DEAT
+2 DATE alive
+
+0 @I2256@ INDI
+1 NAME unib paintkin
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 337
+1 DEAT
+2 DATE alive
+
+0 @I2257@ INDI
+1 NAME lor wheelsletters
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 341
+1 DEAT
+2 DATE alive
+
+0 @I2258@ INDI
+1 NAME mosus racecastles
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 350
+1 DEAT
+2 DATE alive
+
+0 @I2259@ INDI
+1 NAME kumil doorgrasp
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 326
+1 DEAT
+2 DATE alive
+
+0 @I2260@ INDI
+1 NAME tholtig foldedgorges
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 332
+1 DEAT
+2 DATE alive
+
+0 @I2262@ INDI
+1 NAME udil belldwell
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 332
+1 DEAT
+2 DATE alive
+
+0 @I2263@ INDI
+1 NAME cog workpartners
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 327
+1 DEAT
+2 DATE alive
+
+0 @I2264@ INDI
+1 NAME rimtar rimfrenzies
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 335
+1 DEAT
+2 DATE alive
+
+0 @I2265@ INDI
+1 NAME zasit inkyrings
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 328
+1 DEAT
+2 DATE alive
+
+0 @I2266@ INDI
+1 NAME dumat sabretrusses
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 343
+1 DEAT
+2 DATE alive
+
+0 @I2267@ INDI
+1 NAME rakust weakcrystals
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 330
+1 DEAT
+2 DATE alive
+
+0 @I2268@ INDI
+1 NAME zuglar boltsspattered
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 328
+1 DEAT
+2 DATE alive
+
+0 @I2269@ INDI
+1 NAME nish twistoils
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 335
+1 DEAT
+2 DATE alive
+
+0 @I2270@ INDI
+1 NAME nomal kissgolds
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 343
+1 DEAT
+2 DATE alive
+
+0 @I2271@ INDI
+1 NAME degel syrupmirror
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 364
+1 DEAT
+2 DATE alive
+
+0 @I2272@ INDI
+1 NAME limul strappingochre
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 362
+1 DEAT
+2 DATE alive
+
+0 @I2273@ INDI
+1 NAME zan rackbalanced
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 331
+1 DEAT
+2 DATE alive
+
+0 @I2274@ INDI
+1 NAME onul idolroad
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 359
+1 DEAT
+2 DATE alive
+
+0 @I2275@ INDI
+1 NAME iton washedlashed
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 348
+1 DEAT
+2 DATE alive
+
+0 @I2276@ INDI
+1 NAME fikod scalyarrows
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 357
+1 DEAT
+2 DATE alive
+
+0 @I2277@ INDI
+1 NAME cerol jailinks
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 345
+1 DEAT
+2 DATE alive
+
+0 @I2278@ INDI
+1 NAME thikut holyattic
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 337
+1 DEAT
+2 DATE alive
+
+0 @I2279@ INDI
+1 NAME stakud glovecurled
+1 SEX M
+1 BIRT
+2 DATE 14 Opal 417
+1 DEAT
+2 DATE alive
+
+0 @I2280@ INDI
+1 NAME kivish phrasedracks
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 344
+1 DEAT
+2 DATE alive
+
+0 @I2281@ INDI
+1 NAME alath diamonddawned
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 339
+1 DEAT
+2 DATE alive
+
+0 @I2282@ INDI
+1 NAME zuglar beanwheels the spark of assaulting
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 356
+1 DEAT
+2 DATE alive
+
+0 @I2283@ INDI
+1 NAME solon boltsplash
+1 SEX M
+1 BIRT
+2 DATE 24 Moonstone 418
+1 DEAT
+2 DATE alive
+
+0 @I2284@ INDI
+1 NAME arat thinnedrelic
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 356
+1 DEAT
+2 DATE alive
+
+0 @I2285@ INDI
+1 NAME sula sablegrave
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 331
+1 DEAT
+2 DATE alive
+
+0 @I2290@ INDI
+1 NAME bomrek moistnesshames
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 368
+1 DEAT
+2 DATE alive
+
+0 @I2291@ INDI
+1 NAME bembul squareglazed
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 349
+1 DEAT
+2 DATE alive
+
+0 @I2292@ INDI
+1 NAME ducim ringdaggers
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 335
+1 DEAT
+2 DATE alive
+
+0 @I2293@ INDI
+1 NAME thec contesttrance
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 354
+1 DEAT
+2 DATE alive
+
+0 @I2296@ INDI
+1 NAME racon dentedparches
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 348
+1 DEAT
+2 DATE alive
+
+0 @I2298@ INDI
+1 NAME shem orderiron
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 359
+1 DEAT
+2 DATE alive
+
+0 @I2300@ INDI
+1 NAME stinthad scaldink
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 361
+1 DEAT
+2 DATE alive
+
+0 @I2301@ INDI
+1 NAME ezum flashboots
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 351
+1 DEAT
+2 DATE alive
+
+0 @I2302@ INDI
+1 NAME zilar glowlunches
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 354
+1 DEAT
+2 DATE alive
+
+0 @I2303@ INDI
+1 NAME abpa ledriddle
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 361
+1 DEAT
+2 DATE alive
+
+0 @I2304@ INDI
+1 NAME ishes blamelessadmired
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 338
+1 DEAT
+2 DATE alive
+
+0 @I2305@ INDI
+1 NAME sath taxfuture
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 357
+1 DEAT
+2 DATE alive
+
+0 @I2309@ INDI
+1 NAME lokum pagedcave
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 339
+1 DEAT
+2 DATE alive
+
+0 @I2310@ INDI
+1 NAME minkot blownkey
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 349
+1 DEAT
+2 DATE alive
+
+0 @I2311@ INDI
+1 NAME lorbam twilightmountain
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 344
+1 DEAT
+2 DATE alive
+
+0 @I2312@ INDI
+1 NAME dumat vesselshocks
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 364
+1 DEAT
+2 DATE alive
+
+0 @I2313@ INDI
+1 NAME astesh windrack
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 371
+1 DEAT
+2 DATE alive
+
+0 @I2314@ INDI
+1 NAME ushrir righteoustool
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 364
+1 DEAT
+2 DATE alive
+
+0 @I2315@ INDI
+1 NAME olon glazeyawn
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 370
+1 DEAT
+2 DATE alive
+
+0 @I2316@ INDI
+1 NAME tosid basementmountain
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 346
+1 DEAT
+2 DATE alive
+
+0 @I2317@ INDI
+1 NAME unib boltsperfect
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 367
+1 DEAT
+2 DATE alive
+
+0 @I2318@ INDI
+1 NAME zuntir bustwork
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 357
+1 DEAT
+2 DATE alive
+
+0 @I2319@ INDI
+1 NAME avuz laboredsubmerge
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 364
+1 DEAT
+2 DATE alive
+
+0 @I2320@ INDI
+1 NAME eral imagehatchet
+1 SEX F
+1 BIRT
+2 DATE 14 Malachite 425
+1 DEAT
+2 DATE alive
+
+0 @I2321@ INDI
+1 NAME aban luckytongs
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 346
+1 DEAT
+2 DATE alive
+
+0 @I2322@ INDI
+1 NAME tosid helmmysteries
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 355
+1 DEAT
+2 DATE alive
+
+0 @I2325@ INDI
+1 NAME lenge zealdelight
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 342
+1 DEAT
+2 DATE alive
+
+0 @I2326@ INDI
+1 NAME imush gildtours
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 360
+1 DEAT
+2 DATE alive
+
+0 @I2327@ INDI
+1 NAME goden tradeblocks
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 355
+1 DEAT
+2 DATE alive
+
+0 @I2328@ INDI
+1 NAME adi paintedfinder
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 357
+1 DEAT
+2 DATE alive
+
+0 @I2331@ INDI
+1 NAME cani bufftowns
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 342
+1 DEAT
+2 DATE alive
+
+0 @I2332@ INDI
+1 NAME utag trailedgames
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 375
+1 DEAT
+2 DATE alive
+
+0 @I2333@ INDI
+1 NAME zaneg clutchtheater
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 376
+1 DEAT
+2 DATE alive
+
+0 @I2334@ INDI
+1 NAME leru sizzledseize
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 377
+1 DEAT
+2 DATE alive
+
+0 @I2336@ INDI
+1 NAME asla hailblockades
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 346
+1 DEAT
+2 DATE alive
+
+0 @I2337@ INDI
+1 NAME thikut oilfists
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 361
+1 DEAT
+2 DATE alive
+
+0 @I2338@ INDI
+1 NAME momuz bannerstrapped
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 344
+1 DEAT
+2 DATE alive
+
+0 @I2339@ INDI
+1 NAME tosid viperchannel
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 349
+1 DEAT
+2 DATE alive
+
+0 @I2341@ INDI
+1 NAME urdim cityshove
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 350
+1 DEAT
+2 DATE alive
+
+0 @I2342@ INDI
+1 NAME erith holylanced
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 367
+1 DEAT
+2 DATE alive
+
+0 @I2343@ INDI
+1 NAME doren truthfulbronze
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 358
+1 DEAT
+2 DATE alive
+
+0 @I2344@ INDI
+1 NAME tekkud shrinestaff
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 345
+1 DEAT
+2 DATE alive
+
+0 @I2345@ INDI
+1 NAME bim fountainhonored
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 348
+1 DEAT
+2 DATE alive
+
+0 @I2346@ INDI
+1 NAME shem crewceilings
+1 SEX M
+1 BIRT
+2 DATE 18 Galena 434
+1 DEAT
+2 DATE alive
+
+0 @I2347@ INDI
+1 NAME muthro racecanyon
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 374
+1 DEAT
+2 DATE alive
+
+0 @I2348@ INDI
+1 NAME jal soaredraced
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 362
+1 DEAT
+2 DATE alive
+
+0 @I2349@ INDI
+1 NAME dem spottedstrikes
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 383
+1 DEAT
+2 DATE alive
+
+0 @I2352@ INDI
+1 NAME fath mobpaint
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 378
+1 DEAT
+2 DATE alive
+
+0 @I2353@ INDI
+1 NAME galel bristledfeed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 372
+1 DEAT
+2 DATE alive
+
+0 @I2354@ INDI
+1 NAME iden brightnesspillar
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 349
+1 DEAT
+2 DATE alive
+
+0 @I2355@ INDI
+1 NAME udil tomewondered
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 372
+1 DEAT
+2 DATE alive
+
+0 @I2356@ INDI
+1 NAME siti paintedplotted
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 367
+1 DEAT
+2 DATE alive
+
+0 @I2357@ INDI
+1 NAME em zealcurled
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 380
+1 DEAT
+2 DATE alive
+
+0 @I2358@ INDI
+1 NAME ocda whitecrypt the labyrinthine snarls
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 360
+1 DEAT
+2 DATE alive
+
+0 @I2359@ INDI
+1 NAME eslo pointrounded
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 384
+1 DEAT
+2 DATE alive
+
+0 @I2361@ INDI
+1 NAME meng willfulboat
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 365
+1 DEAT
+2 DATE alive
+
+0 @I2362@ INDI
+1 NAME dakost coppersneaked
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 357
+1 DEAT
+2 DATE alive
+
+0 @I2363@ INDI
+1 NAME cog dippedlens
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 364
+1 DEAT
+2 DATE alive
+
+0 @I2364@ INDI
+1 NAME mistem craftconfused
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 384
+1 DEAT
+2 DATE alive
+
+0 @I2365@ INDI
+1 NAME kivish lurearch
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 367
+1 DEAT
+2 DATE alive
+
+0 @I2366@ INDI
+1 NAME dakost keydangers
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 372
+1 DEAT
+2 DATE alive
+
+0 @I2367@ INDI
+1 NAME urvad foldedroad
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 375
+1 DEAT
+2 DATE alive
+
+0 @I2368@ INDI
+1 NAME tholtig craftslaud
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 387
+1 DEAT
+2 DATE alive
+
+0 @I2369@ INDI
+1 NAME urdim apexshot
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 376
+1 DEAT
+2 DATE alive
+
+0 @I2370@ INDI
+1 NAME udib wheeleddeath
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 368
+1 DEAT
+2 DATE alive
+
+0 @I2371@ INDI
+1 NAME urdim regalchannel
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 361
+1 DEAT
+2 DATE alive
+
+0 @I2372@ INDI
+1 NAME mestthos cudgelromanced
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 376
+1 DEAT
+2 DATE alive
+
+0 @I2373@ INDI
+1 NAME vucar helmwhims
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 378
+1 DEAT
+2 DATE alive
+
+0 @I2374@ INDI
+1 NAME asmel stasisabbey
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 356
+1 DEAT
+2 DATE alive
+
+0 @I2376@ INDI
+1 NAME lor rockrite
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 374
+1 DEAT
+2 DATE alive
+
+0 @I2377@ INDI
+1 NAME thikut crewabbeys
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 389
+1 DEAT
+2 DATE alive
+
+0 @I2378@ INDI
+1 NAME cog inkbridle
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 359
+1 DEAT
+2 DATE alive
+
+0 @I2379@ INDI
+1 NAME as crushedlashes
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 388
+1 DEAT
+2 DATE alive
+
+0 @I2380@ INDI
+1 NAME rimtar mythpaged
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 381
+1 DEAT
+2 DATE alive
+
+0 @I2381@ INDI
+1 NAME sazir rockpulled
+1 SEX M
+1 BIRT
+2 DATE 21 Sandstone 442
+1 DEAT
+2 DATE alive
+
+0 @I2382@ INDI
+1 NAME ablel bootchains
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 367
+1 DEAT
+2 DATE alive
+
+0 @I2383@ INDI
+1 NAME erush spearaction
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 379
+1 DEAT
+2 DATE alive
+
+0 @I2384@ INDI
+1 NAME thob admiredplanks
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 355
+1 DEAT
+2 DATE alive
+
+0 @I2385@ INDI
+1 NAME risen knifemen
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 363
+1 DEAT
+2 DATE alive
+
+0 @I2386@ INDI
+1 NAME rigoth ringhollow
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 378
+1 DEAT
+2 DATE alive
+
+0 @I2387@ INDI
+1 NAME tobul tattooglove
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 388
+1 DEAT
+2 DATE alive
+
+0 @I2388@ INDI
+1 NAME cerol mirroredconjures
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 381
+1 DEAT
+2 DATE alive
+
+0 @I2389@ INDI
+1 NAME tekkud sensesclasped
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 385
+1 DEAT
+2 DATE alive
+
+0 @I2391@ INDI
+1 NAME irum zealflickers
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 388
+1 DEAT
+2 DATE alive
+
+0 @I2395@ INDI
+1 NAME cerol intensecloister
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 382
+1 DEAT
+2 DATE alive
+
+0 @I2396@ INDI
+1 NAME tekkud helmkiss
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 371
+1 DEAT
+2 DATE alive
+
+0 @I2397@ INDI
+1 NAME tulon rampartgrooved
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 375
+1 DEAT
+2 DATE alive
+
+0 @I2398@ INDI
+1 NAME stukos pillarcrevice
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 374
+1 DEAT
+2 DATE alive
+
+0 @I2399@ INDI
+1 NAME catten laborlocks
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 386
+1 DEAT
+2 DATE alive
+
+0 @I2402@ INDI
+1 NAME ilum saviorwandered
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 396
+1 DEAT
+2 DATE alive
+
+0 @I2404@ INDI
+1 NAME fikod orderdikes
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 374
+1 DEAT
+2 DATE alive
+
+0 @I2405@ INDI
+1 NAME limul orbcrewed
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 386
+1 DEAT
+2 DATE alive
+
+0 @I2406@ INDI
+1 NAME ingish flagrazor
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 360
+1 DEAT
+2 DATE alive
+
+0 @I2407@ INDI
+1 NAME ezum curledplank
+1 SEX F
+1 BIRT
+2 DATE 14 Limestone 447
+1 DEAT
+2 DATE alive
+
+0 @I2408@ INDI
+1 NAME ago showncloister
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 360
+1 DEAT
+2 DATE alive
+
+0 @I2410@ INDI
+1 NAME reg windcrushed
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 391
+1 DEAT
+2 DATE alive
+
+0 @I2411@ INDI
+1 NAME fikod diamondboot
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 387
+1 DEAT
+2 DATE alive
+
+0 @I2412@ INDI
+1 NAME kivish diamondacts
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 363
+1 DEAT
+2 DATE alive
+
+0 @I2413@ INDI
+1 NAME olon oartaker
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 384
+1 DEAT
+2 DATE alive
+
+0 @I2414@ INDI
+1 NAME rith keygranite
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 383
+1 DEAT
+2 DATE alive
+
+0 @I2415@ INDI
+1 NAME uzol glovegleamed
+1 SEX M
+1 BIRT
+2 DATE 4 Slate 449
+1 DEAT
+2 DATE alive
+
+0 @I2416@ INDI
+1 NAME mebzuth mantowns
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 388
+1 DEAT
+2 DATE alive
+
+0 @I2417@ INDI
+1 NAME lorbam rhymefountains
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 393
+1 DEAT
+2 DATE alive
+
+0 @I2418@ INDI
+1 NAME sakzul squeezedpaint
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 371
+1 DEAT
+2 DATE alive
+
+0 @I2419@ INDI
+1 NAME sakzul racklabored
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 398
+1 DEAT
+2 DATE alive
+
+0 @I2420@ INDI
+1 NAME olin silverytaxes
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 391
+1 DEAT
+2 DATE alive
+
+0 @I2422@ INDI
+1 NAME ezum ringpeak
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 375
+1 DEAT
+2 DATE alive
+
+0 @I2423@ INDI
+1 NAME rith gateseal
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 383
+1 DEAT
+2 DATE alive
+
+0 @I2424@ INDI
+1 NAME ber galleystood
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 388
+1 DEAT
+2 DATE alive
+
+0 @I2426@ INDI
+1 NAME bomrek mistoiled
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 388
+1 DEAT
+2 DATE alive
+
+0 @I2427@ INDI
+1 NAME amost justicetorch
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 373
+1 DEAT
+2 DATE alive
+
+0 @I2428@ INDI
+1 NAME dastot bellbodies
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 368
+1 DEAT
+2 DATE alive
+
+0 @I2429@ INDI
+1 NAME onol paintstream
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 374
+1 DEAT
+2 DATE alive
+
+0 @I2431@ INDI
+1 NAME sota healerdrink
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 401
+1 DEAT
+2 DATE alive
+
+0 @I2432@ INDI
+1 NAME len unionyells
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 387
+1 DEAT
+2 DATE alive
+
+0 @I2434@ INDI
+1 NAME ketas twinklingflashes
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 386
+1 DEAT
+2 DATE alive
+
+0 @I2435@ INDI
+1 NAME dumed painthails
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 396
+1 DEAT
+2 DATE alive
+
+0 @I2436@ INDI
+1 NAME melbil playedblockades
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 373
+1 DEAT
+2 DATE alive
+
+0 @I2437@ INDI
+1 NAME aso windrush
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 373
+1 DEAT
+2 DATE alive
+
+0 @I2439@ INDI
+1 NAME mistem basementsalves
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 381
+1 DEAT
+2 DATE alive
+
+0 @I2440@ INDI
+1 NAME oddom honestcloisters
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 393
+1 DEAT
+2 DATE alive
+
+0 @I2441@ INDI
+1 NAME meng clappedirons
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 377
+1 DEAT
+2 DATE alive
+
+0 @I2442@ INDI
+1 NAME nish brightwheeled
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 378
+1 DEAT
+2 DATE alive
+
+0 @I2443@ INDI
+1 NAME icar growlwalk
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 379
+1 DEAT
+2 DATE alive
+
+0 @I2444@ INDI
+1 NAME lani stopclimax
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 397
+1 DEAT
+2 DATE alive
+
+0 @I2445@ INDI
+1 NAME mafol ancientseals
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 370
+1 DEAT
+2 DATE alive
+
+0 @I2446@ INDI
+1 NAME doren gatekiss
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 373
+1 DEAT
+2 DATE alive
+
+0 @I2447@ INDI
+1 NAME kikrost mindfulmine
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 402
+1 DEAT
+2 DATE alive
+
+0 @I2448@ INDI
+1 NAME reg shotpulls
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 406
+1 DEAT
+2 DATE alive
+
+0 @I2449@ INDI
+1 NAME led diamonddeer
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 397
+1 DEAT
+2 DATE alive
+
+0 @I2450@ INDI
+1 NAME kib portalshimmered
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 396
+1 DEAT
+2 DATE alive
+
+0 @I2451@ INDI
+1 NAME iton roadpuzzles
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 382
+1 DEAT
+2 DATE alive
+
+0 @I2452@ INDI
+1 NAME erush baldnesslabored
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 378
+1 DEAT
+2 DATE alive
+
+0 @I2453@ INDI
+1 NAME kel gearsilvers
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 373
+1 DEAT
+2 DATE alive
+
+0 @I2454@ INDI
+1 NAME zas respectstake
+1 SEX M
+1 BIRT
+2 DATE 26 Obsidian 458
+1 DEAT
+2 DATE alive
+
+0 @I2455@ INDI
+1 NAME perom unitedseers
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 406
+1 DEAT
+2 DATE alive
+
+0 @I2457@ INDI
+1 NAME avuz stockadefires
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 402
+1 DEAT
+2 DATE alive
+
+0 @I2458@ INDI
+1 NAME thikut handleworked
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 389
+1 DEAT
+2 DATE alive
+
+0 @I2459@ INDI
+1 NAME rossu combineweb
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 381
+1 DEAT
+2 DATE alive
+
+0 @I2460@ INDI
+1 NAME posa beardedblunts
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 406
+1 DEAT
+2 DATE alive
+
+0 @I2462@ INDI
+1 NAME nganiz shelterbrave
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 375
+1 DEAT
+2 DATE alive
+
+0 @I2464@ INDI
+1 NAME kikrost floordreamy the dangerous raptor
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 405
+1 DEAT
+2 DATE alive
+
+0 @I2465@ INDI
+1 NAME muthkat cavedell
+1 SEX M
+1 BIRT
+2 DATE 23 Felsite 460
+1 DEAT
+2 DATE alive
+
+0 @I2466@ INDI
+1 NAME shal fathercatches
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 387
+1 DEAT
+2 DATE alive
+
+0 @I2467@ INDI
+1 NAME shud netshocks
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 399
+1 DEAT
+2 DATE alive
+
+0 @I2468@ INDI
+1 NAME ithros easttreat
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 387
+1 DEAT
+2 DATE alive
+
+0 @I2469@ INDI
+1 NAME likot quakedeeps
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 401
+1 DEAT
+2 DATE alive
+
+0 @I2471@ INDI
+1 NAME inod secretorb
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 376
+1 DEAT
+2 DATE alive
+
+0 @I2472@ INDI
+1 NAME bomrek sinewpaged
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 375
+1 DEAT
+2 DATE alive
+
+0 @I2473@ INDI
+1 NAME fikod arrowrazor
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 376
+1 DEAT
+2 DATE alive
+
+0 @I2474@ INDI
+1 NAME deler channeledvirtue
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 386
+1 DEAT
+2 DATE alive
+
+0 @I2475@ INDI
+1 NAME lor stirredtowers
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 393
+1 DEAT
+2 DATE alive
+
+0 @I2476@ INDI
+1 NAME zon pillarhatchets
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 398
+1 DEAT
+2 DATE alive
+
+0 @I2477@ INDI
+1 NAME kol dishgirder
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 413
+1 DEAT
+2 DATE alive
+
+0 @I2478@ INDI
+1 NAME inod shieldbend
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 410
+1 DEAT
+2 DATE alive
+
+0 @I2479@ INDI
+1 NAME zefon gearlabors
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 386
+1 DEAT
+2 DATE alive
+
+0 @I2480@ INDI
+1 NAME ushat spreadoiled
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 380
+1 DEAT
+2 DATE alive
+
+0 @I2481@ INDI
+1 NAME oddom mirroredurn
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 392
+1 DEAT
+2 DATE alive
+
+0 @I2482@ INDI
+1 NAME thob irongrotto
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 388
+1 DEAT
+2 DATE alive
+
+0 @I2483@ INDI
+1 NAME goden claspbored
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 392
+1 DEAT
+2 DATE alive
+
+0 @I2484@ INDI
+1 NAME udil echoarmor
+1 SEX M
+1 BIRT
+2 DATE 3 Granite 466
+1 DEAT
+2 DATE alive
+
+0 @I2486@ INDI
+1 NAME reloth sidegrizzle
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 379
+1 DEAT
+2 DATE alive
+
+0 @I2487@ INDI
+1 NAME kosha savantchapels
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 415
+1 DEAT
+2 DATE alive
+
+0 @I2488@ INDI
+1 NAME donas sizzledassaults
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 388
+1 DEAT
+2 DATE alive
+
+0 @I2489@ INDI
+1 NAME mistrum rawnessplayed
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 379
+1 DEAT
+2 DATE alive
+
+0 @I2490@ INDI
+1 NAME domas ropemouths
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 404
+1 DEAT
+2 DATE alive
+
+0 @I2491@ INDI
+1 NAME mestthos chamberraked
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 416
+1 DEAT
+2 DATE alive
+
+0 @I2493@ INDI
+1 NAME guki treatyhails
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 409
+1 DEAT
+2 DATE alive
+
+0 @I2494@ INDI
+1 NAME rithma wonderponder
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 404
+1 DEAT
+2 DATE alive
+
+0 @I2495@ INDI
+1 NAME mones pickgill
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 414
+1 DEAT
+2 DATE alive
+
+0 @I2496@ INDI
+1 NAME oko boulderfly
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 387
+1 DEAT
+2 DATE alive
+
+0 @I2497@ INDI
+1 NAME eslo airscales
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 386
+1 DEAT
+2 DATE alive
+
+0 @I2498@ INDI
+1 NAME gili warmthwalks
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 406
+1 DEAT
+2 DATE alive
+
+0 @I2500@ INDI
+1 NAME hustra babychestnut
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 418
+1 DEAT
+2 DATE alive
+
+0 @I2501@ INDI
+1 NAME reg talloars
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 416
+1 DEAT
+2 DATE alive
+
+0 @I2502@ INDI
+1 NAME ustuth manorcoal
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 415
+1 DEAT
+2 DATE alive
+
+0 @I2503@ INDI
+1 NAME meng taughtseals
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 409
+1 DEAT
+2 DATE alive
+
+0 @I2504@ INDI
+1 NAME goden trailedlances
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 400
+1 DEAT
+2 DATE alive
+
+0 @I2505@ INDI
+1 NAME likot oilrasp
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 387
+1 DEAT
+2 DATE alive
+
+0 @I2507@ INDI
+1 NAME zan fatedsteels
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 404
+1 DEAT
+2 DATE alive
+
+0 @I2508@ INDI
+1 NAME ineth roughlulled
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 416
+1 DEAT
+2 DATE alive
+
+0 @I2509@ INDI
+1 NAME thikut scaldmachines
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 386
+1 DEAT
+2 DATE alive
+
+0 @I2510@ INDI
+1 NAME ezum fatalpaints the periwinkle of mountains
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 382
+1 DEAT
+2 DATE alive
+
+0 @I2511@ INDI
+1 NAME doren trampledbridges
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 396
+1 DEAT
+2 DATE alive
+
+0 @I2512@ INDI
+1 NAME aban purplemachine
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 399
+1 DEAT
+2 DATE alive
+
+0 @I2513@ INDI
+1 NAME onget paddlelenses
+1 SEX F
+1 BIRT
+2 DATE 14 Felsite 471
+1 DEAT
+2 DATE alive
+
+0 @I2514@ INDI
+1 NAME ber girderpriced
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 419
+1 DEAT
+2 DATE alive
+
+0 @I2515@ INDI
+1 NAME thob steelfire
+1 SEX M
+1 BIRT
+2 DATE 14 Moonstone 472
+1 DEAT
+2 DATE alive
+
+0 @I2516@ INDI
+1 NAME ral spiraltowns
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 397
+1 DEAT
+2 DATE alive
+
+0 @I2518@ INDI
+1 NAME nethu ancienttested
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 419
+1 DEAT
+2 DATE alive
+
+0 @I2520@ INDI
+1 NAME noloc velvetsomber
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 403
+1 DEAT
+2 DATE alive
+
+0 @I2521@ INDI
+1 NAME mong topplunged
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 397
+1 DEAT
+2 DATE alive
+
+0 @I2522@ INDI
+1 NAME lokum talklancers
+1 SEX M
+1 BIRT
+2 DATE 24 Sandstone 474
+1 DEAT
+2 DATE alive
+
+0 @I2523@ INDI
+1 NAME busla bincoast
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 418
+1 DEAT
+2 DATE alive
+
+0 @I2524@ INDI
+1 NAME cespi diamondgrasped
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 419
+1 DEAT
+2 DATE alive
+
+0 @I2525@ INDI
+1 NAME otnge ancientpulleys
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 423
+1 DEAT
+2 DATE alive
+
+0 @I2526@ INDI
+1 NAME hiner eaglegirdles
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 416
+1 DEAT
+2 DATE alive
+
+0 @I2527@ INDI
+1 NAME batow papersounds
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 423
+1 DEAT
+2 DATE alive
+
+0 @I2528@ INDI
+1 NAME erith cloisterjade
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 392
+1 DEAT
+2 DATE alive
+
+0 @I2529@ INDI
+1 NAME olon paintamber
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 423
+1 DEAT
+2 DATE alive
+
+0 @I2530@ INDI
+1 NAME dumat rulerfurnace
+1 SEX F
+1 BIRT
+2 DATE 20 Obsidian 475
+1 DEAT
+2 DATE alive
+
+0 @I2531@ INDI
+1 NAME utag weakenconflicts
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 406
+1 DEAT
+2 DATE alive
+
+0 @I2532@ INDI
+1 NAME ana plainlaw
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 417
+1 DEAT
+2 DATE alive
+
+0 @I2533@ INDI
+1 NAME saquar archhails
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 395
+1 DEAT
+2 DATE alive
+
+0 @I2534@ INDI
+1 NAME gagu braidedmuffins
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 390
+1 DEAT
+2 DATE alive
+
+0 @I2535@ INDI
+1 NAME irsi granitethunder
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 393
+1 DEAT
+2 DATE alive
+
+0 @I2536@ INDI
+1 NAME stodir splashtraded
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 402
+1 DEAT
+2 DATE alive
+
+0 @I2537@ INDI
+1 NAME rovod archshoot
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 418
+1 DEAT
+2 DATE alive
+
+0 @I2538@ INDI
+1 NAME onget temptedstandards
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 401
+1 DEAT
+2 DATE alive
+
+0 @I2539@ INDI
+1 NAME thikut crafttame
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 421
+1 DEAT
+2 DATE alive
+
+0 @I2540@ INDI
+1 NAME libash tombsanguished
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 393
+1 DEAT
+2 DATE alive
+
+0 @I2541@ INDI
+1 NAME unib wanedtrades
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 427
+1 DEAT
+2 DATE alive
+
+0 @I2542@ INDI
+1 NAME mosus junglerock
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 407
+1 DEAT
+2 DATE alive
+
+0 @I2543@ INDI
+1 NAME gorhax swelteredtiled
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 431
+1 DEAT
+2 DATE alive
+
+0 @I2544@ INDI
+1 NAME ned princessflew
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 421
+1 DEAT
+2 DATE alive
+
+0 @I2545@ INDI
+1 NAME nitho lulledmoistens
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 409
+1 DEAT
+2 DATE alive
+
+0 @I2546@ INDI
+1 NAME kanil seersculptures
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 422
+1 DEAT
+2 DATE alive
+
+0 @I2547@ INDI
+1 NAME muk lullpartners
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 414
+1 DEAT
+2 DATE alive
+
+0 @I2548@ INDI
+1 NAME athel armordawn
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 409
+1 DEAT
+2 DATE alive
+
+0 @I2549@ INDI
+1 NAME amak dangerromanced
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 428
+1 DEAT
+2 DATE alive
+
+0 @I2550@ INDI
+1 NAME obok gearedperplexes
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 425
+1 DEAT
+2 DATE alive
+
+0 @I2551@ INDI
+1 NAME zasit matchrampart
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 419
+1 DEAT
+2 DATE alive
+
+0 @I2552@ INDI
+1 NAME asmel craftedteeth
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 432
+1 DEAT
+2 DATE alive
+
+0 @I2553@ INDI
+1 NAME thob ceilingbrush
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 399
+1 DEAT
+2 DATE alive
+
+0 @I2554@ INDI
+1 NAME tikes spatteredsly
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 404
+1 DEAT
+2 DATE alive
+
+0 @I2555@ INDI
+1 NAME rushan plotpumpkin
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 431
+1 DEAT
+2 DATE alive
+
+0 @I2556@ INDI
+1 NAME rovod ancientstockades
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 418
+1 DEAT
+2 DATE alive
+
+0 @I2557@ INDI
+1 NAME as lancedflight
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 418
+1 DEAT
+2 DATE alive
+
+0 @I2558@ INDI
+1 NAME kol valleycraft
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 408
+1 DEAT
+2 DATE alive
+
+0 @I2559@ INDI
+1 NAME kadol inkysensed
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 430
+1 DEAT
+2 DATE alive
+
+0 @I2560@ INDI
+1 NAME nil temptoar
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 417
+1 DEAT
+2 DATE alive
+
+0 @I2561@ INDI
+1 NAME shorast lanceday
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 406
+1 DEAT
+2 DATE alive
+
+0 @I2562@ INDI
+1 NAME nish hazyfloor
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 412
+1 DEAT
+2 DATE alive
+
+0 @I2563@ INDI
+1 NAME monom pagerout
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 426
+1 DEAT
+2 DATE alive
+
+0 @I2564@ INDI
+1 NAME adil spatteredsacks
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 431
+1 DEAT
+2 DATE alive
+
+0 @I2565@ INDI
+1 NAME zon netconvent
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 434
+1 DEAT
+2 DATE alive
+
+0 @I2566@ INDI
+1 NAME iden tiredworks
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 410
+1 DEAT
+2 DATE alive
+
+0 @I2567@ INDI
+1 NAME rigoth narrowfortresses
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 412
+1 DEAT
+2 DATE alive
+
+0 @I2568@ INDI
+1 NAME cobim lancechapels
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 409
+1 DEAT
+2 DATE alive
+
+0 @I2569@ INDI
+1 NAME goto crestedspreads
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 438
+1 DEAT
+2 DATE alive
+
+0 @I2570@ INDI
+1 NAME urir roomygoals
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 412
+1 DEAT
+2 DATE alive
+
+0 @I2571@ INDI
+1 NAME artuk whiptongue
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 407
+1 DEAT
+2 DATE alive
+
+0 @I2572@ INDI
+1 NAME nastrisp dragonsect
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 432
+1 DEAT
+2 DATE alive
+
+0 @I2573@ INDI
+1 NAME pusap chasteclouted
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 401
+1 DEAT
+2 DATE alive
+
+0 @I2574@ INDI
+1 NAME doren scalebridges
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 433
+1 DEAT
+2 DATE alive
+
+0 @I2575@ INDI
+1 NAME rigoth trustmines
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 407
+1 DEAT
+2 DATE alive
+
+0 @I2576@ INDI
+1 NAME endok postmarked
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 414
+1 DEAT
+2 DATE alive
+
+0 @I2577@ INDI
+1 NAME tosid knightlashes
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 424
+1 DEAT
+2 DATE alive
+
+0 @I2578@ INDI
+1 NAME alath yorrock
+1 SEX M
+1 BIRT
+2 DATE 7 Galena 489
+1 DEAT
+2 DATE alive
+
+0 @I2579@ INDI
+1 NAME pado knightearly
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 422
+1 DEAT
+2 DATE alive
+
+0 @I2580@ INDI
+1 NAME arul sungveils
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 420
+1 DEAT
+2 DATE alive
+
+0 @I2581@ INDI
+1 NAME thora munchbeached
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 427
+1 DEAT
+2 DATE alive
+
+0 @I2582@ INDI
+1 NAME cog beangirders
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 412
+1 DEAT
+2 DATE alive
+
+0 @I2583@ INDI
+1 NAME zuglar plankleaf
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 436
+1 DEAT
+2 DATE alive
+
+0 @I2584@ INDI
+1 NAME tosid silverybrush
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 402
+1 DEAT
+2 DATE alive
+
+0 @I2585@ INDI
+1 NAME vabok moltenshoots
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 403
+1 DEAT
+2 DATE alive
+
+0 @I2586@ INDI
+1 NAME tirist oilshock
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 424
+1 DEAT
+2 DATE alive
+
+0 @I2588@ INDI
+1 NAME vabok vesselclears
+1 SEX F
+1 BIRT
+2 DATE 2 Opal 490
+1 DEAT
+2 DATE alive
+
+0 @I2589@ INDI
+1 NAME naspa bandplants
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 429
+1 DEAT
+2 DATE alive
+
+0 @I2590@ INDI
+1 NAME kege crevicefresh
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 404
+1 DEAT
+2 DATE alive
+
+0 @I2591@ INDI
+1 NAME oni woodenclasps
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 430
+1 DEAT
+2 DATE alive
+
+0 @I2592@ INDI
+1 NAME likot whiskertreaties
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 439
+1 DEAT
+2 DATE alive
+
+0 @I2593@ INDI
+1 NAME etur busttrussed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 433
+1 DEAT
+2 DATE alive
+
+0 @I2594@ INDI
+1 NAME eral cleantraded
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 404
+1 DEAT
+2 DATE alive
+
+0 @I2596@ INDI
+1 NAME sakzul shiplove
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 409
+1 DEAT
+2 DATE alive
+
+0 @I2597@ INDI
+1 NAME vucar seedlabored
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 435
+1 DEAT
+2 DATE alive
+
+0 @I2598@ INDI
+1 NAME dishmab monkink
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 414
+1 DEAT
+2 DATE alive
+
+0 @I2599@ INDI
+1 NAME onul wheelsfigures
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 441
+1 DEAT
+2 DATE alive
+
+0 @I2600@ INDI
+1 NAME medtob priestbells
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 438
+1 DEAT
+2 DATE alive
+
+0 @I2601@ INDI
+1 NAME endok sackfastened
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 420
+1 DEAT
+2 DATE alive
+
+0 @I2602@ INDI
+1 NAME ezum palacehealing
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 415
+1 DEAT
+2 DATE alive
+
+0 @I2603@ INDI
+1 NAME erith palaceskull
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 431
+1 DEAT
+2 DATE alive
+
+0 @I2604@ INDI
+1 NAME thikut paddlejoys
+1 SEX M
+1 BIRT
+2 DATE 26 Granite 495
+1 DEAT
+2 DATE alive
+
+0 @I2605@ INDI
+1 NAME ani pricestable
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 421
+1 DEAT
+2 DATE alive
+
+0 @I2606@ INDI
+1 NAME saquar spattertan
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 433
+1 DEAT
+2 DATE alive
+
+0 @I2607@ INDI
+1 NAME kemus copperbridge
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 416
+1 DEAT
+2 DATE alive
+
+0 @I2608@ INDI
+1 NAME lunda faithfulsnack
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 410
+1 DEAT
+2 DATE alive
+
+0 @I2609@ INDI
+1 NAME ekul stablebeast
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 412
+1 DEAT
+2 DATE alive
+
+0 @I2610@ INDI
+1 NAME sakzul coverquakes
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 431
+1 DEAT
+2 DATE alive
+
+0 @I2611@ INDI
+1 NAME kadol brightattic
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 409
+1 DEAT
+2 DATE alive
+
+0 @I2612@ INDI
+1 NAME olon punchattic
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 422
+1 DEAT
+2 DATE alive
+
+0 @I2613@ INDI
+1 NAME reg calmorbs
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 410
+1 DEAT
+2 DATE alive
+
+0 @I2614@ INDI
+1 NAME olon dawnednets
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 423
+1 DEAT
+2 DATE alive
+
+0 @I2615@ INDI
+1 NAME dastot hoarymachine
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 415
+1 DEAT
+2 DATE alive
+
+0 @I2616@ INDI
+1 NAME citu bentbird
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 437
+1 DEAT
+2 DATE alive
+
+0 @I2617@ INDI
+1 NAME kivish floorsculpted
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 416
+1 DEAT
+2 DATE alive
+
+0 @I2618@ INDI
+1 NAME litast tickattics
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 413
+1 DEAT
+2 DATE alive
+
+0 @I2619@ INDI
+1 NAME us blushedperplex
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 432
+1 DEAT
+2 DATE alive
+
+0 @I2620@ INDI
+1 NAME usel blockedscribe
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 419
+1 DEAT
+2 DATE alive
+
+0 @I2621@ INDI
+1 NAME adre braveanguished
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 418
+1 DEAT
+2 DATE alive
+
+0 @I2622@ INDI
+1 NAME itke foggyglided
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 428
+1 DEAT
+2 DATE alive
+
+0 @I2623@ INDI
+1 NAME thili cloutedrushed
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 410
+1 DEAT
+2 DATE alive
+
+0 @I2624@ INDI
+1 NAME tihsa lyricalscribe
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 431
+1 DEAT
+2 DATE alive
+
+0 @I2625@ INDI
+1 NAME risen channelpartnered
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 439
+1 DEAT
+2 DATE alive
+
+0 @I2627@ INDI
+1 NAME mafol stircastles
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 425
+1 DEAT
+2 DATE alive
+
+0 @I2628@ INDI
+1 NAME likot beardcrypts
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 448
+1 DEAT
+2 DATE alive
+
+0 @I2629@ INDI
+1 NAME ral oldtool
+1 SEX F
+1 BIRT
+2 DATE 11 Felsite 499
+1 DEAT
+2 DATE alive
+
+0 @I2630@ INDI
+1 NAME fikod bronzescraped
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 412
+1 DEAT
+2 DATE alive
+
+0 @I2631@ INDI
+1 NAME ushrir mirroredface
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 445
+1 DEAT
+2 DATE alive
+
+0 @I2632@ INDI
+1 NAME ustuth tinspattered
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 445
+1 DEAT
+2 DATE alive
+
+0 @I2633@ INDI
+1 NAME ustuth rhymetrade
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 412
+1 DEAT
+2 DATE alive
+
+0 @I2634@ INDI
+1 NAME iden rumoredchambers
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 439
+1 DEAT
+2 DATE alive
+
+0 @I2635@ INDI
+1 NAME besmar whiskerworks
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 416
+1 DEAT
+2 DATE alive
+
+0 @I2636@ INDI
+1 NAME shorast boltstube
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 416
+1 DEAT
+2 DATE alive
+
+0 @I2637@ INDI
+1 NAME tulon markwhip
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 444
+1 DEAT
+2 DATE alive
+
+0 @I2638@ INDI
+1 NAME onul giltcobra
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 449
+1 DEAT
+2 DATE alive
+
+0 @I2639@ INDI
+1 NAME nish phrasetools
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 444
+1 DEAT
+2 DATE alive
+
+0 @I2640@ INDI
+1 NAME ablel rackgems
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 451
+1 DEAT
+2 DATE alive
+
+0 @I2641@ INDI
+1 NAME rigoth windautumns
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 431
+1 DEAT
+2 DATE alive
+
+0 @I2642@ INDI
+1 NAME zulban tinchasm
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 432
+1 DEAT
+2 DATE alive
+
+0 @I2643@ INDI
+1 NAME led shotbudded
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 449
+1 DEAT
+2 DATE alive
+
+0 @I2644@ INDI
+1 NAME dastot standarddaubs
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 439
+1 DEAT
+2 DATE alive
+
+0 @I2645@ INDI
+1 NAME vabok nourishgems
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 436
+1 DEAT
+2 DATE alive
+
+0 @I2646@ INDI
+1 NAME lor hallpainted
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 421
+1 DEAT
+2 DATE alive
+
+0 @I2647@ INDI
+1 NAME erib whipdabble
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 452
+1 DEAT
+2 DATE alive
+
+0 @I2648@ INDI
+1 NAME wuspin divinetempts
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 451
+1 DEAT
+2 DATE alive
+
+0 @I2649@ INDI
+1 NAME uci riddlebands
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 440
+1 DEAT
+2 DATE alive
+
+0 @I2650@ INDI
+1 NAME gisu covenrack
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 428
+1 DEAT
+2 DATE alive
+
+0 @I2651@ INDI
+1 NAME eri spearpuzzle
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 444
+1 DEAT
+2 DATE alive
+
+0 @I2652@ INDI
+1 NAME ramstom riddledtouched
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 452
+1 DEAT
+2 DATE alive
+
+0 @I2653@ INDI
+1 NAME kudpa skinnedgood
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 430
+1 DEAT
+2 DATE alive
+
+0 @I2654@ INDI
+1 NAME imush whipweb
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 446
+1 DEAT
+2 DATE alive
+
+0 @I2655@ INDI
+1 NAME iton pageiron
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 431
+1 DEAT
+2 DATE alive
+
+0 @I2656@ INDI
+1 NAME litast paddledtunneled
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 441
+1 DEAT
+2 DATE alive
+
+0 @I2657@ INDI
+1 NAME melbil tongssabres
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 429
+1 DEAT
+2 DATE alive
+
+0 @I2658@ INDI
+1 NAME aban stopdoor
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 427
+1 DEAT
+2 DATE alive
+
+0 @I2659@ INDI
+1 NAME gipest crestedmeals
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 443
+1 DEAT
+2 DATE alive
+
+0 @I2660@ INDI
+1 NAME mistrum boldorder
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 421
+1 DEAT
+2 DATE alive
+
+0 @I2661@ INDI
+1 NAME isa singedclimates
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 438
+1 DEAT
+2 DATE alive
+
+0 @I2662@ INDI
+1 NAME tolmo woodenblocked
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 450
+1 DEAT
+2 DATE alive
+
+0 @I2663@ INDI
+1 NAME kumil joinropes
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 435
+1 DEAT
+2 DATE alive
+
+0 @I2664@ INDI
+1 NAME thob roughnessthrower
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 419
+1 DEAT
+2 DATE alive
+
+0 @I2665@ INDI
+1 NAME ezum tinfair
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 418
+1 DEAT
+2 DATE alive
+
+0 @I2666@ INDI
+1 NAME sarvesh minecalled
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 440
+1 DEAT
+2 DATE alive
+
+0 @I2667@ INDI
+1 NAME dastot bellthrew
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 426
+1 DEAT
+2 DATE alive
+
+0 @I2668@ INDI
+1 NAME lelgo armorenter
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 430
+1 DEAT
+2 DATE alive
+
+0 @I2669@ INDI
+1 NAME isa beigerites
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 433
+1 DEAT
+2 DATE alive
+
+0 @I2670@ INDI
+1 NAME ral oiledworks
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 430
+1 DEAT
+2 DATE alive
+
+0 @I2671@ INDI
+1 NAME kumil bookship
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 433
+1 DEAT
+2 DATE alive
+
+0 @I2672@ INDI
+1 NAME ineth gemclasps
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 441
+1 DEAT
+2 DATE alive
+
+0 @I2673@ INDI
+1 NAME avuz oarrare
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 429
+1 DEAT
+2 DATE alive
+
+0 @I2674@ INDI
+1 NAME urist sprypicks
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 448
+1 DEAT
+2 DATE alive
+
+0 @I2675@ INDI
+1 NAME edem archgullies
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 427
+1 DEAT
+2 DATE alive
+
+0 @I2676@ INDI
+1 NAME mosus glazedcrests
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 444
+1 DEAT
+2 DATE alive
+
+0 @I2677@ INDI
+1 NAME bembul planekey
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 455
+1 DEAT
+2 DATE alive
+
+0 @I2678@ INDI
+1 NAME zuntir stabbeddoor
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 451
+1 DEAT
+2 DATE alive
+
+0 @I2679@ INDI
+1 NAME morul wireboot
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 451
+1 DEAT
+2 DATE alive
+
+0 @I2680@ INDI
+1 NAME tekkud roughnessrocks
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 457
+1 DEAT
+2 DATE alive
+
+0 @I2681@ INDI
+1 NAME cerol gearworks
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 446
+1 DEAT
+2 DATE alive
+
+0 @I2683@ INDI
+1 NAME dumed evenwinds
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 433
+1 DEAT
+2 DATE alive
+
+0 @I2684@ INDI
+1 NAME logem torchring
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 446
+1 DEAT
+2 DATE alive
+
+0 @I2686@ INDI
+1 NAME degel sackanvils
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 431
+1 DEAT
+2 DATE alive
+
+0 @I2687@ INDI
+1 NAME aban earthpick
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 438
+1 DEAT
+2 DATE alive
+
+0 @I2688@ INDI
+1 NAME iton palacecaught
+1 SEX M
+1 BIRT
+2 DATE 22 Hematite 510
+1 DEAT
+2 DATE alive
+
+0 @I2689@ INDI
+1 NAME kado lancedpearl
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 449
+1 DEAT
+2 DATE alive
+
+0 @I2690@ INDI
+1 NAME ceru gripbutton
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 430
+1 DEAT
+2 DATE alive
+
+0 @I2691@ INDI
+1 NAME galka crazybridles
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 434
+1 DEAT
+2 DATE alive
+
+0 @I2692@ INDI
+1 NAME stalith woodenmachines
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 424
+1 DEAT
+2 DATE alive
+
+0 @I2693@ INDI
+1 NAME onec stoponions
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 454
+1 DEAT
+2 DATE alive
+
+0 @I2694@ INDI
+1 NAME goden paddleweak
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 429
+1 DEAT
+2 DATE alive
+
+0 @I2695@ INDI
+1 NAME nomal plainmerchant
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 434
+1 DEAT
+2 DATE alive
+
+0 @I2696@ INDI
+1 NAME asob oilpanthers
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 424
+1 DEAT
+2 DATE alive
+
+0 @I2697@ INDI
+1 NAME rovod glovedbridles
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 426
+1 DEAT
+2 DATE alive
+
+0 @I2698@ INDI
+1 NAME ushrir giftedabbeys
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 441
+1 DEAT
+2 DATE alive
+
+0 @I2699@ INDI
+1 NAME omsos groovedskunk
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 429
+1 DEAT
+2 DATE alive
+
+0 @I2700@ INDI
+1 NAME udil burngilt
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 453
+1 DEAT
+2 DATE alive
+
+0 @I2701@ INDI
+1 NAME etur flagteaches
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 440
+1 DEAT
+2 DATE alive
+
+0 @I2702@ INDI
+1 NAME kerleb breachedclenched
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 433
+1 DEAT
+2 DATE alive
+
+0 @I2703@ INDI
+1 NAME bekat releaseddance
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 454
+1 DEAT
+2 DATE alive
+
+0 @I2704@ INDI
+1 NAME olon helmedtwinkled
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 439
+1 DEAT
+2 DATE alive
+
+0 @I2705@ INDI
+1 NAME kel mirroredcreed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 434
+1 DEAT
+2 DATE alive
+
+0 @I2706@ INDI
+1 NAME solon portalblowing
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 436
+1 DEAT
+2 DATE alive
+
+0 @I2708@ INDI
+1 NAME lolor tacticwheel
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 427
+1 DEAT
+2 DATE alive
+
+0 @I2709@ INDI
+1 NAME ral channelworlds
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 435
+1 DEAT
+2 DATE alive
+
+0 @I2712@ INDI
+1 NAME sodel pleatedurn
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 451
+1 DEAT
+2 DATE alive
+
+0 @I2713@ INDI
+1 NAME tosid tiredabbey
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 451
+1 DEAT
+2 DATE alive
+
+0 @I2714@ INDI
+1 NAME udib hailgirder
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 429
+1 DEAT
+2 DATE alive
+
+0 @I2715@ INDI
+1 NAME erush mirrorhushes
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 458
+1 DEAT
+2 DATE alive
+
+0 @I2716@ INDI
+1 NAME nomal nosewhips
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 450
+1 DEAT
+2 DATE alive
+
+0 @I2717@ INDI
+1 NAME etur keyfleshes
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 447
+1 DEAT
+2 DATE alive
+
+0 @I2718@ INDI
+1 NAME likot gravelromance
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 463
+1 DEAT
+2 DATE alive
+
+0 @I2719@ INDI
+1 NAME kosoth goodpulleys
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 451
+1 DEAT
+2 DATE alive
+
+0 @I2720@ INDI
+1 NAME erith mineseals
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 453
+1 DEAT
+2 DATE alive
+
+0 @I2721@ INDI
+1 NAME ducim fullstandard
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 452
+1 DEAT
+2 DATE alive
+
+0 @I2722@ INDI
+1 NAME solon portalpeaked
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 453
+1 DEAT
+2 DATE alive
+
+0 @I2723@ INDI
+1 NAME lorbam whippeddies
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 433
+1 DEAT
+2 DATE alive
+
+0 @I2724@ INDI
+1 NAME athel fellpaper
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 449
+1 DEAT
+2 DATE alive
+
+0 @I2725@ INDI
+1 NAME bomrek plankrazor
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 431
+1 DEAT
+2 DATE alive
+
+0 @I2726@ INDI
+1 NAME muthkat bellfountains
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 460
+1 DEAT
+2 DATE alive
+
+0 @I2727@ INDI
+1 NAME datan hameravens
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 430
+1 DEAT
+2 DATE alive
+
+0 @I2728@ INDI
+1 NAME urdim lancedtraded
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 466
+1 DEAT
+2 DATE alive
+
+0 @I2729@ INDI
+1 NAME ilosp guardlemon
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 465
+1 DEAT
+2 DATE alive
+
+0 @I2730@ INDI
+1 NAME nikom trampledthrones
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 436
+1 DEAT
+2 DATE alive
+
+0 @I2731@ INDI
+1 NAME gal lightsplashed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 467
+1 DEAT
+2 DATE alive
+
+0 @I2732@ INDI
+1 NAME orid walkslid
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 448
+1 DEAT
+2 DATE alive
+
+0 @I2733@ INDI
+1 NAME kol handlelivid
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 440
+1 DEAT
+2 DATE alive
+
+0 @I2734@ INDI
+1 NAME rovod bootpaddles
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 444
+1 DEAT
+2 DATE alive
+
+0 @I2735@ INDI
+1 NAME ushrir veiledhames
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 452
+1 DEAT
+2 DATE alive
+
+0 @I2736@ INDI
+1 NAME obok tubebolt
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 462
+1 DEAT
+2 DATE alive
+
+0 @I2737@ INDI
+1 NAME lokum meetanvil
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 467
+1 DEAT
+2 DATE alive
+
+0 @I2738@ INDI
+1 NAME atthem lizardbaby
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 466
+1 DEAT
+2 DATE alive
+
+0 @I2739@ INDI
+1 NAME nor bustlures
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 456
+1 DEAT
+2 DATE alive
+
+0 @I2740@ INDI
+1 NAME ala mergedclean
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 443
+1 DEAT
+2 DATE alive
+
+0 @I2741@ INDI
+1 NAME senam containedgulf
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 451
+1 DEAT
+2 DATE alive
+
+0 @I2742@ INDI
+1 NAME rimtar bronzebloods
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 456
+1 DEAT
+2 DATE alive
+
+0 @I2744@ INDI
+1 NAME erush mirrorinked
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 452
+1 DEAT
+2 DATE alive
+
+0 @I2745@ INDI
+1 NAME minkot blazesarmors
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 444
+1 DEAT
+2 DATE alive
+
+0 @I2746@ INDI
+1 NAME tulon lovedrims
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 449
+1 DEAT
+2 DATE alive
+
+0 @I2748@ INDI
+1 NAME vutok figurequiet
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 453
+1 DEAT
+2 DATE alive
+
+0 @I2749@ INDI
+1 NAME lorbam westgear
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 444
+1 DEAT
+2 DATE alive
+
+0 @I2750@ INDI
+1 NAME rovod bellsandaled
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 447
+1 DEAT
+2 DATE alive
+
+0 @I2751@ INDI
+1 NAME birod bowedclout
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 466
+1 DEAT
+2 DATE alive
+
+0 @I2752@ INDI
+1 NAME ngira dawncudgels
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 442
+1 DEAT
+2 DATE alive
+
+0 @I2753@ INDI
+1 NAME imi womantaupe
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 433
+1 DEAT
+2 DATE alive
+
+0 @I2754@ INDI
+1 NAME ketas roadpassionate
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 450
+1 DEAT
+2 DATE alive
+
+0 @I2755@ INDI
+1 NAME sahthet blockedtreasure
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 464
+1 DEAT
+2 DATE alive
+
+0 @I2756@ INDI
+1 NAME zon brushedtowers
+1 SEX F
+1 BIRT
+2 DATE 5 Malachite 521
+1 DEAT
+2 DATE alive
+
+0 @I2757@ INDI
+1 NAME mistem wadedcoal
+1 SEX M
+1 BIRT
+2 DATE 11 Opal 522
+1 DEAT
+2 DATE alive
+
+0 @I2758@ INDI
+1 NAME shorast numberwire
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 443
+1 DEAT
+2 DATE alive
+
+0 @I2759@ INDI
+1 NAME uzol silverwarmth
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 468
+1 DEAT
+2 DATE alive
+
+0 @I2760@ INDI
+1 NAME likot boltyawned
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 461
+1 DEAT
+2 DATE alive
+
+0 @I2761@ INDI
+1 NAME cerol tombsbridged
+1 SEX M
+1 BIRT
+2 DATE 8 Obsidian 523
+1 DEAT
+2 DATE alive
+
+0 @I2762@ INDI
+1 NAME iden buryearths
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 453
+1 DEAT
+2 DATE alive
+
+0 @I2763@ INDI
+1 NAME etur watchedoil
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 455
+1 DEAT
+2 DATE alive
+
+0 @I2764@ INDI
+1 NAME sodel gravelsoars
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 454
+1 DEAT
+2 DATE alive
+
+0 @I2765@ INDI
+1 NAME sigun ragbeaches
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 444
+1 DEAT
+2 DATE alive
+
+0 @I2766@ INDI
+1 NAME tekkud priceglaze
+1 SEX M
+1 BIRT
+2 DATE 5 Moonstone 524
+1 DEAT
+2 DATE alive
+
+0 @I2767@ INDI
+1 NAME erush coveredbooks
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 444
+1 DEAT
+2 DATE alive
+
+0 @I2768@ INDI
+1 NAME ducim inkedyells
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 456
+1 DEAT
+2 DATE alive
+
+0 @I2769@ INDI
+1 NAME zaneg glovedgleam
+1 SEX M
+1 BIRT
+2 DATE 7 Hematite 525
+1 DEAT
+2 DATE alive
+
+0 @I2770@ INDI
+1 NAME siga urgetruss
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 467
+1 DEAT
+2 DATE alive
+
+0 @I2771@ INDI
+1 NAME lasiv claspplants
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 470
+1 DEAT
+2 DATE alive
+
+0 @I2772@ INDI
+1 NAME donu blockedcurled
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 441
+1 DEAT
+2 DATE alive
+
+0 @I2773@ INDI
+1 NAME stram dimplepainted
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 466
+1 DEAT
+2 DATE alive
+
+0 @I2774@ INDI
+1 NAME zon towerconjured
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 454
+1 DEAT
+2 DATE alive
+
+0 @I2775@ INDI
+1 NAME iden metalamused
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 475
+1 DEAT
+2 DATE alive
+
+0 @I2776@ INDI
+1 NAME tosid scrapedwhip
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 470
+1 DEAT
+2 DATE alive
+
+0 @I2777@ INDI
+1 NAME ushat gearedsilver
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 454
+1 DEAT
+2 DATE alive
+
+0 @I2778@ INDI
+1 NAME thikut sprayedring
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 440
+1 DEAT
+2 DATE alive
+
+0 @I2779@ INDI
+1 NAME minkot earthrub
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 452
+1 DEAT
+2 DATE alive
+
+0 @I2780@ INDI
+1 NAME zuglar fencedfortresses
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 456
+1 DEAT
+2 DATE alive
+
+0 @I2781@ INDI
+1 NAME erush seedstake
+1 SEX M
+1 BIRT
+2 DATE 4 Hematite 526
+1 DEAT
+2 DATE alive
+
+0 @I2782@ INDI
+1 NAME adith trimback
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 440
+1 DEAT
+2 DATE alive
+
+0 @I2783@ INDI
+1 NAME ini rainfair
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 454
+1 DEAT
+2 DATE alive
+
+0 @I2784@ INDI
+1 NAME libash chastechannels
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 442
+1 DEAT
+2 DATE alive
+
+0 @I2785@ INDI
+1 NAME sazir armorblue
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 465
+1 DEAT
+2 DATE alive
+
+0 @I2786@ INDI
+1 NAME catten scarletmirror
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 449
+1 DEAT
+2 DATE alive
+
+0 @I2787@ INDI
+1 NAME tadin fernhelp
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 452
+1 DEAT
+2 DATE alive
+
+0 @I2788@ INDI
+1 NAME kamven rockdoors
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 455
+1 DEAT
+2 DATE alive
+
+0 @I2789@ INDI
+1 NAME deduk contestrock
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 473
+1 DEAT
+2 DATE alive
+
+0 @I2790@ INDI
+1 NAME minkot ringrelieves
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 454
+1 DEAT
+2 DATE alive
+
+0 @I2792@ INDI
+1 NAME tosid dippedships
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 463
+1 DEAT
+2 DATE alive
+
+0 @I2793@ INDI
+1 NAME tosid gemblazed
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 448
+1 DEAT
+2 DATE alive
+
+0 @I2794@ INDI
+1 NAME nil urnjewel
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 465
+1 DEAT
+2 DATE alive
+
+0 @I2795@ INDI
+1 NAME solon paddlepleats
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 481
+1 DEAT
+2 DATE alive
+
+0 @I2796@ INDI
+1 NAME ama breachelbow
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 455
+1 DEAT
+2 DATE alive
+
+0 @I2797@ INDI
+1 NAME quosa ringoxen
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 454
+1 DEAT
+2 DATE alive
+
+0 @I2798@ INDI
+1 NAME kost sloshfang
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 449
+1 DEAT
+2 DATE alive
+
+0 @I2799@ INDI
+1 NAME xaki smiletaxes
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 465
+1 DEAT
+2 DATE alive
+
+0 @I2800@ INDI
+1 NAME kem clincheddipped
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 479
+1 DEAT
+2 DATE alive
+
+0 @I2801@ INDI
+1 NAME lin cookedinns
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 478
+1 DEAT
+2 DATE alive
+
+0 @I2802@ INDI
+1 NAME bora scartrue
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 467
+1 DEAT
+2 DATE alive
+
+0 @I2803@ INDI
+1 NAME kunod enjoygrasped
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 468
+1 DEAT
+2 DATE alive
+
+0 @I2804@ INDI
+1 NAME mistrum distanceallied
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 466
+1 DEAT
+2 DATE alive
+
+0 @I2805@ INDI
+1 NAME kamca squidwheats
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 452
+1 DEAT
+2 DATE alive
+
+0 @I2806@ INDI
+1 NAME justras evencover
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 467
+1 DEAT
+2 DATE alive
+
+0 @I2807@ INDI
+1 NAME rith auracrafts
+1 SEX F
+1 BIRT
+2 DATE 14 Granite 535
+1 DEAT
+2 DATE alive
+
+0 @I2808@ INDI
+1 NAME kivish dipcrafts
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 455
+1 DEAT
+2 DATE alive
+
+0 @I2809@ INDI
+1 NAME morul inkedpicks
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 458
+1 DEAT
+2 DATE alive
+
+0 @I2810@ INDI
+1 NAME sakzul soaredceilings
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 475
+1 DEAT
+2 DATE alive
+
+0 @I2811@ INDI
+1 NAME pundik roofbuttons
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 465
+1 DEAT
+2 DATE alive
+
+0 @I2812@ INDI
+1 NAME idur cloisteredanvils
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 455
+1 DEAT
+2 DATE alive
+
+0 @I2813@ INDI
+1 NAME inid laudreigns
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 476
+1 DEAT
+2 DATE alive
+
+0 @I2814@ INDI
+1 NAME nocam owlescorts
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 472
+1 DEAT
+2 DATE alive
+
+0 @I2815@ INDI
+1 NAME dixil silkenpolished
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 483
+1 DEAT
+2 DATE alive
+
+0 @I2816@ INDI
+1 NAME esxac monkdusk
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 487
+1 DEAT
+2 DATE alive
+
+0 @I2817@ INDI
+1 NAME hathur appearedgrizzle
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 471
+1 DEAT
+2 DATE alive
+
+0 @I2818@ INDI
+1 NAME ecod wringdrinkers
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 458
+1 DEAT
+2 DATE alive
+
+0 @I2819@ INDI
+1 NAME adu intenseclod
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 482
+1 DEAT
+2 DATE alive
+
+0 @I2820@ INDI
+1 NAME racon scorchingbristled
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 472
+1 DEAT
+2 DATE alive
+
+0 @I2822@ INDI
+1 NAME litast lusterboats
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 492
+1 DEAT
+2 DATE alive
+
+0 @I2823@ INDI
+1 NAME minkot lulledochre
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 461
+1 DEAT
+2 DATE alive
+
+0 @I2824@ INDI
+1 NAME amost rackbanners
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 475
+1 DEAT
+2 DATE alive
+
+0 @I2825@ INDI
+1 NAME sibrek bootbolts
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 461
+1 DEAT
+2 DATE alive
+
+0 @I2826@ INDI
+1 NAME erush whipshocked
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 484
+1 DEAT
+2 DATE alive
+
+0 @I2827@ INDI
+1 NAME obok ochrereleased
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 468
+1 DEAT
+2 DATE alive
+
+0 @I2828@ INDI
+1 NAME shorast packgates
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 477
+1 DEAT
+2 DATE alive
+
+0 @I2829@ INDI
+1 NAME stukos northchamber
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 485
+1 DEAT
+2 DATE alive
+
+0 @I2830@ INDI
+1 NAME kubuk oillances
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 459
+1 DEAT
+2 DATE alive
+
+0 @I2831@ INDI
+1 NAME dastot minedrums
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 475
+1 DEAT
+2 DATE alive
+
+0 @I2832@ INDI
+1 NAME feb cobaltcrafts
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 490
+1 DEAT
+2 DATE alive
+
+0 @I2833@ INDI
+1 NAME isi lockurns
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 470
+1 DEAT
+2 DATE alive
+
+0 @I2834@ INDI
+1 NAME opra rabbitfang
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 487
+1 DEAT
+2 DATE alive
+
+0 @I2835@ INDI
+1 NAME rakfil babyquest
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 483
+1 DEAT
+2 DATE alive
+
+0 @I2836@ INDI
+1 NAME kamven dentchanted
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 485
+1 DEAT
+2 DATE alive
+
+0 @I2837@ INDI
+1 NAME iddim leafystyles
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 473
+1 DEAT
+2 DATE alive
+
+0 @I2838@ INDI
+1 NAME rismal pumpkinwound
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 469
+1 DEAT
+2 DATE alive
+
+0 @I2839@ INDI
+1 NAME fel snuggleblankets
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 495
+1 DEAT
+2 DATE alive
+
+0 @I2840@ INDI
+1 NAME osmah notchcloisters
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 465
+1 DEAT
+2 DATE alive
+
+0 @I2841@ INDI
+1 NAME kesp marksculpted
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 488
+1 DEAT
+2 DATE alive
+
+0 @I2842@ INDI
+1 NAME zon gemcrosses
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 484
+1 DEAT
+2 DATE alive
+
+0 @I2843@ INDI
+1 NAME risen lancedwinters
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 493
+1 DEAT
+2 DATE alive
+
+0 @I2844@ INDI
+1 NAME ustra rimvessels
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 488
+1 DEAT
+2 DATE alive
+
+0 @I2845@ INDI
+1 NAME bir glitterwhisks
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 471
+1 DEAT
+2 DATE alive
+
+0 @I2846@ INDI
+1 NAME thrun safelost
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 468
+1 DEAT
+2 DATE alive
+
+0 @I2847@ INDI
+1 NAME urvad partnerclasps
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 495
+1 DEAT
+2 DATE alive
+
+0 @I2848@ INDI
+1 NAME id razorname
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 466
+1 DEAT
+2 DATE alive
+
+0 @I2849@ INDI
+1 NAME oddom swelterarch
+1 SEX F
+1 BIRT
+2 DATE 1 Granite 488
+1 DEAT
+2 DATE alive
+
+0 @I2850@ INDI
+1 NAME minkot taxportals
+1 SEX M
+1 BIRT
+2 DATE 1 Granite 488
+1 DEAT
+2 DATE alive
+

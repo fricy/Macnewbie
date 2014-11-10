@@ -1,0 +1,42 @@
+File Exlcusion List
+Any file name inside square brackets will not show up in LNP's utilities list.
+
+World Viewer Exclusions
+(32/64 bit version chosen and launched by script)
+[DFWV.exe]
+
+LegendsExportProcessor Exclusions
+[7z.exe]
+[optipng.exe]
+[_Make Satellite Map.bat]
+
+DFterm3 Exclusions
+[dfterm3-0.3.1-setup.exe]
+
+Quickfort Exclusions
+[w9xpopen.exe]
+[qfconvert.exe]
+
+SoundSense Exclusions
+[soundSense.jar]
+[jl1.0.jar]
+[mp3spi1.9.4.jar]
+[jogg-0.0.7.jar]
+[jorbis-0.0.15.jar]
+[vorbisspi1.0.3.jar]
+[tritonus_share.jar]
+[commons-codec-1.4.jar]
+[jansi-1.8.jar]
+[jl1.0.1.jar]
+[mp3spi1.9.5.jar]
+[autoUpdater.jar]
+
+Misc exclusions
+[cloning-1.7.4.jar]
+[gui.jar]
+[jkeymaster-1.0-SNAPSHOT.jar]
+[objenesis-1.2.jar]
+[qtjambi-4.7.0.jar]
+[qtjambi-macosx-gcc-4.7.0.jar]
+[qtjambi-util-4.7.0.jar]
+[jna-3.2.7.jar]

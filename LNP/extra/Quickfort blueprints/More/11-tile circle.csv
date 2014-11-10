@@ -1,0 +1,13 @@
+ #dig start(6;6;Center tile) 11-tile circle
+         d d d         #
+     d d d d d d d     #
+   d d d d d d d d d   #
+   d d d d d d d d d   #
+ d d d d d d d d d d d #
+ d d d d d d d d d d d #
+ d d d d d d d d d d d #
+   d d d d d d d d d   #
+   d d d d d d d d d   #
+     d d d d d d d     #
+         d d d         #
+ # # # # # # # # # # # #

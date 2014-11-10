@@ -1,0 +1,233 @@
+Written by Magitrek -- http://www.bay12forums.com/smf/index.php?topic=129962.0;topicseen
+
+
+Since I've found the wiki doesn't go very in depth on this topic, I've decided to make my own mini-guide. This guide will go more in-depth, and assumes a basic knowledge of adventure mode (from http://dwarffortresswiki.org/index.php/DF2012:Adventurer_mode). 
+
+This guide contains a great deal of the knowledge I've accumulated over my years of playing adventure mode in addition to some stuff from the wiki. I've also made it to spoil as little of the “story” as possible, so that new players might find out for themselves.
+
+Starting out: World Gen, Skills, Attributes, and Location
+
+Size:
+
+The size of the world you use for adventure mode can be any size, as long as your computer can handle it. That said, I find that a medium sized map provides a great deal of explorable places without hurting performance much. The problem with pocket maps is that it's very difficult to get all the features you want in one map. In addition, it's much easier for them to get quite messed up in world generation. For example, all sentient beings could be wiped out, allowing to adventure only as an outsider, or other even worse consequences could befall the world. While this is technically possible in larger maps, it's quite rare.
+
+Age:
+
+In dwarf fortress, as well as in real life, age is a delicate subject. If you don't let your world mature enough, you won't have as many adventuring sites to explore, nor as many vampires and the like. On the other hand, if you let your world become too mature, you may find that many towns, villages, and cities have been nearly completely abandoned. I generally choose 125 years, as large cities, towers, tombs, and vampires will have time to spring up, but most places will still be well-populated.
+
+Number of Civilizations:
+
+If you like to read the legends (I very much do), having a large amount of civilizations will make things interesting. It will also generally provide you with more possible quests. On the other hand, there will be more different types of currency, which is rather annoying. In addition, a civilization with a large sovereignty will generally have more item variety, which is advantageous if you plan to wear armor and use weapons (I generally don't). If you don't shop much, or carry around gems instead of money, the first point can be largely irrelevant. I generally set it to high, as the very high setting can cause rapid-fire world-rejections.
+
+Maximum Number of Sites:
+
+A pretty straight-forward option. Do you like encounters and quests? Set it on a higher setting. Don't like encounters and quests? Lower setting. I generally set it to high, as very high, again, can have adverse effects upon world generation.
+
+Number of Beasts:
+
+If you enjoy that constant source of food that large beasts provide, set this to a higher setting. If you dislike the encounters, set it lower.
+
+Natural Savagery:
+
+Another pretty straight-forward option, but with a twist. Although allowing for a low savagery causes more cities to pop up, these cities will tend to have more abandoned spots, resulting in a net loss of shops and population. I generally leave the savagery on medium, sometimes changing it to high or low.
+
+Mineral Occurrence:
+
+I've noticed that this doesn't seem to really effect the presence of metallic goods in a civilization, as that depends solely on the development of the civilization, but it does affect the amount of goods, if a civilization does have them. I generally set it to frequent.
+
+
+Adventuring locations:
+
+These make adventuring interesting. In general, it's nice to have enough to keep you occupied for a while in-between the low levels where you'll be fighting warlords and such and fighting megabeasts and the like.
+
+Towers (I)
+These large structures generally start appearing around the 50-year mark, and your world is almost certain to contain one by year 100. 
+	Towers contain 5 things of interest to an adventurer. 
+1. As per almost any other location, there will probably be some loot lying around
+2. Story information. There will be a number of books, slabs, statues, and the like lying around, most of which will be humorously named and contain records of events.
+3. Necromancers. These fellows are quite tough, and have learned the secrets of life and death. They would be pretty easy by themselves if it weren't for the 
+4. MASSIVE HORDES OF ZOMBIES. Zombies dwarves, zombie elves, zombie goblins, zombie humans, zombie turkeys, zombie arms, zombie skins, zombie farmers, zombie beekeepers, and more, are all quite hungry for your flesh.
+5. At the top of the tower, there will be a named slab that you can read to learn the secrets of life and death, assuming you took a point in reading (you did, didn't you?)
+Don't go here until you've got quite a bit of adventuring under your belt.
+
+Tombs(0)
+These will often appear a little bit sooner than towers. You should generally attempt these before before towers, as it will give you practice with fighting the same type of monster.
+
+	Towers contain things very similar to towers, with two notable exceptions: the necromancers are replaced with mummies with far fewer allies supporting them, and no books/slabs. The one difficulty with mummies, in addition to them having all the annoyance of being undead, is the curses they place upon you. 
+
+
+Dark Goblin Fortresses (pi)
+
+Contain lots of goblins. The brighter the color, the more goblins. Roughly the same difficulty as tombs.
+
+That's about it for world generation.
+
+
+
+Building your character:
+I will assume demigod for this, as it's really not worth the time to grind a character to a point where you can actually do things well.
+
+Explanation of Attributes and Skills: http://dwarffortresswiki.org/index.php/DF2012:Adventurer_mode
+Tip: Remember that you can lower attributes to below average to get a few points back.
+
+Build tips & strategies:
+Always put one point in reading. (You'll find out why eventually)
+Put on point in swimming if you don't want to be inconvenienced by rivers for a while.
+
+-Strategies:
+
+Strategy 1: Simple, yet effective, the 15-12
+
+15 points into an offensive skill (weapon or melee)
+12 points into a pure defense skill (not armor-user)
+6 point reading
+6 point swimming
+
+0 left-over points
+
+This is the build I use the most. It has proven its effectiveness time and time again
+
+
+Strategy 2: Simple, and safer, the 12-15
+
+12 points into an offensive skill
+15 points into a pure defense skill (not armor-user)
+6 point reading
+6 point swimming
+
+0 left-over points
+
+Also a staple build of mine.
+
+Strategy 3: Mixed Defense: 12-11-11
+
+12 points into an offensive skill
+11 points into a defensive skill (can be armor-user)
+11 points into a different defensive skill
+6 point reading
+6 point swimming
+6 point other skill (I generally choose observer)
+
+This build is more reliable for low level encounters, but may fail in higher-level ones
+
+Strategy 4: Stoning: 12-11-11
+
+12 points throwing
+11 points ambushing
+11 points knapping
+6 point reading
+6 point swimming
+6 point observer (or other)
+
+Sharpen rocks, then throw them. It is not as slow as using ranged weapons, and will get you through a lot of encounters. Personally, I find this build to be extremely effective, but a bit boring to play.
+
+I call these strategies because they are very open to customization with alternate skills and attributes. Here are some solid builds I use.
+
+-Builds:
+
+Build 1: Generic Swordsman/Axeman
+15-12, 12-15, or 12-11-11 with dodge or shield-user defense
+If you choose shield-user, wear armor to boost armor-user skill
+Attributes: Superior Strength, Superior Agility or Toughness, depending on defensive skill, High Spatial sense, and High Kinesthetic Sense.
+
+Very effective against pretty much anything, as swords and axes can do a number of attacks.
+
+Build 2: Generic Hammerman
+12-11-11 With armor-user and shield-user
+Attributes: Superior Strength, Superior Agility or Toughness, depending on defensive skill, High Spatial sense, and High Kinesthetic Sense.
+
+Varies between extremely effective and not effective at all depending on enemy type.
+
+Build 3: Commander Ranger
+15-12 With dodge as defensive
+Attributes: Superior Agility, Superior Focus, High Spatial Sense, High Social Awareness
+
+As an archer, followers are absolutely essential. Social awareness allows you to have a ton of them.
+
+Build 4: My favorite: Chuck Norris
+15-12 With dodge defensive and kicker offensive
+Attributes: Superior Strength, Superior Agility, High Spatial sense, and High Kinesthetic Sense.
+
+This build is ridiculously fun to play. Kicking people off of cliffs is simply wonderful. Wear armor to prevent the odd arrow from disabling you. Leather works well.
+
+Remember to experiment whenever you feel like it. These builds should not be restrictive.
+
+-Races:
+
+Humans are the largest and heaviest playable race. I prefer to build them either as Chuck Norris or a Commander ranger
+
+Elves are slightly smaller than humans. I generally play them as a Generic Swordelf or Commander Ranger
+
+Dwarves are the same size as elves, and can enter martial trances which greatly aid their combat skills when surrounded by enemies. I generally play them as Generic Hammerdwarf, Chuck Norris, or Generic Swordwarf.
+
+
+Gameplay:
+
+Before I say anything else, I'd like to point out
+
+THE MOST IMPORTANT KEY IN COMBAT:
+Some might argue that it is a, for aiming attacks. While this key is certainly useful, most players compromise it's usefulness by not pressing this other key. What is this key, you ask? It is the 'l' key, the humble look command. Why, you ask, is 'l' the most important key? I'll make a nice list for you
+
+1. It allows you to see the wounds of an opponent
+2. It allows you to see which hand an opponent is holding their weapon and shield in (HUGELY IMPORTANT FOR AIMING ATTACKS)
+3. It allows you to get an idea of their stats from their appearance (enormous and highly muscled will be tougher than thin and scrawny, but thin and scrawny will be more agile)
+4. It allows you to see both the enemy's equipment and its quality. My most recent adventurer death could have prevented, had I simply checked the quality of the enemy's spear, and his appearance.
+5. It allows you to look for items to throw. When engaging a tough melee enemy, it is often judicious to throw things at them, prior to engaging, in order to soften them up.
+
+-Combat:
+
+--Equipment:
+Generally up to you as to what you want to wear. Balance speed and defense as best you can and always wear a helmet.
+
+--Unit Priority:
+Eliminate ranged units, then the boss, then regular units. If a regular unit attacks you, smash or cut off one of his legs and then continue towards the rangers or boss unit.
+
+–Body Part Attack Order:
+Ranged:
+1. Weapon Arm/Hand
+2. Head
+Melee(Regular)
+1. Shield Arm/Hand
+2. Weapon Arm/Hand
+3. Head
+Boss
+1. Weapon Arm/Hand
+2. Shield Arm/Hand
+3. Upper Body
+4. Lower Body (only if a good shot to the head hasn't become available)
+5. Head
+Non-Humanoid (General combat)
+1. Disarm completely (remove talons, smash teeth, etc.)
+2. Prevent movement (remove legs, wings, or wrestle)
+3. Generate pain and/or bleeding (body, upper body, lower body, nose, specific body parts)
+4. Aim for head or equivalent or generate more bleeding for execution
+--When fighting multiple enemies:
+Do one of the following to an enemy, then repeat for the next. Once all are incapacitated, go in for the killing blows
+1. Remove a limb
+2. Cause extreme pain (nose, lower body, fingers, toes)
+3. Cause them to fall down (legs, upper body)
+--Wrestling Tips:
+1. As a non-wrestler, chokeholds are your friend. They allow you to finish tough enemies much quicker.
+2. Throwing works well if you have something to throw the opponent into.
+
+Tip: If you're about to engage an enemy with a ridiculous weapon, such as a masterwork steel spear, it might be a good idea to try and wrestle it away from him.
+
+-Survival
+
+--Food & Water: whenever you cross a river, refill your bag/waterskin and kill/butcher a nearby animal to refill food
+
+--Don't take on challenges way above your skill level / gear level
+
+-Playing as an impure humanoid
+
+Playing as an X-thrope/were-X:
+To become an X-thrope/were-X, simply get bitten by a were-X by cutting off its arms to increase its chance of biting. You will play as normal, but transform at night, becoming unnoticed by other creatures of the night, but attacked by townsfolk
+
+Playing as a Vampire:
+To become a Vampire, simply drink the blood of another vampire. You can always pick up the blood and then drink it at a later date if you so desire. You gain a boost in stats, but they then become fixed. You can no longer become hungry or thirst for water, but you must periodically feed on civilians (press e over them while they're unconscious). If you get caught feeding, you will be attacked.
+
+Playing as a Thrall:
+Similar to Vampirism.  You contract it from a mist in the evil parts of the world, so it's advisable to send a follower in first to make sure that the mist will make you a thrall. Becoming a thrall grants an enormous boost to your survivability.
+
+Playing as a Necromancer:
+Summon undead minions! If you have minions with you, townsfolk will be hostile to you, but you can dismiss them by interacting with them, and then wander into town as normal. In addition, DO NOT TRAVEL WITH TONS OF MINIONS. Encounter sizes are based on the number of followers you have, so having 200 random body parts mixed in with humanoids and whatnot will cause a ridiculous amount of enemies to spawn. This was how I lost my first vampire/necromancer.

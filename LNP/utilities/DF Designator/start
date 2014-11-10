@@ -1,0 +1,9 @@
+#!/bin/sh
+hash java 2>&- || { 
+	echo >&2 "Designator requires java but it's not installed. Aborting."; 
+	exit 1; 
+}
+
+cd "$(dirname "$0")"
+
+java -XstartOnFirstThread -d32 -Djava.util.logging.config.file=logging.properties -cp .:jars/* cz.zweistein.df.designator.GUI.RunGUI

@@ -1,0 +1,3 @@
+NB - DF Hack has the 'digcircle'command, which may replicate some of this functionality.  I've included it anyway, because more options is good!
+
+-PeridexisErrant

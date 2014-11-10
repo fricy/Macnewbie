@@ -1,0 +1,14 @@
+ #dig start(7;7;Center tile) 13-tile circle
+           d d d           #
+       d d d d d d d       #
+     d d d d d d d d d     #
+   d d d d d d d d d d d   #
+   d d d d d d d d d d d   #
+ d d d d d d d d d d d d d #
+ d d d d d d d d d d d d d #
+ d d d d d d d d d d d d d #
+   d d d d d d d d d d d   #
+   d d d d d d d d d d d   #
+     d d d d d d d d d     #
+       d d d d d d d       #
+           d d d           #
