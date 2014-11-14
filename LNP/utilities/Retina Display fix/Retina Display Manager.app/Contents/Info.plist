@@ -4,6 +4,8 @@
 <dict>
 <!--	<key>CFBundleIcon</key>
 	<string>Icon_512x512.png</string> -->
+	<key>CFBundleIconFile</key>
+	<string>Icon_512x512.icns</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleSignature</key>
